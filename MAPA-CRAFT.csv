@@ -1,0 +1,2491 @@
+item_id;item_name;Categoria (preencha: Arma/Armadura/etc);LEATHER;CLOTH;METALBAR;PLANKS;Livro;Porcentagem Diario
+T4_BAG;Adept's Bag;etc;8;8;;;Tinker's;0,1
+T4_BAG@1;Adept's Bag .1;etc;8;8;;;Tinker's;0,2
+T4_BAG@2;Adept's Bag .2;etc;8;8;;;Tinker's;0,4
+T4_BAG@3;Adept's Bag .3;etc;8;8;;;Tinker's;0,8
+T4_BAG@4;Adept's Bag .4;etc;8;8;;;Tinker's;1,6
+T5_BAG;Expert's Bag;etc;8;8;;;Tinker's;0,2
+T5_BAG@1;Expert's Bag .1;etc;8;8;;;Tinker's;0,4
+T5_BAG@2;Expert's Bag .2;etc;8;8;;;Tinker's;0,8
+T5_BAG@3;Expert's Bag .3;etc;8;8;;;Tinker's;1,6
+T5_BAG@4;Expert's Bag .4;etc;8;8;;;Tinker's;3,2
+T6_BAG;Master's Bag;etc;8;8;;;Tinker's;0,3
+T6_BAG@1;Master's Bag .1;etc;8;8;;;Tinker's;0,6
+T6_BAG@2;Master's Bag .2;etc;8;8;;;Tinker's;1,2
+T6_BAG@3;Master's Bag .3;etc;8;8;;;Tinker's;2,4
+T6_BAG@4;Master's Bag .4;etc;8;8;;;Tinker's;4,8
+T7_BAG;Grandmaster's Bag;etc;8;8;;;Tinker's;0,36
+T7_BAG@1;Grandmaster's Bag .1;etc;8;8;;;Tinker's;0,72
+T7_BAG@2;Grandmaster's Bag .2;etc;8;8;;;Tinker's;1,45
+T7_BAG@3;Grandmaster's Bag .3;etc;8;8;;;Tinker's;2,9
+T7_BAG@4;Grandmaster's Bag .4;etc;8;8;;;Tinker's;5,82
+T8_BAG;Elder's Bag;etc;8;8;;;Tinker's;0,38
+T8_BAG@1;Elder's Bag .1;etc;8;8;;;Tinker's;0,76
+T8_BAG@2;Elder's Bag .2;etc;8;8;;;Tinker's;1,52
+T8_BAG@3;Elder's Bag .3;etc;8;8;;;Tinker's;3,04
+T8_BAG@4;Elder's Bag .4;etc;8;8;;;Tinker's;6,08
+T4_BAG_INSIGHT;Adept's Satchel of Insight;etc;8;8;;;Tinker's;0,1
+T4_BAG_INSIGHT@1;Adept's Satchel of Insight .1;etc;8;8;;;Tinker's;0,2
+T4_BAG_INSIGHT@2;Adept's Satchel of Insight .2;etc;8;8;;;Tinker's;0,4
+T4_BAG_INSIGHT@3;Adept's Satchel of Insight .3;etc;8;8;;;Tinker's;0,8
+T4_BAG_INSIGHT@4;Adept's Satchel of Insight .4;etc;8;8;;;Tinker's;1,6
+T5_BAG_INSIGHT;Expert's Satchel of Insight;etc;8;8;;;Tinker's;0,2
+T5_BAG_INSIGHT@1;Expert's Satchel of Insight .1;etc;8;8;;;Tinker's;0,4
+T5_BAG_INSIGHT@2;Expert's Satchel of Insight .2;etc;8;8;;;Tinker's;0,8
+T5_BAG_INSIGHT@3;Expert's Satchel of Insight .3;etc;8;8;;;Tinker's;1,6
+T5_BAG_INSIGHT@4;Expert's Satchel of Insight .4;etc;8;8;;;Tinker's;3,2
+T6_BAG_INSIGHT;Master's Satchel of Insight;etc;8;8;;;Tinker's;0,3
+T6_BAG_INSIGHT@1;Master's Satchel of Insight .1;etc;8;8;;;Tinker's;0,6
+T6_BAG_INSIGHT@2;Master's Satchel of Insight .2;etc;8;8;;;Tinker's;1,2
+T6_BAG_INSIGHT@3;Master's Satchel of Insight .3;etc;8;8;;;Tinker's;2,4
+T6_BAG_INSIGHT@4;Master's Satchel of Insight .4;etc;8;8;;;Tinker's;4,8
+T7_BAG_INSIGHT;Grandmaster's Satchel of Insight;etc;8;8;;;Tinker's;0,36
+T7_BAG_INSIGHT@1;Grandmaster's Satchel of Insight .1;etc;8;8;;;Tinker's;0,72
+T7_BAG_INSIGHT@2;Grandmaster's Satchel of Insight .2;etc;8;8;;;Tinker's;1,45
+T7_BAG_INSIGHT@3;Grandmaster's Satchel of Insight .3;etc;8;8;;;Tinker's;2,9
+T7_BAG_INSIGHT@4;Grandmaster's Satchel of Insight .4;etc;8;8;;;Tinker's;5,82
+T8_BAG_INSIGHT;Elder's Satchel of Insight;etc;8;8;;;Tinker's;0,38
+T8_BAG_INSIGHT@1;Elder's Satchel of Insight .1;etc;8;8;;;Tinker's;0,76
+T8_BAG_INSIGHT@2;Elder's Satchel of Insight .2;etc;8;8;;;Tinker's;1,52
+T8_BAG_INSIGHT@3;Elder's Satchel of Insight .3;etc;8;8;;;Tinker's;3,04
+T8_BAG_INSIGHT@4;Elder's Satchel of Insight .4;etc;8;8;;;Tinker's;6,08
+T4_CAPE;Adept's Cape;etc;4;4;;;Tinker's;0,05
+T4_CAPE@1;Adept's Cape .1;etc;4;4;;;Tinker's;0,1
+T4_CAPE@2;Adept's Cape .2;etc;4;4;;;Tinker's;0,2
+T4_CAPE@3;Adept's Cape .3;etc;4;4;;;Tinker's;0,4
+T4_CAPE@4;Adept's Cape .4;etc;4;4;;;Tinker's;0,8
+T5_CAPE;Expert's Cape;etc;4;4;;;Tinker's;0,1
+T5_CAPE@1;Expert's Cape .1;etc;4;4;;;Tinker's;0,2
+T5_CAPE@2;Expert's Cape .2;etc;4;4;;;Tinker's;0,4
+T5_CAPE@3;Expert's Cape .3;etc;4;4;;;Tinker's;0,8
+T5_CAPE@4;Expert's Cape .4;etc;4;4;;;Tinker's;1,6
+T6_CAPE;Master's Cape;etc;4;4;;;Tinker's;0,15
+T6_CAPE@1;Master's Cape .1;etc;4;4;;;Tinker's;0,3
+T6_CAPE@2;Master's Cape .2;etc;4;4;;;Tinker's;0,6
+T6_CAPE@3;Master's Cape .3;etc;4;4;;;Tinker's;1,2
+T6_CAPE@4;Master's Cape .4;etc;4;4;;;Tinker's;2,4
+T7_CAPE;Grandmaster's Cape;etc;4;4;;;Tinker's;0,18
+T7_CAPE@1;Grandmaster's Cape .1;etc;4;4;;;Tinker's;0,36
+T7_CAPE@2;Grandmaster's Cape .2;etc;4;4;;;Tinker's;0,725
+T7_CAPE@3;Grandmaster's Cape .3;etc;4;4;;;Tinker's;1,45
+T7_CAPE@4;Grandmaster's Cape .4;etc;4;4;;;Tinker's;2,91
+T8_CAPE;Elder's Cape;etc;4;4;;;Tinker's;0,19
+T8_CAPE@1;Elder's Cape .1;etc;4;4;;;Tinker's;0,38
+T8_CAPE@2;Elder's Cape .2;etc;4;4;;;Tinker's;0,76
+T8_CAPE@3;Elder's Cape .3;etc;4;4;;;Tinker's;1,52
+T8_CAPE@4;Elder's Cape .4;etc;4;4;;;Tinker's;3,04
+T4_CAPEITEM_FW_BRIDGEWATCH;Adept's Bridgewatch Cape;etc;4;4;;;;
+T4_CAPEITEM_FW_BRIDGEWATCH@1;Adept's Bridgewatch Cape .1;etc;4;4;;;;
+T4_CAPEITEM_FW_BRIDGEWATCH@2;Adept's Bridgewatch Cape .2;etc;4;4;;;;
+T4_CAPEITEM_FW_BRIDGEWATCH@3;Adept's Bridgewatch Cape .3;etc;4;4;;;;
+T4_CAPEITEM_FW_BRIDGEWATCH@4;Adept's Bridgewatch Cape .4;etc;4;4;;;;
+T5_CAPEITEM_FW_BRIDGEWATCH;Expert's Bridgewatch Cape;etc;4;4;;;;
+T5_CAPEITEM_FW_BRIDGEWATCH@1;Expert's Bridgewatch Cape .1;etc;4;4;;;;
+T5_CAPEITEM_FW_BRIDGEWATCH@2;Expert's Bridgewatch Cape .2;etc;4;4;;;;
+T5_CAPEITEM_FW_BRIDGEWATCH@3;Expert's Bridgewatch Cape .3;etc;4;4;;;;
+T5_CAPEITEM_FW_BRIDGEWATCH@4;Expert's Bridgewatch Cape .4;etc;4;4;;;;
+T6_CAPEITEM_FW_BRIDGEWATCH;Master's Bridgewatch Cape;etc;4;4;;;;
+T6_CAPEITEM_FW_BRIDGEWATCH@1;Master's Bridgewatch Cape .1;etc;4;4;;;;
+T6_CAPEITEM_FW_BRIDGEWATCH@2;Master's Bridgewatch Cape .2;etc;4;4;;;;
+T6_CAPEITEM_FW_BRIDGEWATCH@3;Master's Bridgewatch Cape .3;etc;4;4;;;;
+T6_CAPEITEM_FW_BRIDGEWATCH@4;Master's Bridgewatch Cape .4;etc;4;4;;;;
+T7_CAPEITEM_FW_BRIDGEWATCH;Grandmaster's Bridgewatch Cape;etc;4;4;;;;
+T7_CAPEITEM_FW_BRIDGEWATCH@1;Grandmaster's Bridgewatch Cape .1;etc;4;4;;;;
+T7_CAPEITEM_FW_BRIDGEWATCH@2;Grandmaster's Bridgewatch Cape .2;etc;4;4;;;;
+T7_CAPEITEM_FW_BRIDGEWATCH@3;Grandmaster's Bridgewatch Cape .3;etc;4;4;;;;
+T7_CAPEITEM_FW_BRIDGEWATCH@4;Grandmaster's Bridgewatch Cape .4;etc;4;4;;;;
+T8_CAPEITEM_FW_BRIDGEWATCH;Elder's Bridgewatch Cape;etc;4;4;;;;
+T8_CAPEITEM_FW_BRIDGEWATCH@1;Elder's Bridgewatch Cape .1;etc;4;4;;;;
+T8_CAPEITEM_FW_BRIDGEWATCH@2;Elder's Bridgewatch Cape .2;etc;4;4;;;;
+T8_CAPEITEM_FW_BRIDGEWATCH@3;Elder's Bridgewatch Cape .3;etc;4;4;;;;
+T8_CAPEITEM_FW_BRIDGEWATCH@4;Elder's Bridgewatch Cape .4;etc;4;4;;;;
+T4_CAPEITEM_FW_FORTSTERLING;Adept's Fort Sterling Cape;etc;4;4;;;;
+T4_CAPEITEM_FW_FORTSTERLING@1;Adept's Fort Sterling Cape .1;etc;4;4;;;;
+T4_CAPEITEM_FW_FORTSTERLING@2;Adept's Fort Sterling Cape .2;etc;4;4;;;;
+T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape .3;etc;4;4;;;;
+T4_CAPEITEM_FW_FORTSTERLING@4;Adept's Fort Sterling Cape .4;etc;4;4;;;;
+T5_CAPEITEM_FW_FORTSTERLING;Expert's Fort Sterling Cape;etc;4;4;;;;
+T5_CAPEITEM_FW_FORTSTERLING@1;Expert's Fort Sterling Cape .1;etc;4;4;;;;
+T5_CAPEITEM_FW_FORTSTERLING@2;Expert's Fort Sterling Cape .2;etc;4;4;;;;
+T5_CAPEITEM_FW_FORTSTERLING@3;Expert's Fort Sterling Cape .3;etc;4;4;;;;
+T5_CAPEITEM_FW_FORTSTERLING@4;Expert's Fort Sterling Cape .4;etc;4;4;;;;
+T6_CAPEITEM_FW_FORTSTERLING;Master's Fort Sterling Cape;etc;4;4;;;;
+T6_CAPEITEM_FW_FORTSTERLING@1;Master's Fort Sterling Cape .1;etc;4;4;;;;
+T6_CAPEITEM_FW_FORTSTERLING@2;Master's Fort Sterling Cape .2;etc;4;4;;;;
+T6_CAPEITEM_FW_FORTSTERLING@3;Master's Fort Sterling Cape .3;etc;4;4;;;;
+T6_CAPEITEM_FW_FORTSTERLING@4;Master's Fort Sterling Cape .4;etc;4;4;;;;
+T7_CAPEITEM_FW_FORTSTERLING;Grandmaster's Fort Sterling Cape;etc;4;4;;;;
+T7_CAPEITEM_FW_FORTSTERLING@1;Grandmaster's Fort Sterling Cape .1;etc;4;4;;;;
+T7_CAPEITEM_FW_FORTSTERLING@2;Grandmaster's Fort Sterling Cape .2;etc;4;4;;;;
+T7_CAPEITEM_FW_FORTSTERLING@3;Grandmaster's Fort Sterling Cape .3;etc;4;4;;;;
+T7_CAPEITEM_FW_FORTSTERLING@4;Grandmaster's Fort Sterling Cape .4;etc;4;4;;;;
+T8_CAPEITEM_FW_FORTSTERLING;Elder's Fort Sterling Cape;etc;4;4;;;;
+T8_CAPEITEM_FW_FORTSTERLING@1;Elder's Fort Sterling Cape .1;etc;4;4;;;;
+T8_CAPEITEM_FW_FORTSTERLING@2;Elder's Fort Sterling Cape .2;etc;4;4;;;;
+T8_CAPEITEM_FW_FORTSTERLING@3;Elder's Fort Sterling Cape .3;etc;4;4;;;;
+T8_CAPEITEM_FW_FORTSTERLING@4;Elder's Fort Sterling Cape .4;etc;4;4;;;;
+T4_CAPEITEM_FW_LYMHURST;Adept's Lymhurst Cape;etc;4;4;;;;
+T4_CAPEITEM_FW_LYMHURST@1;Adept's Lymhurst Cape .1;etc;4;4;;;;
+T4_CAPEITEM_FW_LYMHURST@2;Adept's Lymhurst Cape .2;etc;4;4;;;;
+T4_CAPEITEM_FW_LYMHURST@3;Adept's Lymhurst Cape .3;etc;4;4;;;;
+T4_CAPEITEM_FW_LYMHURST@4;Adept's Lymhurst Cape .4;etc;4;4;;;;
+T5_CAPEITEM_FW_LYMHURST;Expert's Lymhurst Cape;etc;4;4;;;;
+T5_CAPEITEM_FW_LYMHURST@1;Expert's Lymhurst Cape .1;etc;4;4;;;;
+T5_CAPEITEM_FW_LYMHURST@2;Expert's Lymhurst Cape .2;etc;4;4;;;;
+T5_CAPEITEM_FW_LYMHURST@3;Expert's Lymhurst Cape .3;etc;4;4;;;;
+T5_CAPEITEM_FW_LYMHURST@4;Expert's Lymhurst Cape .4;etc;4;4;;;;
+T6_CAPEITEM_FW_LYMHURST;Master's Lymhurst Cape;etc;4;4;;;;
+T6_CAPEITEM_FW_LYMHURST@1;Master's Lymhurst Cape .1;etc;4;4;;;;
+T6_CAPEITEM_FW_LYMHURST@2;Master's Lymhurst Cape .2;etc;4;4;;;;
+T6_CAPEITEM_FW_LYMHURST@3;Master's Lymhurst Cape .3;etc;4;4;;;;
+T6_CAPEITEM_FW_LYMHURST@4;Master's Lymhurst Cape .4;etc;4;4;;;;
+T7_CAPEITEM_FW_LYMHURST;Grandmaster's Lymhurst Cape;etc;4;4;;;;
+T7_CAPEITEM_FW_LYMHURST@1;Grandmaster's Lymhurst Cape .1;etc;4;4;;;;
+T7_CAPEITEM_FW_LYMHURST@2;Grandmaster's Lymhurst Cape .2;etc;4;4;;;;
+T7_CAPEITEM_FW_LYMHURST@3;Grandmaster's Lymhurst Cape .3;etc;4;4;;;;
+T7_CAPEITEM_FW_LYMHURST@4;Grandmaster's Lymhurst Cape .4;etc;4;4;;;;
+T8_CAPEITEM_FW_LYMHURST;Elder's Lymhurst Cape;etc;4;4;;;;
+T8_CAPEITEM_FW_LYMHURST@1;Elder's Lymhurst Cape .1;etc;4;4;;;;
+T8_CAPEITEM_FW_LYMHURST@2;Elder's Lymhurst Cape .2;etc;4;4;;;;
+T8_CAPEITEM_FW_LYMHURST@3;Elder's Lymhurst Cape .3;etc;4;4;;;;
+T8_CAPEITEM_FW_LYMHURST@4;Elder's Lymhurst Cape .4;etc;4;4;;;;
+T4_CAPEITEM_FW_MARTLOCK;Adept's Martlock Cape;etc;4;4;;;;
+T4_CAPEITEM_FW_MARTLOCK@1;Adept's Martlock Cape .1;etc;4;4;;;;
+T4_CAPEITEM_FW_MARTLOCK@2;Adept's Martlock Cape .2;etc;4;4;;;;
+T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape .3;etc;4;4;;;;
+T4_CAPEITEM_FW_MARTLOCK@4;Adept's Martlock Cape .4;etc;4;4;;;;
+T5_CAPEITEM_FW_MARTLOCK;Expert's Martlock Cape;etc;4;4;;;;
+T5_CAPEITEM_FW_MARTLOCK@1;Expert's Martlock Cape .1;etc;4;4;;;;
+T5_CAPEITEM_FW_MARTLOCK@2;Expert's Martlock Cape .2;etc;4;4;;;;
+T5_CAPEITEM_FW_MARTLOCK@3;Expert's Martlock Cape .3;etc;4;4;;;;
+T5_CAPEITEM_FW_MARTLOCK@4;Expert's Martlock Cape .4;etc;4;4;;;;
+T6_CAPEITEM_FW_MARTLOCK;Master's Martlock Cape;etc;4;4;;;;
+T6_CAPEITEM_FW_MARTLOCK@1;Master's Martlock Cape .1;etc;4;4;;;;
+T6_CAPEITEM_FW_MARTLOCK@2;Master's Martlock Cape .2;etc;4;4;;;;
+T6_CAPEITEM_FW_MARTLOCK@3;Master's Martlock Cape .3;etc;4;4;;;;
+T6_CAPEITEM_FW_MARTLOCK@4;Master's Martlock Cape .4;etc;4;4;;;;
+T7_CAPEITEM_FW_MARTLOCK;Grandmaster's Martlock Cape;etc;4;4;;;;
+T7_CAPEITEM_FW_MARTLOCK@1;Grandmaster's Martlock Cape .1;etc;4;4;;;;
+T7_CAPEITEM_FW_MARTLOCK@2;Grandmaster's Martlock Cape .2;etc;4;4;;;;
+T7_CAPEITEM_FW_MARTLOCK@3;Grandmaster's Martlock Cape .3;etc;4;4;;;;
+T7_CAPEITEM_FW_MARTLOCK@4;Grandmaster's Martlock Cape .4;etc;4;4;;;;
+T8_CAPEITEM_FW_MARTLOCK;Elder's Martlock Cape;etc;4;4;;;;
+T8_CAPEITEM_FW_MARTLOCK@1;Elder's Martlock Cape .1;etc;4;4;;;;
+T8_CAPEITEM_FW_MARTLOCK@2;Elder's Martlock Cape .2;etc;4;4;;;;
+T8_CAPEITEM_FW_MARTLOCK@3;Elder's Martlock Cape .3;etc;4;4;;;;
+T8_CAPEITEM_FW_MARTLOCK@4;Elder's Martlock Cape .4;etc;4;4;;;;
+T4_CAPEITEM_FW_THETFORD;Adept's Thetford Cape;etc;4;4;;;;
+T4_CAPEITEM_FW_THETFORD@1;Adept's Thetford Cape .1;etc;4;4;;;;
+T4_CAPEITEM_FW_THETFORD@2;Adept's Thetford Cape .2;etc;4;4;;;;
+T4_CAPEITEM_FW_THETFORD@3;Adept's Thetford Cape .3;etc;4;4;;;;
+T4_CAPEITEM_FW_THETFORD@4;Adept's Thetford Cape .4;etc;4;4;;;;
+T5_CAPEITEM_FW_THETFORD;Expert's Thetford Cape;etc;4;4;;;;
+T5_CAPEITEM_FW_THETFORD@1;Expert's Thetford Cape .1;etc;4;4;;;;
+T5_CAPEITEM_FW_THETFORD@2;Expert's Thetford Cape .2;etc;4;4;;;;
+T5_CAPEITEM_FW_THETFORD@3;Expert's Thetford Cape .3;etc;4;4;;;;
+T5_CAPEITEM_FW_THETFORD@4;Expert's Thetford Cape .4;etc;4;4;;;;
+T6_CAPEITEM_FW_THETFORD;Master's Thetford Cape;etc;4;4;;;;
+T6_CAPEITEM_FW_THETFORD@1;Master's Thetford Cape .1;etc;4;4;;;;
+T6_CAPEITEM_FW_THETFORD@2;Master's Thetford Cape .2;etc;4;4;;;;
+T6_CAPEITEM_FW_THETFORD@3;Master's Thetford Cape .3;etc;4;4;;;;
+T6_CAPEITEM_FW_THETFORD@4;Master's Thetford Cape .4;etc;4;4;;;;
+T7_CAPEITEM_FW_THETFORD;Grandmaster's Thetford Cape;etc;4;4;;;;
+T7_CAPEITEM_FW_THETFORD@1;Grandmaster's Thetford Cape .1;etc;4;4;;;;
+T7_CAPEITEM_FW_THETFORD@2;Grandmaster's Thetford Cape .2;etc;4;4;;;;
+T7_CAPEITEM_FW_THETFORD@3;Grandmaster's Thetford Cape .3;etc;4;4;;;;
+T7_CAPEITEM_FW_THETFORD@4;Grandmaster's Thetford Cape .4;etc;4;4;;;;
+T8_CAPEITEM_FW_THETFORD;Elder's Thetford Cape;etc;4;4;;;;
+T8_CAPEITEM_FW_THETFORD@1;Elder's Thetford Cape .1;etc;4;4;;;;
+T8_CAPEITEM_FW_THETFORD@2;Elder's Thetford Cape .2;etc;4;4;;;;
+T8_CAPEITEM_FW_THETFORD@3;Elder's Thetford Cape .3;etc;4;4;;;;
+T8_CAPEITEM_FW_THETFORD@4;Elder's Thetford Cape .4;etc;4;4;;;;
+T4_CAPEITEM_FW_CAERLEON;Adept's Caerleon Cape;etc;4;4;;;;
+T4_CAPEITEM_FW_CAERLEON@1;Adept's Caerleon Cape .1;etc;4;4;;;;
+T4_CAPEITEM_FW_CAERLEON@2;Adept's Caerleon Cape .2;etc;4;4;;;;
+T4_CAPEITEM_FW_CAERLEON@3;Adept's Caerleon Cape .3;etc;4;4;;;;
+T4_CAPEITEM_FW_CAERLEON@4;Adept's Caerleon Cape .4;etc;4;4;;;;
+T5_CAPEITEM_FW_CAERLEON;Expert's Caerleon Cape;etc;4;4;;;;
+T5_CAPEITEM_FW_CAERLEON@1;Expert's Caerleon Cape .1;etc;4;4;;;;
+T5_CAPEITEM_FW_CAERLEON@2;Expert's Caerleon Cape .2;etc;4;4;;;;
+T5_CAPEITEM_FW_CAERLEON@3;Expert's Caerleon Cape .3;etc;4;4;;;;
+T5_CAPEITEM_FW_CAERLEON@4;Expert's Caerleon Cape .4;etc;4;4;;;;
+T6_CAPEITEM_FW_CAERLEON;Master's Caerleon Cape;etc;4;4;;;;
+T6_CAPEITEM_FW_CAERLEON@1;Master's Caerleon Cape .1;etc;4;4;;;;
+T6_CAPEITEM_FW_CAERLEON@2;Master's Caerleon Cape .2;etc;4;4;;;;
+T6_CAPEITEM_FW_CAERLEON@3;Master's Caerleon Cape .3;etc;4;4;;;;
+T6_CAPEITEM_FW_CAERLEON@4;Master's Caerleon Cape .4;etc;4;4;;;;
+T7_CAPEITEM_FW_CAERLEON;Grandmaster's Caerleon Cape;etc;4;4;;;;
+T7_CAPEITEM_FW_CAERLEON@1;Grandmaster's Caerleon Cape .1;etc;4;4;;;;
+T7_CAPEITEM_FW_CAERLEON@2;Grandmaster's Caerleon Cape .2;etc;4;4;;;;
+T7_CAPEITEM_FW_CAERLEON@3;Grandmaster's Caerleon Cape .3;etc;4;4;;;;
+T7_CAPEITEM_FW_CAERLEON@4;Grandmaster's Caerleon Cape .4;etc;4;4;;;;
+T8_CAPEITEM_FW_CAERLEON;Elder's Caerleon Cape;etc;4;4;;;;
+T8_CAPEITEM_FW_CAERLEON@1;Elder's Caerleon Cape .1;etc;4;4;;;;
+T8_CAPEITEM_FW_CAERLEON@2;Elder's Caerleon Cape .2;etc;4;4;;;;
+T8_CAPEITEM_FW_CAERLEON@3;Elder's Caerleon Cape .3;etc;4;4;;;;
+T8_CAPEITEM_FW_CAERLEON@4;Elder's Caerleon Cape .4;etc;4;4;;;;
+T4_CAPEITEM_FW_BRECILIEN;Adept's Brecilien Cape;etc;4;4;;;;
+T4_CAPEITEM_FW_BRECILIEN@1;Adept's Brecilien Cape .1;etc;4;4;;;;
+T4_CAPEITEM_FW_BRECILIEN@2;Adept's Brecilien Cape .2;etc;4;4;;;;
+T4_CAPEITEM_FW_BRECILIEN@3;Adept's Brecilien Cape .3;etc;4;4;;;;
+T4_CAPEITEM_FW_BRECILIEN@4;Adept's Brecilien Cape .4;etc;4;4;;;;
+T5_CAPEITEM_FW_BRECILIEN;Expert's Brecilien Cape;etc;4;4;;;;
+T5_CAPEITEM_FW_BRECILIEN@1;Expert's Brecilien Cape .1;etc;4;4;;;;
+T5_CAPEITEM_FW_BRECILIEN@2;Expert's Brecilien Cape .2;etc;4;4;;;;
+T5_CAPEITEM_FW_BRECILIEN@3;Expert's Brecilien Cape .3;etc;4;4;;;;
+T5_CAPEITEM_FW_BRECILIEN@4;Expert's Brecilien Cape .4;etc;4;4;;;;
+T6_CAPEITEM_FW_BRECILIEN;Master's Brecilien Cape;etc;4;4;;;;
+T6_CAPEITEM_FW_BRECILIEN@1;Master's Brecilien Cape .1;etc;4;4;;;;
+T6_CAPEITEM_FW_BRECILIEN@2;Master's Brecilien Cape .2;etc;4;4;;;;
+T6_CAPEITEM_FW_BRECILIEN@3;Master's Brecilien Cape .3;etc;4;4;;;;
+T6_CAPEITEM_FW_BRECILIEN@4;Master's Brecilien Cape .4;etc;4;4;;;;
+T7_CAPEITEM_FW_BRECILIEN;Grandmaster's Brecilien Cape;etc;4;4;;;;
+T7_CAPEITEM_FW_BRECILIEN@1;Grandmaster's Brecilien Cape .1;etc;4;4;;;;
+T7_CAPEITEM_FW_BRECILIEN@2;Grandmaster's Brecilien Cape .2;etc;4;4;;;;
+T7_CAPEITEM_FW_BRECILIEN@3;Grandmaster's Brecilien Cape .3;etc;4;4;;;;
+T7_CAPEITEM_FW_BRECILIEN@4;Grandmaster's Brecilien Cape .4;etc;4;4;;;;
+T8_CAPEITEM_FW_BRECILIEN;Elder's Brecilien Cape;etc;4;4;;;;
+T8_CAPEITEM_FW_BRECILIEN@1;Elder's Brecilien Cape .1;etc;4;4;;;;
+T8_CAPEITEM_FW_BRECILIEN@2;Elder's Brecilien Cape .2;etc;4;4;;;;
+T8_CAPEITEM_FW_BRECILIEN@3;Elder's Brecilien Cape .3;etc;4;4;;;;
+T8_CAPEITEM_FW_BRECILIEN@4;Elder's Brecilien Cape .4;etc;4;4;;;;
+T4_CAPEITEM_AVALON;Adept's Avalonian Cape;etc;4;4;;;;
+T4_CAPEITEM_AVALON@1;Adept's Avalonian Cape .1;etc;4;4;;;;
+T4_CAPEITEM_AVALON@2;Adept's Avalonian Cape .2;etc;4;4;;;;
+T4_CAPEITEM_AVALON@3;Adept's Avalonian Cape .3;etc;4;4;;;;
+T4_CAPEITEM_AVALON@4;Adept's Avalonian Cape .4;etc;4;4;;;;
+T5_CAPEITEM_AVALON;Expert's Avalonian Cape;etc;4;4;;;;
+T5_CAPEITEM_AVALON@1;Expert's Avalonian Cape .1;etc;4;4;;;;
+T5_CAPEITEM_AVALON@2;Expert's Avalonian Cape .2;etc;4;4;;;;
+T5_CAPEITEM_AVALON@3;Expert's Avalonian Cape .3;etc;4;4;;;;
+T5_CAPEITEM_AVALON@4;Expert's Avalonian Cape .4;etc;4;4;;;;
+T6_CAPEITEM_AVALON;Master's Avalonian Cape;etc;4;4;;;;
+T6_CAPEITEM_AVALON@1;Master's Avalonian Cape .1;etc;4;4;;;;
+T6_CAPEITEM_AVALON@2;Master's Avalonian Cape .2;etc;4;4;;;;
+T6_CAPEITEM_AVALON@3;Master's Avalonian Cape .3;etc;4;4;;;;
+T6_CAPEITEM_AVALON@4;Master's Avalonian Cape .4;etc;4;4;;;;
+T7_CAPEITEM_AVALON;Grandmaster's Avalonian Cape;etc;4;4;;;;
+T7_CAPEITEM_AVALON@1;Grandmaster's Avalonian Cape .1;etc;4;4;;;;
+T7_CAPEITEM_AVALON@2;Grandmaster's Avalonian Cape .2;etc;4;4;;;;
+T7_CAPEITEM_AVALON@3;Grandmaster's Avalonian Cape .3;etc;4;4;;;;
+T7_CAPEITEM_AVALON@4;Grandmaster's Avalonian Cape .4;etc;4;4;;;;
+T8_CAPEITEM_AVALON;Elder's Avalonian Cape;etc;4;4;;;;
+T8_CAPEITEM_AVALON@1;Elder's Avalonian Cape .1;etc;4;4;;;;
+T8_CAPEITEM_AVALON@2;Elder's Avalonian Cape .2;etc;4;4;;;;
+T8_CAPEITEM_AVALON@3;Elder's Avalonian Cape .3;etc;4;4;;;;
+T8_CAPEITEM_AVALON@4;Elder's Avalonian Cape .4;etc;4;4;;;;
+T4_CAPEITEM_SMUGGLER;Adept's Smuggler Cape;etc;4;4;;;;
+T4_CAPEITEM_SMUGGLER@1;Adept's Smuggler Cape .1;etc;4;4;;;;
+T4_CAPEITEM_SMUGGLER@2;Adept's Smuggler Cape .2;etc;4;4;;;;
+T4_CAPEITEM_SMUGGLER@3;Adept's Smuggler Cape .3;etc;4;4;;;;
+T4_CAPEITEM_SMUGGLER@4;Adept's Smuggler Cape .4;etc;4;4;;;;
+T5_CAPEITEM_SMUGGLER;Expert's Smuggler Cape;etc;4;4;;;;
+T5_CAPEITEM_SMUGGLER@1;Expert's Smuggler Cape .1;etc;4;4;;;;
+T5_CAPEITEM_SMUGGLER@2;Expert's Smuggler Cape .2;etc;4;4;;;;
+T5_CAPEITEM_SMUGGLER@3;Expert's Smuggler Cape .3;etc;4;4;;;;
+T5_CAPEITEM_SMUGGLER@4;Expert's Smuggler Cape .4;etc;4;4;;;;
+T6_CAPEITEM_SMUGGLER;Master's Smuggler Cape;etc;4;4;;;;
+T6_CAPEITEM_SMUGGLER@1;Master's Smuggler Cape .1;etc;4;4;;;;
+T6_CAPEITEM_SMUGGLER@2;Master's Smuggler Cape .2;etc;4;4;;;;
+T6_CAPEITEM_SMUGGLER@3;Master's Smuggler Cape .3;etc;4;4;;;;
+T6_CAPEITEM_SMUGGLER@4;Master's Smuggler Cape .4;etc;4;4;;;;
+T7_CAPEITEM_SMUGGLER;Grandmaster's Smuggler Cape;etc;4;4;;;;
+T7_CAPEITEM_SMUGGLER@1;Grandmaster's Smuggler Cape .1;etc;4;4;;;;
+T7_CAPEITEM_SMUGGLER@2;Grandmaster's Smuggler Cape .2;etc;4;4;;;;
+T7_CAPEITEM_SMUGGLER@3;Grandmaster's Smuggler Cape .3;etc;4;4;;;;
+T7_CAPEITEM_SMUGGLER@4;Grandmaster's Smuggler Cape .4;etc;4;4;;;;
+T8_CAPEITEM_SMUGGLER;Elder's Smuggler Cape;etc;4;4;;;;
+T8_CAPEITEM_SMUGGLER@1;Elder's Smuggler Cape .1;etc;4;4;;;;
+T8_CAPEITEM_SMUGGLER@2;Elder's Smuggler Cape .2;etc;4;4;;;;
+T8_CAPEITEM_SMUGGLER@3;Elder's Smuggler Cape .3;etc;4;4;;;;
+T8_CAPEITEM_SMUGGLER@4;Elder's Smuggler Cape .4;etc;4;4;;;;
+T4_CAPEITEM_HERETIC;Adept's Heretic Cape;etc;4;4;;;;
+T4_CAPEITEM_HERETIC@1;Adept's Heretic Cape .1;etc;4;4;;;;
+T4_CAPEITEM_HERETIC@2;Adept's Heretic Cape .2;etc;4;4;;;;
+T4_CAPEITEM_HERETIC@3;Adept's Heretic Cape .3;etc;4;4;;;;
+T4_CAPEITEM_HERETIC@4;Adept's Heretic Cape .4;etc;4;4;;;;
+T5_CAPEITEM_HERETIC;Expert's Heretic Cape;etc;4;4;;;;
+T5_CAPEITEM_HERETIC@1;Expert's Heretic Cape .1;etc;4;4;;;;
+T5_CAPEITEM_HERETIC@2;Expert's Heretic Cape .2;etc;4;4;;;;
+T5_CAPEITEM_HERETIC@3;Expert's Heretic Cape .3;etc;4;4;;;;
+T5_CAPEITEM_HERETIC@4;Expert's Heretic Cape .4;etc;4;4;;;;
+T6_CAPEITEM_HERETIC;Master's Heretic Cape;etc;4;4;;;;
+T6_CAPEITEM_HERETIC@1;Master's Heretic Cape .1;etc;4;4;;;;
+T6_CAPEITEM_HERETIC@2;Master's Heretic Cape .2;etc;4;4;;;;
+T6_CAPEITEM_HERETIC@3;Master's Heretic Cape .3;etc;4;4;;;;
+T6_CAPEITEM_HERETIC@4;Master's Heretic Cape .4;etc;4;4;;;;
+T7_CAPEITEM_HERETIC;Grandmaster's Heretic Cape;etc;4;4;;;;
+T7_CAPEITEM_HERETIC@1;Grandmaster's Heretic Cape .1;etc;4;4;;;;
+T7_CAPEITEM_HERETIC@2;Grandmaster's Heretic Cape .2;etc;4;4;;;;
+T7_CAPEITEM_HERETIC@3;Grandmaster's Heretic Cape .3;etc;4;4;;;;
+T7_CAPEITEM_HERETIC@4;Grandmaster's Heretic Cape .4;etc;4;4;;;;
+T8_CAPEITEM_HERETIC;Elder's Heretic Cape;etc;4;4;;;;
+T8_CAPEITEM_HERETIC@1;Elder's Heretic Cape .1;etc;4;4;;;;
+T8_CAPEITEM_HERETIC@2;Elder's Heretic Cape .2;etc;4;4;;;;
+T8_CAPEITEM_HERETIC@3;Elder's Heretic Cape .3;etc;4;4;;;;
+T8_CAPEITEM_HERETIC@4;Elder's Heretic Cape .4;etc;4;4;;;;
+T4_CAPEITEM_UNDEAD;Adept's Undead Cape;etc;4;4;;;;
+T4_CAPEITEM_UNDEAD@1;Adept's Undead Cape .1;etc;4;4;;;;
+T4_CAPEITEM_UNDEAD@2;Adept's Undead Cape .2;etc;4;4;;;;
+T4_CAPEITEM_UNDEAD@3;Adept's Undead Cape .3;etc;4;4;;;;
+T4_CAPEITEM_UNDEAD@4;Adept's Undead Cape .4;etc;4;4;;;;
+T5_CAPEITEM_UNDEAD;Expert's Undead Cape;etc;4;4;;;;
+T5_CAPEITEM_UNDEAD@1;Expert's Undead Cape .1;etc;4;4;;;;
+T5_CAPEITEM_UNDEAD@2;Expert's Undead Cape .2;etc;4;4;;;;
+T5_CAPEITEM_UNDEAD@3;Expert's Undead Cape .3;etc;4;4;;;;
+T5_CAPEITEM_UNDEAD@4;Expert's Undead Cape .4;etc;4;4;;;;
+T6_CAPEITEM_UNDEAD;Master's Undead Cape;etc;4;4;;;;
+T6_CAPEITEM_UNDEAD@1;Master's Undead Cape .1;etc;4;4;;;;
+T6_CAPEITEM_UNDEAD@2;Master's Undead Cape .2;etc;4;4;;;;
+T6_CAPEITEM_UNDEAD@3;Master's Undead Cape .3;etc;4;4;;;;
+T6_CAPEITEM_UNDEAD@4;Master's Undead Cape .4;etc;4;4;;;;
+T7_CAPEITEM_UNDEAD;Grandmaster's Undead Cape;etc;4;4;;;;
+T7_CAPEITEM_UNDEAD@1;Grandmaster's Undead Cape .1;etc;4;4;;;;
+T7_CAPEITEM_UNDEAD@2;Grandmaster's Undead Cape .2;etc;4;4;;;;
+T7_CAPEITEM_UNDEAD@3;Grandmaster's Undead Cape .3;etc;4;4;;;;
+T7_CAPEITEM_UNDEAD@4;Grandmaster's Undead Cape .4;etc;4;4;;;;
+T8_CAPEITEM_UNDEAD;Elder's Undead Cape;etc;4;4;;;;
+T8_CAPEITEM_UNDEAD@1;Elder's Undead Cape .1;etc;4;4;;;;
+T8_CAPEITEM_UNDEAD@2;Elder's Undead Cape .2;etc;4;4;;;;
+T8_CAPEITEM_UNDEAD@3;Elder's Undead Cape .3;etc;4;4;;;;
+T8_CAPEITEM_UNDEAD@4;Elder's Undead Cape .4;etc;4;4;;;;
+T4_CAPEITEM_KEEPER;Adept's Keeper Cape;etc;4;4;;;;
+T4_CAPEITEM_KEEPER@1;Adept's Keeper Cape .1;etc;4;4;;;;
+T4_CAPEITEM_KEEPER@2;Adept's Keeper Cape .2;etc;4;4;;;;
+T4_CAPEITEM_KEEPER@3;Adept's Keeper Cape .3;etc;4;4;;;;
+T4_CAPEITEM_KEEPER@4;Adept's Keeper Cape .4;etc;4;4;;;;
+T5_CAPEITEM_KEEPER;Expert's Keeper Cape;etc;4;4;;;;
+T5_CAPEITEM_KEEPER@1;Expert's Keeper Cape .1;etc;4;4;;;;
+T5_CAPEITEM_KEEPER@2;Expert's Keeper Cape .2;etc;4;4;;;;
+T5_CAPEITEM_KEEPER@3;Expert's Keeper Cape .3;etc;4;4;;;;
+T5_CAPEITEM_KEEPER@4;Expert's Keeper Cape .4;etc;4;4;;;;
+T6_CAPEITEM_KEEPER;Master's Keeper Cape;etc;4;4;;;;
+T6_CAPEITEM_KEEPER@1;Master's Keeper Cape .1;etc;4;4;;;;
+T6_CAPEITEM_KEEPER@2;Master's Keeper Cape .2;etc;4;4;;;;
+T6_CAPEITEM_KEEPER@3;Master's Keeper Cape .3;etc;4;4;;;;
+T6_CAPEITEM_KEEPER@4;Master's Keeper Cape .4;etc;4;4;;;;
+T7_CAPEITEM_KEEPER;Grandmaster's Keeper Cape;etc;4;4;;;;
+T7_CAPEITEM_KEEPER@1;Grandmaster's Keeper Cape .1;etc;4;4;;;;
+T7_CAPEITEM_KEEPER@2;Grandmaster's Keeper Cape .2;etc;4;4;;;;
+T7_CAPEITEM_KEEPER@3;Grandmaster's Keeper Cape .3;etc;4;4;;;;
+T7_CAPEITEM_KEEPER@4;Grandmaster's Keeper Cape .4;etc;4;4;;;;
+T8_CAPEITEM_KEEPER;Elder's Keeper Cape;etc;4;4;;;;
+T8_CAPEITEM_KEEPER@1;Elder's Keeper Cape .1;etc;4;4;;;;
+T8_CAPEITEM_KEEPER@2;Elder's Keeper Cape .2;etc;4;4;;;;
+T8_CAPEITEM_KEEPER@3;Elder's Keeper Cape .3;etc;4;4;;;;
+T8_CAPEITEM_KEEPER@4;Elder's Keeper Cape .4;etc;4;4;;;;
+T4_CAPEITEM_MORGANA;Adept's Morgana Cape;etc;4;4;;;;
+T4_CAPEITEM_MORGANA@1;Adept's Morgana Cape .1;etc;4;4;;;;
+T4_CAPEITEM_MORGANA@2;Adept's Morgana Cape .2;etc;4;4;;;;
+T4_CAPEITEM_MORGANA@3;Adept's Morgana Cape .3;etc;4;4;;;;
+T4_CAPEITEM_MORGANA@4;Adept's Morgana Cape .4;etc;4;4;;;;
+T5_CAPEITEM_MORGANA;Expert's Morgana Cape;etc;4;4;;;;
+T5_CAPEITEM_MORGANA@1;Expert's Morgana Cape .1;etc;4;4;;;;
+T5_CAPEITEM_MORGANA@2;Expert's Morgana Cape .2;etc;4;4;;;;
+T5_CAPEITEM_MORGANA@3;Expert's Morgana Cape .3;etc;4;4;;;;
+T5_CAPEITEM_MORGANA@4;Expert's Morgana Cape .4;etc;4;4;;;;
+T6_CAPEITEM_MORGANA;Master's Morgana Cape;etc;4;4;;;;
+T6_CAPEITEM_MORGANA@1;Master's Morgana Cape .1;etc;4;4;;;;
+T6_CAPEITEM_MORGANA@2;Master's Morgana Cape .2;etc;4;4;;;;
+T6_CAPEITEM_MORGANA@3;Master's Morgana Cape .3;etc;4;4;;;;
+T6_CAPEITEM_MORGANA@4;Master's Morgana Cape .4;etc;4;4;;;;
+T7_CAPEITEM_MORGANA;Grandmaster's Morgana Cape;etc;4;4;;;;
+T7_CAPEITEM_MORGANA@1;Grandmaster's Morgana Cape .1;etc;4;4;;;;
+T7_CAPEITEM_MORGANA@2;Grandmaster's Morgana Cape .2;etc;4;4;;;;
+T7_CAPEITEM_MORGANA@3;Grandmaster's Morgana Cape .3;etc;4;4;;;;
+T7_CAPEITEM_MORGANA@4;Grandmaster's Morgana Cape .4;etc;4;4;;;;
+T8_CAPEITEM_MORGANA;Elder's Morgana Cape;etc;4;4;;;;
+T8_CAPEITEM_MORGANA@1;Elder's Morgana Cape .1;etc;4;4;;;;
+T8_CAPEITEM_MORGANA@2;Elder's Morgana Cape .2;etc;4;4;;;;
+T8_CAPEITEM_MORGANA@3;Elder's Morgana Cape .3;etc;4;4;;;;
+T8_CAPEITEM_MORGANA@4;Elder's Morgana Cape .4;etc;4;4;;;;
+T4_CAPEITEM_DEMON;Adept's Demon Cape;etc;4;4;;;;
+T4_CAPEITEM_DEMON@1;Adept's Demon Cape .1;etc;4;4;;;;
+T4_CAPEITEM_DEMON@2;Adept's Demon Cape .2;etc;4;4;;;;
+T4_CAPEITEM_DEMON@3;Adept's Demon Cape .3;etc;4;4;;;;
+T4_CAPEITEM_DEMON@4;Adept's Demon Cape .4;etc;4;4;;;;
+T5_CAPEITEM_DEMON;Expert's Demon Cape;etc;4;4;;;;
+T5_CAPEITEM_DEMON@1;Expert's Demon Cape .1;etc;4;4;;;;
+T5_CAPEITEM_DEMON@2;Expert's Demon Cape .2;etc;4;4;;;;
+T5_CAPEITEM_DEMON@3;Expert's Demon Cape .3;etc;4;4;;;;
+T5_CAPEITEM_DEMON@4;Expert's Demon Cape .4;etc;4;4;;;;
+T6_CAPEITEM_DEMON;Master's Demon Cape;etc;4;4;;;;
+T6_CAPEITEM_DEMON@1;Master's Demon Cape .1;etc;4;4;;;;
+T6_CAPEITEM_DEMON@2;Master's Demon Cape .2;etc;4;4;;;;
+T6_CAPEITEM_DEMON@3;Master's Demon Cape .3;etc;4;4;;;;
+T6_CAPEITEM_DEMON@4;Master's Demon Cape .4;etc;4;4;;;;
+T7_CAPEITEM_DEMON;Grandmaster's Demon Cape;etc;4;4;;;;
+T7_CAPEITEM_DEMON@1;Grandmaster's Demon Cape .1;etc;4;4;;;;
+T7_CAPEITEM_DEMON@2;Grandmaster's Demon Cape .2;etc;4;4;;;;
+T7_CAPEITEM_DEMON@3;Grandmaster's Demon Cape .3;etc;4;4;;;;
+T7_CAPEITEM_DEMON@4;Grandmaster's Demon Cape .4;etc;4;4;;;;
+T8_CAPEITEM_DEMON;Elder's Demon Cape;etc;4;4;;;;
+T8_CAPEITEM_DEMON@1;Elder's Demon Cape .1;etc;4;4;;;;
+T8_CAPEITEM_DEMON@2;Elder's Demon Cape .2;etc;4;4;;;;
+T8_CAPEITEM_DEMON@3;Elder's Demon Cape .3;etc;4;4;;;;
+T8_CAPEITEM_DEMON@4;Elder's Demon Cape .4;etc;4;4;;;;
+T4_HEAD_PLATE_SET1;Adept's Soldier Helmet;Armadura;;;8;;Blacksmith's;0,05
+T4_HEAD_PLATE_SET1@1;Adept's Soldier Helmet .1;Armadura;;;8;;Blacksmith's;0,1
+T4_HEAD_PLATE_SET1@2;Adept's Soldier Helmet .2;Armadura;;;8;;Blacksmith's;0,2
+T4_HEAD_PLATE_SET1@3;Adept's Soldier Helmet .3;Armadura;;;8;;Blacksmith's;0,4
+T4_HEAD_PLATE_SET1@4;Adept's Soldier Helmet .4;Armadura;;;8;;Blacksmith's;0,8
+T5_HEAD_PLATE_SET1;Expert's Soldier Helmet;Armadura;;;8;;Blacksmith's;0,1
+T5_HEAD_PLATE_SET1@1;Expert's Soldier Helmet .1;Armadura;;;8;;Blacksmith's;0,2
+T5_HEAD_PLATE_SET1@2;Expert's Soldier Helmet .2;Armadura;;;8;;Blacksmith's;0,4
+T5_HEAD_PLATE_SET1@3;Expert's Soldier Helmet .3;Armadura;;;8;;Blacksmith's;0,8
+T5_HEAD_PLATE_SET1@4;Expert's Soldier Helmet .4;Armadura;;;8;;Blacksmith's;1,6
+T6_HEAD_PLATE_SET1;Master's Soldier Helmet;Armadura;;;8;;Blacksmith's;0,15
+T6_HEAD_PLATE_SET1@1;Master's Soldier Helmet .1;Armadura;;;8;;Blacksmith's;0,3
+T6_HEAD_PLATE_SET1@2;Master's Soldier Helmet .2;Armadura;;;8;;Blacksmith's;0,6
+T6_HEAD_PLATE_SET1@3;Master's Soldier Helmet .3;Armadura;;;8;;Blacksmith's;1,2
+T6_HEAD_PLATE_SET1@4;Master's Soldier Helmet .4;Armadura;;;8;;Blacksmith's;2,4
+T7_HEAD_PLATE_SET1;Grandmaster's Soldier Helmet;Armadura;;;8;;Blacksmith's;0,18
+T7_HEAD_PLATE_SET1@1;Grandmaster's Soldier Helmet .1;Armadura;;;8;;Blacksmith's;0,36
+T7_HEAD_PLATE_SET1@2;Grandmaster's Soldier Helmet .2;Armadura;;;8;;Blacksmith's;0,725
+T7_HEAD_PLATE_SET1@3;Grandmaster's Soldier Helmet .3;Armadura;;;8;;Blacksmith's;1,45
+T7_HEAD_PLATE_SET1@4;Grandmaster's Soldier Helmet .4;Armadura;;;8;;Blacksmith's;2,91
+T8_HEAD_PLATE_SET1;Elder's Soldier Helmet;Armadura;;;8;;Blacksmith's;0,19
+T8_HEAD_PLATE_SET1@1;Elder's Soldier Helmet .1;Armadura;;;8;;Blacksmith's;0,38
+T8_HEAD_PLATE_SET1@2;Elder's Soldier Helmet .2;Armadura;;;8;;Blacksmith's;0,76
+T8_HEAD_PLATE_SET1@3;Elder's Soldier Helmet .3;Armadura;;;8;;Blacksmith's;1,52
+T8_HEAD_PLATE_SET1@4;Elder's Soldier Helmet .4;Armadura;;;8;;Blacksmith's;3,04
+T4_HEAD_PLATE_SET2;Adept's Knight Helmet;Armadura;;;8;;Blacksmith's;0,05
+T4_HEAD_PLATE_SET2@1;Adept's Knight Helmet .1;Armadura;;;8;;Blacksmith's;0,1
+T4_HEAD_PLATE_SET2@2;Adept's Knight Helmet .2;Armadura;;;8;;Blacksmith's;0,2
+T4_HEAD_PLATE_SET2@3;Adept's Knight Helmet .3;Armadura;;;8;;Blacksmith's;0,4
+T4_HEAD_PLATE_SET2@4;Adept's Knight Helmet .4;Armadura;;;8;;Blacksmith's;0,8
+T5_HEAD_PLATE_SET2;Expert's Knight Helmet;Armadura;;;8;;Blacksmith's;0,1
+T5_HEAD_PLATE_SET2@1;Expert's Knight Helmet .1;Armadura;;;8;;Blacksmith's;0,2
+T5_HEAD_PLATE_SET2@2;Expert's Knight Helmet .2;Armadura;;;8;;Blacksmith's;0,4
+T5_HEAD_PLATE_SET2@3;Expert's Knight Helmet .3;Armadura;;;8;;Blacksmith's;0,8
+T5_HEAD_PLATE_SET2@4;Expert's Knight Helmet .4;Armadura;;;8;;Blacksmith's;1,6
+T6_HEAD_PLATE_SET2;Master's Knight Helmet;Armadura;;;8;;Blacksmith's;0,15
+T6_HEAD_PLATE_SET2@1;Master's Knight Helmet .1;Armadura;;;8;;Blacksmith's;0,3
+T6_HEAD_PLATE_SET2@2;Master's Knight Helmet .2;Armadura;;;8;;Blacksmith's;0,6
+T6_HEAD_PLATE_SET2@3;Master's Knight Helmet .3;Armadura;;;8;;Blacksmith's;1,2
+T6_HEAD_PLATE_SET2@4;Master's Knight Helmet .4;Armadura;;;8;;Blacksmith's;2,4
+T7_HEAD_PLATE_SET2;Grandmaster's Knight Helmet;Armadura;;;8;;Blacksmith's;0,18
+T7_HEAD_PLATE_SET2@1;Grandmaster's Knight Helmet .1;Armadura;;;8;;Blacksmith's;0,36
+T7_HEAD_PLATE_SET2@2;Grandmaster's Knight Helmet .2;Armadura;;;8;;Blacksmith's;0,725
+T7_HEAD_PLATE_SET2@3;Grandmaster's Knight Helmet .3;Armadura;;;8;;Blacksmith's;1,45
+T7_HEAD_PLATE_SET2@4;Grandmaster's Knight Helmet .4;Armadura;;;8;;Blacksmith's;2,91
+T8_HEAD_PLATE_SET2;Elder's Knight Helmet;Armadura;;;8;;Blacksmith's;0,19
+T8_HEAD_PLATE_SET2@1;Elder's Knight Helmet .1;Armadura;;;8;;Blacksmith's;0,38
+T8_HEAD_PLATE_SET2@2;Elder's Knight Helmet .2;Armadura;;;8;;Blacksmith's;0,76
+T8_HEAD_PLATE_SET2@3;Elder's Knight Helmet .3;Armadura;;;8;;Blacksmith's;1,52
+T8_HEAD_PLATE_SET2@4;Elder's Knight Helmet .4;Armadura;;;8;;Blacksmith's;3,04
+T4_HEAD_PLATE_SET3;Adept's Guardian Helmet;Armadura;;;8;;Blacksmith's;0,05
+T4_HEAD_PLATE_SET3@1;Adept's Guardian Helmet .1;Armadura;;;8;;Blacksmith's;0,1
+T4_HEAD_PLATE_SET3@2;Adept's Guardian Helmet .2;Armadura;;;8;;Blacksmith's;0,2
+T4_HEAD_PLATE_SET3@3;Adept's Guardian Helmet .3;Armadura;;;8;;Blacksmith's;0,4
+T4_HEAD_PLATE_SET3@4;Adept's Guardian Helmet .4;Armadura;;;8;;Blacksmith's;0,8
+T5_HEAD_PLATE_SET3;Expert's Guardian Helmet;Armadura;;;8;;Blacksmith's;0,1
+T5_HEAD_PLATE_SET3@1;Expert's Guardian Helmet .1;Armadura;;;8;;Blacksmith's;0,2
+T5_HEAD_PLATE_SET3@2;Expert's Guardian Helmet .2;Armadura;;;8;;Blacksmith's;0,4
+T5_HEAD_PLATE_SET3@3;Expert's Guardian Helmet .3;Armadura;;;8;;Blacksmith's;0,8
+T5_HEAD_PLATE_SET3@4;Expert's Guardian Helmet .4;Armadura;;;8;;Blacksmith's;1,6
+T6_HEAD_PLATE_SET3;Master's Guardian Helmet;Armadura;;;8;;Blacksmith's;0,15
+T6_HEAD_PLATE_SET3@1;Master's Guardian Helmet .1;Armadura;;;8;;Blacksmith's;0,3
+T6_HEAD_PLATE_SET3@2;Master's Guardian Helmet .2;Armadura;;;8;;Blacksmith's;0,6
+T6_HEAD_PLATE_SET3@3;Master's Guardian Helmet .3;Armadura;;;8;;Blacksmith's;1,2
+T6_HEAD_PLATE_SET3@4;Master's Guardian Helmet .4;Armadura;;;8;;Blacksmith's;2,4
+T7_HEAD_PLATE_SET3;Grandmaster's Guardian Helmet;Armadura;;;8;;Blacksmith's;0,18
+T7_HEAD_PLATE_SET3@1;Grandmaster's Guardian Helmet .1;Armadura;;;8;;Blacksmith's;0,36
+T7_HEAD_PLATE_SET3@2;Grandmaster's Guardian Helmet .2;Armadura;;;8;;Blacksmith's;0,725
+T7_HEAD_PLATE_SET3@3;Grandmaster's Guardian Helmet .3;Armadura;;;8;;Blacksmith's;1,45
+T7_HEAD_PLATE_SET3@4;Grandmaster's Guardian Helmet .4;Armadura;;;8;;Blacksmith's;2,91
+T8_HEAD_PLATE_SET3;Elder's Guardian Helmet;Armadura;;;8;;Blacksmith's;0,19
+T8_HEAD_PLATE_SET3@1;Elder's Guardian Helmet .1;Armadura;;;8;;Blacksmith's;0,38
+T8_HEAD_PLATE_SET3@2;Elder's Guardian Helmet .2;Armadura;;;8;;Blacksmith's;0,76
+T8_HEAD_PLATE_SET3@3;Elder's Guardian Helmet .3;Armadura;;;8;;Blacksmith's;1,52
+T8_HEAD_PLATE_SET3@4;Elder's Guardian Helmet .4;Armadura;;;8;;Blacksmith's;3,04
+T4_ARMOR_PLATE_SET1;Adept's Soldier Armor;Armadura;;;16;;Blacksmith's;0,1
+T4_ARMOR_PLATE_SET1@1;Adept's Soldier Armor .1;Armadura;;;16;;Blacksmith's;0,2
+T4_ARMOR_PLATE_SET1@2;Adept's Soldier Armor .2;Armadura;;;16;;Blacksmith's;0,4
+T4_ARMOR_PLATE_SET1@3;Adept's Soldier Armor .3;Armadura;;;16;;Blacksmith's;0,8
+T4_ARMOR_PLATE_SET1@4;Adept's Soldier Armor .4;Armadura;;;16;;Blacksmith's;1,6
+T5_ARMOR_PLATE_SET1;Expert's Soldier Armor;Armadura;;;16;;Blacksmith's;0,2
+T5_ARMOR_PLATE_SET1@1;Expert's Soldier Armor .1;Armadura;;;16;;Blacksmith's;0,4
+T5_ARMOR_PLATE_SET1@2;Expert's Soldier Armor .2;Armadura;;;16;;Blacksmith's;0,8
+T5_ARMOR_PLATE_SET1@3;Expert's Soldier Armor .3;Armadura;;;16;;Blacksmith's;1,6
+T5_ARMOR_PLATE_SET1@4;Expert's Soldier Armor .4;Armadura;;;16;;Blacksmith's;3,2
+T6_ARMOR_PLATE_SET1;Master's Soldier Armor;Armadura;;;16;;Blacksmith's;0,3
+T6_ARMOR_PLATE_SET1@1;Master's Soldier Armor .1;Armadura;;;16;;Blacksmith's;0,6
+T6_ARMOR_PLATE_SET1@2;Master's Soldier Armor .2;Armadura;;;16;;Blacksmith's;1,2
+T6_ARMOR_PLATE_SET1@3;Master's Soldier Armor .3;Armadura;;;16;;Blacksmith's;2,4
+T6_ARMOR_PLATE_SET1@4;Master's Soldier Armor .4;Armadura;;;16;;Blacksmith's;4,8
+T7_ARMOR_PLATE_SET1;Grandmaster's Soldier Armor;Armadura;;;16;;Blacksmith's;0,36
+T7_ARMOR_PLATE_SET1@1;Grandmaster's Soldier Armor .1;Armadura;;;16;;Blacksmith's;0,72
+T7_ARMOR_PLATE_SET1@2;Grandmaster's Soldier Armor .2;Armadura;;;16;;Blacksmith's;1,45
+T7_ARMOR_PLATE_SET1@3;Grandmaster's Soldier Armor .3;Armadura;;;16;;Blacksmith's;2,9
+T7_ARMOR_PLATE_SET1@4;Grandmaster's Soldier Armor .4;Armadura;;;16;;Blacksmith's;5,82
+T8_ARMOR_PLATE_SET1;Elder's Soldier Armor;Armadura;;;16;;Blacksmith's;0,38
+T8_ARMOR_PLATE_SET1@1;Elder's Soldier Armor .1;Armadura;;;16;;Blacksmith's;0,76
+T8_ARMOR_PLATE_SET1@2;Elder's Soldier Armor .2;Armadura;;;16;;Blacksmith's;1,52
+T8_ARMOR_PLATE_SET1@3;Elder's Soldier Armor .3;Armadura;;;16;;Blacksmith's;3,04
+T8_ARMOR_PLATE_SET1@4;Elder's Soldier Armor .4;Armadura;;;16;;Blacksmith's;6,08
+T4_ARMOR_PLATE_SET2;Adept's Knight Armor;Armadura;;;16;;Blacksmith's;0,1
+T4_ARMOR_PLATE_SET2@1;Adept's Knight Armor .1;Armadura;;;16;;Blacksmith's;0,2
+T4_ARMOR_PLATE_SET2@2;Adept's Knight Armor .2;Armadura;;;16;;Blacksmith's;0,4
+T4_ARMOR_PLATE_SET2@3;Adept's Knight Armor .3;Armadura;;;16;;Blacksmith's;0,8
+T4_ARMOR_PLATE_SET2@4;Adept's Knight Armor .4;Armadura;;;16;;Blacksmith's;1,6
+T5_ARMOR_PLATE_SET2;Expert's Knight Armor;Armadura;;;16;;Blacksmith's;0,2
+T5_ARMOR_PLATE_SET2@1;Expert's Knight Armor .1;Armadura;;;16;;Blacksmith's;0,4
+T5_ARMOR_PLATE_SET2@2;Expert's Knight Armor .2;Armadura;;;16;;Blacksmith's;0,8
+T5_ARMOR_PLATE_SET2@3;Expert's Knight Armor .3;Armadura;;;16;;Blacksmith's;1,6
+T5_ARMOR_PLATE_SET2@4;Expert's Knight Armor .4;Armadura;;;16;;Blacksmith's;3,2
+T6_ARMOR_PLATE_SET2;Master's Knight Armor;Armadura;;;16;;Blacksmith's;0,3
+T6_ARMOR_PLATE_SET2@1;Master's Knight Armor .1;Armadura;;;16;;Blacksmith's;0,6
+T6_ARMOR_PLATE_SET2@2;Master's Knight Armor .2;Armadura;;;16;;Blacksmith's;1,2
+T6_ARMOR_PLATE_SET2@3;Master's Knight Armor .3;Armadura;;;16;;Blacksmith's;2,4
+T6_ARMOR_PLATE_SET2@4;Master's Knight Armor .4;Armadura;;;16;;Blacksmith's;4,8
+T7_ARMOR_PLATE_SET2;Grandmaster's Knight Armor;Armadura;;;16;;Blacksmith's;0,36
+T7_ARMOR_PLATE_SET2@1;Grandmaster's Knight Armor .1;Armadura;;;16;;Blacksmith's;0,72
+T7_ARMOR_PLATE_SET2@2;Grandmaster's Knight Armor .2;Armadura;;;16;;Blacksmith's;1,45
+T7_ARMOR_PLATE_SET2@3;Grandmaster's Knight Armor .3;Armadura;;;16;;Blacksmith's;2,9
+T7_ARMOR_PLATE_SET2@4;Grandmaster's Knight Armor .4;Armadura;;;16;;Blacksmith's;5,82
+T8_ARMOR_PLATE_SET2;Elder's Knight Armor;Armadura;;;16;;Blacksmith's;0,38
+T8_ARMOR_PLATE_SET2@1;Elder's Knight Armor .1;Armadura;;;16;;Blacksmith's;0,76
+T8_ARMOR_PLATE_SET2@2;Elder's Knight Armor .2;Armadura;;;16;;Blacksmith's;1,52
+T8_ARMOR_PLATE_SET2@3;Elder's Knight Armor .3;Armadura;;;16;;Blacksmith's;3,04
+T8_ARMOR_PLATE_SET2@4;Elder's Knight Armor .4;Armadura;;;16;;Blacksmith's;6,08
+T4_ARMOR_PLATE_SET3;Adept's Guardian Armor;Armadura;;;16;;Blacksmith's;0,1
+T4_ARMOR_PLATE_SET3@1;Adept's Guardian Armor .1;Armadura;;;16;;Blacksmith's;0,2
+T4_ARMOR_PLATE_SET3@2;Adept's Guardian Armor .2;Armadura;;;16;;Blacksmith's;0,4
+T4_ARMOR_PLATE_SET3@3;Adept's Guardian Armor .3;Armadura;;;16;;Blacksmith's;0,8
+T4_ARMOR_PLATE_SET3@4;Adept's Guardian Armor .4;Armadura;;;16;;Blacksmith's;1,6
+T5_ARMOR_PLATE_SET3;Expert's Guardian Armor;Armadura;;;16;;Blacksmith's;0,2
+T5_ARMOR_PLATE_SET3@1;Expert's Guardian Armor .1;Armadura;;;16;;Blacksmith's;0,4
+T5_ARMOR_PLATE_SET3@2;Expert's Guardian Armor .2;Armadura;;;16;;Blacksmith's;0,8
+T5_ARMOR_PLATE_SET3@3;Expert's Guardian Armor .3;Armadura;;;16;;Blacksmith's;1,6
+T5_ARMOR_PLATE_SET3@4;Expert's Guardian Armor .4;Armadura;;;16;;Blacksmith's;3,2
+T6_ARMOR_PLATE_SET3;Master's Guardian Armor;Armadura;;;16;;Blacksmith's;0,3
+T6_ARMOR_PLATE_SET3@1;Master's Guardian Armor .1;Armadura;;;16;;Blacksmith's;0,6
+T6_ARMOR_PLATE_SET3@2;Master's Guardian Armor .2;Armadura;;;16;;Blacksmith's;1,2
+T6_ARMOR_PLATE_SET3@3;Master's Guardian Armor .3;Armadura;;;16;;Blacksmith's;2,4
+T6_ARMOR_PLATE_SET3@4;Master's Guardian Armor .4;Armadura;;;16;;Blacksmith's;4,8
+T7_ARMOR_PLATE_SET3;Grandmaster's Guardian Armor;Armadura;;;16;;Blacksmith's;0,36
+T7_ARMOR_PLATE_SET3@1;Grandmaster's Guardian Armor .1;Armadura;;;16;;Blacksmith's;0,72
+T7_ARMOR_PLATE_SET3@2;Grandmaster's Guardian Armor .2;Armadura;;;16;;Blacksmith's;1,45
+T7_ARMOR_PLATE_SET3@3;Grandmaster's Guardian Armor .3;Armadura;;;16;;Blacksmith's;2,9
+T7_ARMOR_PLATE_SET3@4;Grandmaster's Guardian Armor .4;Armadura;;;16;;Blacksmith's;5,82
+T8_ARMOR_PLATE_SET3;Elder's Guardian Armor;Armadura;;;16;;Blacksmith's;0,38
+T8_ARMOR_PLATE_SET3@1;Elder's Guardian Armor .1;Armadura;;;16;;Blacksmith's;0,76
+T8_ARMOR_PLATE_SET3@2;Elder's Guardian Armor .2;Armadura;;;16;;Blacksmith's;1,52
+T8_ARMOR_PLATE_SET3@3;Elder's Guardian Armor .3;Armadura;;;16;;Blacksmith's;3,04
+T8_ARMOR_PLATE_SET3@4;Elder's Guardian Armor .4;Armadura;;;16;;Blacksmith's;6,08
+T4_SHOES_PLATE_SET1;Adept's Soldier Boots;Armadura;;;8;;Blacksmith's;0,05
+T4_SHOES_PLATE_SET1@1;Adept's Soldier Boots .1;Armadura;;;8;;Blacksmith's;0,1
+T4_SHOES_PLATE_SET1@2;Adept's Soldier Boots .2;Armadura;;;8;;Blacksmith's;0,2
+T4_SHOES_PLATE_SET1@3;Adept's Soldier Boots .3;Armadura;;;8;;Blacksmith's;0,4
+T4_SHOES_PLATE_SET1@4;Adept's Soldier Boots .4;Armadura;;;8;;Blacksmith's;0,8
+T5_SHOES_PLATE_SET1;Expert's Soldier Boots;Armadura;;;8;;Blacksmith's;0,1
+T5_SHOES_PLATE_SET1@1;Expert's Soldier Boots .1;Armadura;;;8;;Blacksmith's;0,2
+T5_SHOES_PLATE_SET1@2;Expert's Soldier Boots .2;Armadura;;;8;;Blacksmith's;0,4
+T5_SHOES_PLATE_SET1@3;Expert's Soldier Boots .3;Armadura;;;8;;Blacksmith's;0,8
+T5_SHOES_PLATE_SET1@4;Expert's Soldier Boots .4;Armadura;;;8;;Blacksmith's;1,6
+T6_SHOES_PLATE_SET1;Master's Soldier Boots;Armadura;;;8;;Blacksmith's;0,15
+T6_SHOES_PLATE_SET1@1;Master's Soldier Boots .1;Armadura;;;8;;Blacksmith's;0,3
+T6_SHOES_PLATE_SET1@2;Master's Soldier Boots .2;Armadura;;;8;;Blacksmith's;0,6
+T6_SHOES_PLATE_SET1@3;Master's Soldier Boots .3;Armadura;;;8;;Blacksmith's;1,2
+T6_SHOES_PLATE_SET1@4;Master's Soldier Boots .4;Armadura;;;8;;Blacksmith's;2,4
+T7_SHOES_PLATE_SET1;Grandmaster's Soldier Boots;Armadura;;;8;;Blacksmith's;0,18
+T7_SHOES_PLATE_SET1@1;Grandmaster's Soldier Boots .1;Armadura;;;8;;Blacksmith's;0,36
+T7_SHOES_PLATE_SET1@2;Grandmaster's Soldier Boots .2;Armadura;;;8;;Blacksmith's;0,725
+T7_SHOES_PLATE_SET1@3;Grandmaster's Soldier Boots .3;Armadura;;;8;;Blacksmith's;1,45
+T7_SHOES_PLATE_SET1@4;Grandmaster's Soldier Boots .4;Armadura;;;8;;Blacksmith's;2,91
+T8_SHOES_PLATE_SET1;Elder's Soldier Boots;Armadura;;;8;;Blacksmith's;0,19
+T8_SHOES_PLATE_SET1@1;Elder's Soldier Boots .1;Armadura;;;8;;Blacksmith's;0,38
+T8_SHOES_PLATE_SET1@2;Elder's Soldier Boots .2;Armadura;;;8;;Blacksmith's;0,76
+T8_SHOES_PLATE_SET1@3;Elder's Soldier Boots .3;Armadura;;;8;;Blacksmith's;1,52
+T8_SHOES_PLATE_SET1@4;Elder's Soldier Boots .4;Armadura;;;8;;Blacksmith's;3,04
+T4_SHOES_PLATE_SET2;Adept's Knight Boots;Armadura;;;8;;Blacksmith's;0,05
+T4_SHOES_PLATE_SET2@1;Adept's Knight Boots .1;Armadura;;;8;;Blacksmith's;0,1
+T4_SHOES_PLATE_SET2@2;Adept's Knight Boots .2;Armadura;;;8;;Blacksmith's;0,2
+T4_SHOES_PLATE_SET2@3;Adept's Knight Boots .3;Armadura;;;8;;Blacksmith's;0,4
+T4_SHOES_PLATE_SET2@4;Adept's Knight Boots .4;Armadura;;;8;;Blacksmith's;0,8
+T5_SHOES_PLATE_SET2;Expert's Knight Boots;Armadura;;;8;;Blacksmith's;0,1
+T5_SHOES_PLATE_SET2@1;Expert's Knight Boots .1;Armadura;;;8;;Blacksmith's;0,2
+T5_SHOES_PLATE_SET2@2;Expert's Knight Boots .2;Armadura;;;8;;Blacksmith's;0,4
+T5_SHOES_PLATE_SET2@3;Expert's Knight Boots .3;Armadura;;;8;;Blacksmith's;0,8
+T5_SHOES_PLATE_SET2@4;Expert's Knight Boots .4;Armadura;;;8;;Blacksmith's;1,6
+T6_SHOES_PLATE_SET2;Master's Knight Boots;Armadura;;;8;;Blacksmith's;0,15
+T6_SHOES_PLATE_SET2@1;Master's Knight Boots .1;Armadura;;;8;;Blacksmith's;0,3
+T6_SHOES_PLATE_SET2@2;Master's Knight Boots .2;Armadura;;;8;;Blacksmith's;0,6
+T6_SHOES_PLATE_SET2@3;Master's Knight Boots .3;Armadura;;;8;;Blacksmith's;1,2
+T6_SHOES_PLATE_SET2@4;Master's Knight Boots .4;Armadura;;;8;;Blacksmith's;2,4
+T7_SHOES_PLATE_SET2;Grandmaster's Knight Boots;Armadura;;;8;;Blacksmith's;0,18
+T7_SHOES_PLATE_SET2@1;Grandmaster's Knight Boots .1;Armadura;;;8;;Blacksmith's;0,36
+T7_SHOES_PLATE_SET2@2;Grandmaster's Knight Boots .2;Armadura;;;8;;Blacksmith's;0,725
+T7_SHOES_PLATE_SET2@3;Grandmaster's Knight Boots .3;Armadura;;;8;;Blacksmith's;1,45
+T7_SHOES_PLATE_SET2@4;Grandmaster's Knight Boots .4;Armadura;;;8;;Blacksmith's;2,91
+T8_SHOES_PLATE_SET2;Elder's Knight Boots;Armadura;;;8;;Blacksmith's;0,19
+T8_SHOES_PLATE_SET2@1;Elder's Knight Boots .1;Armadura;;;8;;Blacksmith's;0,38
+T8_SHOES_PLATE_SET2@2;Elder's Knight Boots .2;Armadura;;;8;;Blacksmith's;0,76
+T8_SHOES_PLATE_SET2@3;Elder's Knight Boots .3;Armadura;;;8;;Blacksmith's;1,52
+T8_SHOES_PLATE_SET2@4;Elder's Knight Boots .4;Armadura;;;8;;Blacksmith's;3,04
+T4_SHOES_PLATE_SET3;Adept's Guardian Boots;Armadura;;;8;;Blacksmith's;0,05
+T4_SHOES_PLATE_SET3@1;Adept's Guardian Boots .1;Armadura;;;8;;Blacksmith's;0,1
+T4_SHOES_PLATE_SET3@2;Adept's Guardian Boots .2;Armadura;;;8;;Blacksmith's;0,2
+T4_SHOES_PLATE_SET3@3;Adept's Guardian Boots .3;Armadura;;;8;;Blacksmith's;0,4
+T4_SHOES_PLATE_SET3@4;Adept's Guardian Boots .4;Armadura;;;8;;Blacksmith's;0,8
+T5_SHOES_PLATE_SET3;Expert's Guardian Boots;Armadura;;;8;;Blacksmith's;0,1
+T5_SHOES_PLATE_SET3@1;Expert's Guardian Boots .1;Armadura;;;8;;Blacksmith's;0,2
+T5_SHOES_PLATE_SET3@2;Expert's Guardian Boots .2;Armadura;;;8;;Blacksmith's;0,4
+T5_SHOES_PLATE_SET3@3;Expert's Guardian Boots .3;Armadura;;;8;;Blacksmith's;0,8
+T5_SHOES_PLATE_SET3@4;Expert's Guardian Boots .4;Armadura;;;8;;Blacksmith's;1,6
+T6_SHOES_PLATE_SET3;Master's Guardian Boots;Armadura;;;8;;Blacksmith's;0,15
+T6_SHOES_PLATE_SET3@1;Master's Guardian Boots .1;Armadura;;;8;;Blacksmith's;0,3
+T6_SHOES_PLATE_SET3@2;Master's Guardian Boots .2;Armadura;;;8;;Blacksmith's;0,6
+T6_SHOES_PLATE_SET3@3;Master's Guardian Boots .3;Armadura;;;8;;Blacksmith's;1,2
+T6_SHOES_PLATE_SET3@4;Master's Guardian Boots .4;Armadura;;;8;;Blacksmith's;2,4
+T7_SHOES_PLATE_SET3;Grandmaster's Guardian Boots;Armadura;;;8;;Blacksmith's;0,18
+T7_SHOES_PLATE_SET3@1;Grandmaster's Guardian Boots .1;Armadura;;;8;;Blacksmith's;0,36
+T7_SHOES_PLATE_SET3@2;Grandmaster's Guardian Boots .2;Armadura;;;8;;Blacksmith's;0,725
+T7_SHOES_PLATE_SET3@3;Grandmaster's Guardian Boots .3;Armadura;;;8;;Blacksmith's;1,45
+T7_SHOES_PLATE_SET3@4;Grandmaster's Guardian Boots .4;Armadura;;;8;;Blacksmith's;2,91
+T8_SHOES_PLATE_SET3;Elder's Guardian Boots;Armadura;;;8;;Blacksmith's;0,19
+T8_SHOES_PLATE_SET3@1;Elder's Guardian Boots .1;Armadura;;;8;;Blacksmith's;0,38
+T8_SHOES_PLATE_SET3@2;Elder's Guardian Boots .2;Armadura;;;8;;Blacksmith's;0,76
+T8_SHOES_PLATE_SET3@3;Elder's Guardian Boots .3;Armadura;;;8;;Blacksmith's;1,52
+T8_SHOES_PLATE_SET3@4;Elder's Guardian Boots .4;Armadura;;;8;;Blacksmith's;3,04
+T4_HEAD_LEATHER_SET1;Adept's Mercenary Hood;Armadura;8;;;;Fletcher's;0,05
+T4_HEAD_LEATHER_SET1@1;Adept's Mercenary Hood .1;Armadura;8;;;;Fletcher's;0,1
+T4_HEAD_LEATHER_SET1@2;Adept's Mercenary Hood .2;Armadura;8;;;;Fletcher's;0,2
+T4_HEAD_LEATHER_SET1@3;Adept's Mercenary Hood .3;Armadura;8;;;;Fletcher's;0,4
+T4_HEAD_LEATHER_SET1@4;Adept's Mercenary Hood .4;Armadura;8;;;;Fletcher's;0,8
+T5_HEAD_LEATHER_SET1;Expert's Mercenary Hood;Armadura;8;;;;Fletcher's;0,1
+T5_HEAD_LEATHER_SET1@1;Expert's Mercenary Hood .1;Armadura;8;;;;Fletcher's;0,2
+T5_HEAD_LEATHER_SET1@2;Expert's Mercenary Hood .2;Armadura;8;;;;Fletcher's;0,4
+T5_HEAD_LEATHER_SET1@3;Expert's Mercenary Hood .3;Armadura;8;;;;Fletcher's;0,8
+T5_HEAD_LEATHER_SET1@4;Expert's Mercenary Hood .4;Armadura;8;;;;Fletcher's;1,6
+T6_HEAD_LEATHER_SET1;Master's Mercenary Hood;Armadura;8;;;;Fletcher's;0,15
+T6_HEAD_LEATHER_SET1@1;Master's Mercenary Hood .1;Armadura;8;;;;Fletcher's;0,3
+T6_HEAD_LEATHER_SET1@2;Master's Mercenary Hood .2;Armadura;8;;;;Fletcher's;0,6
+T6_HEAD_LEATHER_SET1@3;Master's Mercenary Hood .3;Armadura;8;;;;Fletcher's;1,2
+T6_HEAD_LEATHER_SET1@4;Master's Mercenary Hood .4;Armadura;8;;;;Fletcher's;2,4
+T7_HEAD_LEATHER_SET1;Grandmaster's Mercenary Hood;Armadura;8;;;;Fletcher's;0,18
+T7_HEAD_LEATHER_SET1@1;Grandmaster's Mercenary Hood .1;Armadura;8;;;;Fletcher's;0,36
+T7_HEAD_LEATHER_SET1@2;Grandmaster's Mercenary Hood .2;Armadura;8;;;;Fletcher's;0,725
+T7_HEAD_LEATHER_SET1@3;Grandmaster's Mercenary Hood .3;Armadura;8;;;;Fletcher's;1,45
+T7_HEAD_LEATHER_SET1@4;Grandmaster's Mercenary Hood .4;Armadura;8;;;;Fletcher's;2,91
+T8_HEAD_LEATHER_SET1;Elder's Mercenary Hood;Armadura;8;;;;Fletcher's;0,19
+T8_HEAD_LEATHER_SET1@1;Elder's Mercenary Hood .1;Armadura;8;;;;Fletcher's;0,38
+T8_HEAD_LEATHER_SET1@2;Elder's Mercenary Hood .2;Armadura;8;;;;Fletcher's;0,76
+T8_HEAD_LEATHER_SET1@3;Elder's Mercenary Hood .3;Armadura;8;;;;Fletcher's;1,52
+T8_HEAD_LEATHER_SET1@4;Elder's Mercenary Hood .4;Armadura;8;;;;Fletcher's;3,04
+T4_HEAD_LEATHER_SET2;Adept's Hunter Hood;Armadura;8;;;;Fletcher's;0,05
+T4_HEAD_LEATHER_SET2@1;Adept's Hunter Hood .1;Armadura;8;;;;Fletcher's;0,1
+T4_HEAD_LEATHER_SET2@2;Adept's Hunter Hood .2;Armadura;8;;;;Fletcher's;0,2
+T4_HEAD_LEATHER_SET2@3;Adept's Hunter Hood .3;Armadura;8;;;;Fletcher's;0,4
+T4_HEAD_LEATHER_SET2@4;Adept's Hunter Hood .4;Armadura;8;;;;Fletcher's;0,8
+T5_HEAD_LEATHER_SET2;Expert's Hunter Hood;Armadura;8;;;;Fletcher's;0,1
+T5_HEAD_LEATHER_SET2@1;Expert's Hunter Hood .1;Armadura;8;;;;Fletcher's;0,2
+T5_HEAD_LEATHER_SET2@2;Expert's Hunter Hood .2;Armadura;8;;;;Fletcher's;0,4
+T5_HEAD_LEATHER_SET2@3;Expert's Hunter Hood .3;Armadura;8;;;;Fletcher's;0,8
+T5_HEAD_LEATHER_SET2@4;Expert's Hunter Hood .4;Armadura;8;;;;Fletcher's;1,6
+T6_HEAD_LEATHER_SET2;Master's Hunter Hood;Armadura;8;;;;Fletcher's;0,15
+T6_HEAD_LEATHER_SET2@1;Master's Hunter Hood .1;Armadura;8;;;;Fletcher's;0,3
+T6_HEAD_LEATHER_SET2@2;Master's Hunter Hood .2;Armadura;8;;;;Fletcher's;0,6
+T6_HEAD_LEATHER_SET2@3;Master's Hunter Hood .3;Armadura;8;;;;Fletcher's;1,2
+T6_HEAD_LEATHER_SET2@4;Master's Hunter Hood .4;Armadura;8;;;;Fletcher's;2,4
+T7_HEAD_LEATHER_SET2;Grandmaster's Hunter Hood;Armadura;8;;;;Fletcher's;0,18
+T7_HEAD_LEATHER_SET2@1;Grandmaster's Hunter Hood .1;Armadura;8;;;;Fletcher's;0,36
+T7_HEAD_LEATHER_SET2@2;Grandmaster's Hunter Hood .2;Armadura;8;;;;Fletcher's;0,725
+T7_HEAD_LEATHER_SET2@3;Grandmaster's Hunter Hood .3;Armadura;8;;;;Fletcher's;1,45
+T7_HEAD_LEATHER_SET2@4;Grandmaster's Hunter Hood .4;Armadura;8;;;;Fletcher's;2,91
+T8_HEAD_LEATHER_SET2;Elder's Hunter Hood;Armadura;8;;;;Fletcher's;0,19
+T8_HEAD_LEATHER_SET2@1;Elder's Hunter Hood .1;Armadura;8;;;;Fletcher's;0,38
+T8_HEAD_LEATHER_SET2@2;Elder's Hunter Hood .2;Armadura;8;;;;Fletcher's;0,76
+T8_HEAD_LEATHER_SET2@3;Elder's Hunter Hood .3;Armadura;8;;;;Fletcher's;1,52
+T8_HEAD_LEATHER_SET2@4;Elder's Hunter Hood .4;Armadura;8;;;;Fletcher's;3,04
+T4_HEAD_LEATHER_SET3;Adept's Assassin Hood;Armadura;8;;;;Fletcher's;0,05
+T4_HEAD_LEATHER_SET3@1;Adept's Assassin Hood .1;Armadura;8;;;;Fletcher's;0,1
+T4_HEAD_LEATHER_SET3@2;Adept's Assassin Hood .2;Armadura;8;;;;Fletcher's;0,2
+T4_HEAD_LEATHER_SET3@3;Adept's Assassin Hood .3;Armadura;8;;;;Fletcher's;0,4
+T4_HEAD_LEATHER_SET3@4;Adept's Assassin Hood .4;Armadura;8;;;;Fletcher's;0,8
+T5_HEAD_LEATHER_SET3;Expert's Assassin Hood;Armadura;8;;;;Fletcher's;0,1
+T5_HEAD_LEATHER_SET3@1;Expert's Assassin Hood .1;Armadura;8;;;;Fletcher's;0,2
+T5_HEAD_LEATHER_SET3@2;Expert's Assassin Hood .2;Armadura;8;;;;Fletcher's;0,4
+T5_HEAD_LEATHER_SET3@3;Expert's Assassin Hood .3;Armadura;8;;;;Fletcher's;0,8
+T5_HEAD_LEATHER_SET3@4;Expert's Assassin Hood .4;Armadura;8;;;;Fletcher's;1,6
+T6_HEAD_LEATHER_SET3;Master's Assassin Hood;Armadura;8;;;;Fletcher's;0,15
+T6_HEAD_LEATHER_SET3@1;Master's Assassin Hood .1;Armadura;8;;;;Fletcher's;0,3
+T6_HEAD_LEATHER_SET3@2;Master's Assassin Hood .2;Armadura;8;;;;Fletcher's;0,6
+T6_HEAD_LEATHER_SET3@3;Master's Assassin Hood .3;Armadura;8;;;;Fletcher's;1,2
+T6_HEAD_LEATHER_SET3@4;Master's Assassin Hood .4;Armadura;8;;;;Fletcher's;2,4
+T7_HEAD_LEATHER_SET3;Grandmaster's Assassin Hood;Armadura;8;;;;Fletcher's;0,18
+T7_HEAD_LEATHER_SET3@1;Grandmaster's Assassin Hood .1;Armadura;8;;;;Fletcher's;0,36
+T7_HEAD_LEATHER_SET3@2;Grandmaster's Assassin Hood .2;Armadura;8;;;;Fletcher's;0,725
+T7_HEAD_LEATHER_SET3@3;Grandmaster's Assassin Hood .3;Armadura;8;;;;Fletcher's;1,45
+T7_HEAD_LEATHER_SET3@4;Grandmaster's Assassin Hood .4;Armadura;8;;;;Fletcher's;2,91
+T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;Armadura;8;;;;Fletcher's;0,19
+T8_HEAD_LEATHER_SET3@1;Elder's Assassin Hood .1;Armadura;8;;;;Fletcher's;0,38
+T8_HEAD_LEATHER_SET3@2;Elder's Assassin Hood .2;Armadura;8;;;;Fletcher's;0,76
+T8_HEAD_LEATHER_SET3@3;Elder's Assassin Hood .3;Armadura;8;;;;Fletcher's;1,52
+T8_HEAD_LEATHER_SET3@4;Elder's Assassin Hood .4;Armadura;8;;;;Fletcher's;3,04
+T4_ARMOR_LEATHER_SET1;Adept's Mercenary Jacket;Armadura;16;;;;Fletcher's;0,1
+T4_ARMOR_LEATHER_SET1@1;Adept's Mercenary Jacket .1;Armadura;16;;;;Fletcher's;0,2
+T4_ARMOR_LEATHER_SET1@2;Adept's Mercenary Jacket .2;Armadura;16;;;;Fletcher's;0,4
+T4_ARMOR_LEATHER_SET1@3;Adept's Mercenary Jacket .3;Armadura;16;;;;Fletcher's;0,8
+T4_ARMOR_LEATHER_SET1@4;Adept's Mercenary Jacket .4;Armadura;16;;;;Fletcher's;1,6
+T5_ARMOR_LEATHER_SET1;Expert's Mercenary Jacket;Armadura;16;;;;Fletcher's;0,2
+T5_ARMOR_LEATHER_SET1@1;Expert's Mercenary Jacket .1;Armadura;16;;;;Fletcher's;0,4
+T5_ARMOR_LEATHER_SET1@2;Expert's Mercenary Jacket .2;Armadura;16;;;;Fletcher's;0,8
+T5_ARMOR_LEATHER_SET1@3;Expert's Mercenary Jacket .3;Armadura;16;;;;Fletcher's;1,6
+T5_ARMOR_LEATHER_SET1@4;Expert's Mercenary Jacket .4;Armadura;16;;;;Fletcher's;3,2
+T6_ARMOR_LEATHER_SET1;Master's Mercenary Jacket;Armadura;16;;;;Fletcher's;0,3
+T6_ARMOR_LEATHER_SET1@1;Master's Mercenary Jacket .1;Armadura;16;;;;Fletcher's;0,6
+T6_ARMOR_LEATHER_SET1@2;Master's Mercenary Jacket .2;Armadura;16;;;;Fletcher's;1,2
+T6_ARMOR_LEATHER_SET1@3;Master's Mercenary Jacket .3;Armadura;16;;;;Fletcher's;2,4
+T6_ARMOR_LEATHER_SET1@4;Master's Mercenary Jacket .4;Armadura;16;;;;Fletcher's;4,8
+T7_ARMOR_LEATHER_SET1;Grandmaster's Mercenary Jacket;Armadura;16;;;;Fletcher's;0,36
+T7_ARMOR_LEATHER_SET1@1;Grandmaster's Mercenary Jacket .1;Armadura;16;;;;Fletcher's;0,72
+T7_ARMOR_LEATHER_SET1@2;Grandmaster's Mercenary Jacket .2;Armadura;16;;;;Fletcher's;1,45
+T7_ARMOR_LEATHER_SET1@3;Grandmaster's Mercenary Jacket .3;Armadura;16;;;;Fletcher's;2,9
+T7_ARMOR_LEATHER_SET1@4;Grandmaster's Mercenary Jacket .4;Armadura;16;;;;Fletcher's;5,82
+T8_ARMOR_LEATHER_SET1;Elder's Mercenary Jacket;Armadura;16;;;;Fletcher's;0,38
+T8_ARMOR_LEATHER_SET1@1;Elder's Mercenary Jacket .1;Armadura;16;;;;Fletcher's;0,76
+T8_ARMOR_LEATHER_SET1@2;Elder's Mercenary Jacket .2;Armadura;16;;;;Fletcher's;1,52
+T8_ARMOR_LEATHER_SET1@3;Elder's Mercenary Jacket .3;Armadura;16;;;;Fletcher's;3,04
+T8_ARMOR_LEATHER_SET1@4;Elder's Mercenary Jacket .4;Armadura;16;;;;Fletcher's;6,08
+T4_ARMOR_LEATHER_SET2;Adept's Hunter Jacket;Armadura;16;;;;Fletcher's;0,1
+T4_ARMOR_LEATHER_SET2@1;Adept's Hunter Jacket .1;Armadura;16;;;;Fletcher's;0,2
+T4_ARMOR_LEATHER_SET2@2;Adept's Hunter Jacket .2;Armadura;16;;;;Fletcher's;0,4
+T4_ARMOR_LEATHER_SET2@3;Adept's Hunter Jacket .3;Armadura;16;;;;Fletcher's;0,8
+T4_ARMOR_LEATHER_SET2@4;Adept's Hunter Jacket .4;Armadura;16;;;;Fletcher's;1,6
+T5_ARMOR_LEATHER_SET2;Expert's Hunter Jacket;Armadura;16;;;;Fletcher's;0,2
+T5_ARMOR_LEATHER_SET2@1;Expert's Hunter Jacket .1;Armadura;16;;;;Fletcher's;0,4
+T5_ARMOR_LEATHER_SET2@2;Expert's Hunter Jacket .2;Armadura;16;;;;Fletcher's;0,8
+T5_ARMOR_LEATHER_SET2@3;Expert's Hunter Jacket .3;Armadura;16;;;;Fletcher's;1,6
+T5_ARMOR_LEATHER_SET2@4;Expert's Hunter Jacket .4;Armadura;16;;;;Fletcher's;3,2
+T6_ARMOR_LEATHER_SET2;Master's Hunter Jacket;Armadura;16;;;;Fletcher's;0,3
+T6_ARMOR_LEATHER_SET2@1;Master's Hunter Jacket .1;Armadura;16;;;;Fletcher's;0,6
+T6_ARMOR_LEATHER_SET2@2;Master's Hunter Jacket .2;Armadura;16;;;;Fletcher's;1,2
+T6_ARMOR_LEATHER_SET2@3;Master's Hunter Jacket .3;Armadura;16;;;;Fletcher's;2,4
+T6_ARMOR_LEATHER_SET2@4;Master's Hunter Jacket .4;Armadura;16;;;;Fletcher's;4,8
+T7_ARMOR_LEATHER_SET2;Grandmaster's Hunter Jacket;Armadura;16;;;;Fletcher's;0,36
+T7_ARMOR_LEATHER_SET2@1;Grandmaster's Hunter Jacket .1;Armadura;16;;;;Fletcher's;0,72
+T7_ARMOR_LEATHER_SET2@2;Grandmaster's Hunter Jacket .2;Armadura;16;;;;Fletcher's;1,45
+T7_ARMOR_LEATHER_SET2@3;Grandmaster's Hunter Jacket .3;Armadura;16;;;;Fletcher's;2,9
+T7_ARMOR_LEATHER_SET2@4;Grandmaster's Hunter Jacket .4;Armadura;16;;;;Fletcher's;5,82
+T8_ARMOR_LEATHER_SET2;Elder's Hunter Jacket;Armadura;16;;;;Fletcher's;0,38
+T8_ARMOR_LEATHER_SET2@1;Elder's Hunter Jacket .1;Armadura;16;;;;Fletcher's;0,76
+T8_ARMOR_LEATHER_SET2@2;Elder's Hunter Jacket .2;Armadura;16;;;;Fletcher's;1,52
+T8_ARMOR_LEATHER_SET2@3;Elder's Hunter Jacket .3;Armadura;16;;;;Fletcher's;3,04
+T8_ARMOR_LEATHER_SET2@4;Elder's Hunter Jacket .4;Armadura;16;;;;Fletcher's;6,08
+T4_ARMOR_LEATHER_SET3;Adept's Assassin Jacket;Armadura;16;;;;Fletcher's;0,1
+T4_ARMOR_LEATHER_SET3@1;Adept's Assassin Jacket .1;Armadura;16;;;;Fletcher's;0,2
+T4_ARMOR_LEATHER_SET3@2;Adept's Assassin Jacket .2;Armadura;16;;;;Fletcher's;0,4
+T4_ARMOR_LEATHER_SET3@3;Adept's Assassin Jacket .3;Armadura;16;;;;Fletcher's;0,8
+T4_ARMOR_LEATHER_SET3@4;Adept's Assassin Jacket .4;Armadura;16;;;;Fletcher's;1,6
+T5_ARMOR_LEATHER_SET3;Expert's Assassin Jacket;Armadura;16;;;;Fletcher's;0,2
+T5_ARMOR_LEATHER_SET3@1;Expert's Assassin Jacket .1;Armadura;16;;;;Fletcher's;0,4
+T5_ARMOR_LEATHER_SET3@2;Expert's Assassin Jacket .2;Armadura;16;;;;Fletcher's;0,8
+T5_ARMOR_LEATHER_SET3@3;Expert's Assassin Jacket .3;Armadura;16;;;;Fletcher's;1,6
+T5_ARMOR_LEATHER_SET3@4;Expert's Assassin Jacket .4;Armadura;16;;;;Fletcher's;3,2
+T6_ARMOR_LEATHER_SET3;Master's Assassin Jacket;Armadura;16;;;;Fletcher's;0,3
+T6_ARMOR_LEATHER_SET3@1;Master's Assassin Jacket .1;Armadura;16;;;;Fletcher's;0,6
+T6_ARMOR_LEATHER_SET3@2;Master's Assassin Jacket .2;Armadura;16;;;;Fletcher's;1,2
+T6_ARMOR_LEATHER_SET3@3;Master's Assassin Jacket .3;Armadura;16;;;;Fletcher's;2,4
+T6_ARMOR_LEATHER_SET3@4;Master's Assassin Jacket .4;Armadura;16;;;;Fletcher's;4,8
+T7_ARMOR_LEATHER_SET3;Grandmaster's Assassin Jacket;Armadura;16;;;;Fletcher's;0,36
+T7_ARMOR_LEATHER_SET3@1;Grandmaster's Assassin Jacket .1;Armadura;16;;;;Fletcher's;0,72
+T7_ARMOR_LEATHER_SET3@2;Grandmaster's Assassin Jacket .2;Armadura;16;;;;Fletcher's;1,45
+T7_ARMOR_LEATHER_SET3@3;Grandmaster's Assassin Jacket .3;Armadura;16;;;;Fletcher's;2,9
+T7_ARMOR_LEATHER_SET3@4;Grandmaster's Assassin Jacket .4;Armadura;16;;;;Fletcher's;5,82
+T8_ARMOR_LEATHER_SET3;Elder's Assassin Jacket;Armadura;16;;;;Fletcher's;0,38
+T8_ARMOR_LEATHER_SET3@1;Elder's Assassin Jacket .1;Armadura;16;;;;Fletcher's;0,76
+T8_ARMOR_LEATHER_SET3@2;Elder's Assassin Jacket .2;Armadura;16;;;;Fletcher's;1,52
+T8_ARMOR_LEATHER_SET3@3;Elder's Assassin Jacket .3;Armadura;16;;;;Fletcher's;3,04
+T8_ARMOR_LEATHER_SET3@4;Elder's Assassin Jacket .4;Armadura;16;;;;Fletcher's;6,08
+T4_SHOES_LEATHER_SET1;Adept's Mercenary Shoes;Armadura;8;;;;Fletcher's;0,05
+T4_SHOES_LEATHER_SET1@1;Adept's Mercenary Shoes .1;Armadura;8;;;;Fletcher's;0,1
+T4_SHOES_LEATHER_SET1@2;Adept's Mercenary Shoes .2;Armadura;8;;;;Fletcher's;0,2
+T4_SHOES_LEATHER_SET1@3;Adept's Mercenary Shoes .3;Armadura;8;;;;Fletcher's;0,4
+T4_SHOES_LEATHER_SET1@4;Adept's Mercenary Shoes .4;Armadura;8;;;;Fletcher's;0,8
+T5_SHOES_LEATHER_SET1;Expert's Mercenary Shoes;Armadura;8;;;;Fletcher's;0,1
+T5_SHOES_LEATHER_SET1@1;Expert's Mercenary Shoes .1;Armadura;8;;;;Fletcher's;0,2
+T5_SHOES_LEATHER_SET1@2;Expert's Mercenary Shoes .2;Armadura;8;;;;Fletcher's;0,4
+T5_SHOES_LEATHER_SET1@3;Expert's Mercenary Shoes .3;Armadura;8;;;;Fletcher's;0,8
+T5_SHOES_LEATHER_SET1@4;Expert's Mercenary Shoes .4;Armadura;8;;;;Fletcher's;1,6
+T6_SHOES_LEATHER_SET1;Master's Mercenary Shoes;Armadura;8;;;;Fletcher's;0,15
+T6_SHOES_LEATHER_SET1@1;Master's Mercenary Shoes .1;Armadura;8;;;;Fletcher's;0,3
+T6_SHOES_LEATHER_SET1@2;Master's Mercenary Shoes .2;Armadura;8;;;;Fletcher's;0,6
+T6_SHOES_LEATHER_SET1@3;Master's Mercenary Shoes .3;Armadura;8;;;;Fletcher's;1,2
+T6_SHOES_LEATHER_SET1@4;Master's Mercenary Shoes .4;Armadura;8;;;;Fletcher's;2,4
+T7_SHOES_LEATHER_SET1;Grandmaster's Mercenary Shoes;Armadura;8;;;;Fletcher's;0,18
+T7_SHOES_LEATHER_SET1@1;Grandmaster's Mercenary Shoes .1;Armadura;8;;;;Fletcher's;0,36
+T7_SHOES_LEATHER_SET1@2;Grandmaster's Mercenary Shoes .2;Armadura;8;;;;Fletcher's;0,725
+T7_SHOES_LEATHER_SET1@3;Grandmaster's Mercenary Shoes .3;Armadura;8;;;;Fletcher's;1,45
+T7_SHOES_LEATHER_SET1@4;Grandmaster's Mercenary Shoes .4;Armadura;8;;;;Fletcher's;2,91
+T8_SHOES_LEATHER_SET1;Elder's Mercenary Shoes;Armadura;8;;;;Fletcher's;0,19
+T8_SHOES_LEATHER_SET1@1;Elder's Mercenary Shoes .1;Armadura;8;;;;Fletcher's;0,38
+T8_SHOES_LEATHER_SET1@2;Elder's Mercenary Shoes .2;Armadura;8;;;;Fletcher's;0,76
+T8_SHOES_LEATHER_SET1@3;Elder's Mercenary Shoes .3;Armadura;8;;;;Fletcher's;1,52
+T8_SHOES_LEATHER_SET1@4;Elder's Mercenary Shoes .4;Armadura;8;;;;Fletcher's;3,04
+T4_SHOES_LEATHER_SET2;Adept's Hunter Shoes;Armadura;8;;;;Fletcher's;0,05
+T4_SHOES_LEATHER_SET2@1;Adept's Hunter Shoes .1;Armadura;8;;;;Fletcher's;0,1
+T4_SHOES_LEATHER_SET2@2;Adept's Hunter Shoes .2;Armadura;8;;;;Fletcher's;0,2
+T4_SHOES_LEATHER_SET2@3;Adept's Hunter Shoes .3;Armadura;8;;;;Fletcher's;0,4
+T4_SHOES_LEATHER_SET2@4;Adept's Hunter Shoes .4;Armadura;8;;;;Fletcher's;0,8
+T5_SHOES_LEATHER_SET2;Expert's Hunter Shoes;Armadura;8;;;;Fletcher's;0,1
+T5_SHOES_LEATHER_SET2@1;Expert's Hunter Shoes .1;Armadura;8;;;;Fletcher's;0,2
+T5_SHOES_LEATHER_SET2@2;Expert's Hunter Shoes .2;Armadura;8;;;;Fletcher's;0,4
+T5_SHOES_LEATHER_SET2@3;Expert's Hunter Shoes .3;Armadura;8;;;;Fletcher's;0,8
+T5_SHOES_LEATHER_SET2@4;Expert's Hunter Shoes .4;Armadura;8;;;;Fletcher's;1,6
+T6_SHOES_LEATHER_SET2;Master's Hunter Shoes;Armadura;8;;;;Fletcher's;0,15
+T6_SHOES_LEATHER_SET2@1;Master's Hunter Shoes .1;Armadura;8;;;;Fletcher's;0,3
+T6_SHOES_LEATHER_SET2@2;Master's Hunter Shoes .2;Armadura;8;;;;Fletcher's;0,6
+T6_SHOES_LEATHER_SET2@3;Master's Hunter Shoes .3;Armadura;8;;;;Fletcher's;1,2
+T6_SHOES_LEATHER_SET2@4;Master's Hunter Shoes .4;Armadura;8;;;;Fletcher's;2,4
+T7_SHOES_LEATHER_SET2;Grandmaster's Hunter Shoes;Armadura;8;;;;Fletcher's;0,18
+T7_SHOES_LEATHER_SET2@1;Grandmaster's Hunter Shoes .1;Armadura;8;;;;Fletcher's;0,36
+T7_SHOES_LEATHER_SET2@2;Grandmaster's Hunter Shoes .2;Armadura;8;;;;Fletcher's;0,725
+T7_SHOES_LEATHER_SET2@3;Grandmaster's Hunter Shoes .3;Armadura;8;;;;Fletcher's;1,45
+T7_SHOES_LEATHER_SET2@4;Grandmaster's Hunter Shoes .4;Armadura;8;;;;Fletcher's;2,91
+T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;Armadura;8;;;;Fletcher's;0,19
+T8_SHOES_LEATHER_SET2@1;Elder's Hunter Shoes .1;Armadura;8;;;;Fletcher's;0,38
+T8_SHOES_LEATHER_SET2@2;Elder's Hunter Shoes .2;Armadura;8;;;;Fletcher's;0,76
+T8_SHOES_LEATHER_SET2@3;Elder's Hunter Shoes .3;Armadura;8;;;;Fletcher's;1,52
+T8_SHOES_LEATHER_SET2@4;Elder's Hunter Shoes .4;Armadura;8;;;;Fletcher's;3,04
+T4_SHOES_LEATHER_SET3;Adept's Assassin Shoes;Armadura;8;;;;Fletcher's;0,05
+T4_SHOES_LEATHER_SET3@1;Adept's Assassin Shoes .1;Armadura;8;;;;Fletcher's;0,1
+T4_SHOES_LEATHER_SET3@2;Adept's Assassin Shoes .2;Armadura;8;;;;Fletcher's;0,2
+T4_SHOES_LEATHER_SET3@3;Adept's Assassin Shoes .3;Armadura;8;;;;Fletcher's;0,4
+T4_SHOES_LEATHER_SET3@4;Adept's Assassin Shoes .4;Armadura;8;;;;Fletcher's;0,8
+T5_SHOES_LEATHER_SET3;Expert's Assassin Shoes;Armadura;8;;;;Fletcher's;0,1
+T5_SHOES_LEATHER_SET3@1;Expert's Assassin Shoes .1;Armadura;8;;;;Fletcher's;0,2
+T5_SHOES_LEATHER_SET3@2;Expert's Assassin Shoes .2;Armadura;8;;;;Fletcher's;0,4
+T5_SHOES_LEATHER_SET3@3;Expert's Assassin Shoes .3;Armadura;8;;;;Fletcher's;0,8
+T5_SHOES_LEATHER_SET3@4;Expert's Assassin Shoes .4;Armadura;8;;;;Fletcher's;1,6
+T6_SHOES_LEATHER_SET3;Master's Assassin Shoes;Armadura;8;;;;Fletcher's;0,15
+T6_SHOES_LEATHER_SET3@1;Master's Assassin Shoes .1;Armadura;8;;;;Fletcher's;0,3
+T6_SHOES_LEATHER_SET3@2;Master's Assassin Shoes .2;Armadura;8;;;;Fletcher's;0,6
+T6_SHOES_LEATHER_SET3@3;Master's Assassin Shoes .3;Armadura;8;;;;Fletcher's;1,2
+T6_SHOES_LEATHER_SET3@4;Master's Assassin Shoes .4;Armadura;8;;;;Fletcher's;2,4
+T7_SHOES_LEATHER_SET3;Grandmaster's Assassin Shoes;Armadura;8;;;;Fletcher's;0,18
+T7_SHOES_LEATHER_SET3@1;Grandmaster's Assassin Shoes .1;Armadura;8;;;;Fletcher's;0,36
+T7_SHOES_LEATHER_SET3@2;Grandmaster's Assassin Shoes .2;Armadura;8;;;;Fletcher's;0,725
+T7_SHOES_LEATHER_SET3@3;Grandmaster's Assassin Shoes .3;Armadura;8;;;;Fletcher's;1,45
+T7_SHOES_LEATHER_SET3@4;Grandmaster's Assassin Shoes .4;Armadura;8;;;;Fletcher's;2,91
+T8_SHOES_LEATHER_SET3;Elder's Assassin Shoes;Armadura;8;;;;Fletcher's;0,19
+T8_SHOES_LEATHER_SET3@1;Elder's Assassin Shoes .1;Armadura;8;;;;Fletcher's;0,38
+T8_SHOES_LEATHER_SET3@2;Elder's Assassin Shoes .2;Armadura;8;;;;Fletcher's;0,76
+T8_SHOES_LEATHER_SET3@3;Elder's Assassin Shoes .3;Armadura;8;;;;Fletcher's;1,52
+T8_SHOES_LEATHER_SET3@4;Elder's Assassin Shoes .4;Armadura;8;;;;Fletcher's;3,04
+T4_HEAD_CLOTH_SET1;Adept's Scholar Cowl;Armadura;;8;;;Imbuer's;0,05
+T4_HEAD_CLOTH_SET1@1;Adept's Scholar Cowl .1;Armadura;;8;;;Imbuer's;0,1
+T4_HEAD_CLOTH_SET1@2;Adept's Scholar Cowl .2;Armadura;;8;;;Imbuer's;0,2
+T4_HEAD_CLOTH_SET1@3;Adept's Scholar Cowl .3;Armadura;;8;;;Imbuer's;0,4
+T4_HEAD_CLOTH_SET1@4;Adept's Scholar Cowl .4;Armadura;;8;;;Imbuer's;0,8
+T5_HEAD_CLOTH_SET1;Expert's Scholar Cowl;Armadura;;8;;;Imbuer's;0,1
+T5_HEAD_CLOTH_SET1@1;Expert's Scholar Cowl .1;Armadura;;8;;;Imbuer's;0,2
+T5_HEAD_CLOTH_SET1@2;Expert's Scholar Cowl .2;Armadura;;8;;;Imbuer's;0,4
+T5_HEAD_CLOTH_SET1@3;Expert's Scholar Cowl .3;Armadura;;8;;;Imbuer's;0,8
+T5_HEAD_CLOTH_SET1@4;Expert's Scholar Cowl .4;Armadura;;8;;;Imbuer's;1,6
+T6_HEAD_CLOTH_SET1;Master's Scholar Cowl;Armadura;;8;;;Imbuer's;0,15
+T6_HEAD_CLOTH_SET1@1;Master's Scholar Cowl .1;Armadura;;8;;;Imbuer's;0,3
+T6_HEAD_CLOTH_SET1@2;Master's Scholar Cowl .2;Armadura;;8;;;Imbuer's;0,6
+T6_HEAD_CLOTH_SET1@3;Master's Scholar Cowl .3;Armadura;;8;;;Imbuer's;1,2
+T6_HEAD_CLOTH_SET1@4;Master's Scholar Cowl .4;Armadura;;8;;;Imbuer's;2,4
+T7_HEAD_CLOTH_SET1;Grandmaster's Scholar Cowl;Armadura;;8;;;Imbuer's;0,18
+T7_HEAD_CLOTH_SET1@1;Grandmaster's Scholar Cowl .1;Armadura;;8;;;Imbuer's;0,36
+T7_HEAD_CLOTH_SET1@2;Grandmaster's Scholar Cowl .2;Armadura;;8;;;Imbuer's;0,725
+T7_HEAD_CLOTH_SET1@3;Grandmaster's Scholar Cowl .3;Armadura;;8;;;Imbuer's;1,45
+T7_HEAD_CLOTH_SET1@4;Grandmaster's Scholar Cowl .4;Armadura;;8;;;Imbuer's;2,91
+T8_HEAD_CLOTH_SET1;Elder's Scholar Cowl;Armadura;;8;;;Imbuer's;0,19
+T8_HEAD_CLOTH_SET1@1;Elder's Scholar Cowl .1;Armadura;;8;;;Imbuer's;0,38
+T8_HEAD_CLOTH_SET1@2;Elder's Scholar Cowl .2;Armadura;;8;;;Imbuer's;0,76
+T8_HEAD_CLOTH_SET1@3;Elder's Scholar Cowl .3;Armadura;;8;;;Imbuer's;1,52
+T8_HEAD_CLOTH_SET1@4;Elder's Scholar Cowl .4;Armadura;;8;;;Imbuer's;3,04
+T4_HEAD_CLOTH_SET2;Adept's Cleric Cowl;Armadura;;8;;;Imbuer's;0,05
+T4_HEAD_CLOTH_SET2@1;Adept's Cleric Cowl .1;Armadura;;8;;;Imbuer's;0,1
+T4_HEAD_CLOTH_SET2@2;Adept's Cleric Cowl .2;Armadura;;8;;;Imbuer's;0,2
+T4_HEAD_CLOTH_SET2@3;Adept's Cleric Cowl .3;Armadura;;8;;;Imbuer's;0,4
+T4_HEAD_CLOTH_SET2@4;Adept's Cleric Cowl .4;Armadura;;8;;;Imbuer's;0,8
+T5_HEAD_CLOTH_SET2;Expert's Cleric Cowl;Armadura;;8;;;Imbuer's;0,1
+T5_HEAD_CLOTH_SET2@1;Expert's Cleric Cowl .1;Armadura;;8;;;Imbuer's;0,2
+T5_HEAD_CLOTH_SET2@2;Expert's Cleric Cowl .2;Armadura;;8;;;Imbuer's;0,4
+T5_HEAD_CLOTH_SET2@3;Expert's Cleric Cowl .3;Armadura;;8;;;Imbuer's;0,8
+T5_HEAD_CLOTH_SET2@4;Expert's Cleric Cowl .4;Armadura;;8;;;Imbuer's;1,6
+T6_HEAD_CLOTH_SET2;Master's Cleric Cowl;Armadura;;8;;;Imbuer's;0,15
+T6_HEAD_CLOTH_SET2@1;Master's Cleric Cowl .1;Armadura;;8;;;Imbuer's;0,3
+T6_HEAD_CLOTH_SET2@2;Master's Cleric Cowl .2;Armadura;;8;;;Imbuer's;0,6
+T6_HEAD_CLOTH_SET2@3;Master's Cleric Cowl .3;Armadura;;8;;;Imbuer's;1,2
+T6_HEAD_CLOTH_SET2@4;Master's Cleric Cowl .4;Armadura;;8;;;Imbuer's;2,4
+T7_HEAD_CLOTH_SET2;Grandmaster's Cleric Cowl;Armadura;;8;;;Imbuer's;0,18
+T7_HEAD_CLOTH_SET2@1;Grandmaster's Cleric Cowl .1;Armadura;;8;;;Imbuer's;0,36
+T7_HEAD_CLOTH_SET2@2;Grandmaster's Cleric Cowl .2;Armadura;;8;;;Imbuer's;0,725
+T7_HEAD_CLOTH_SET2@3;Grandmaster's Cleric Cowl .3;Armadura;;8;;;Imbuer's;1,45
+T7_HEAD_CLOTH_SET2@4;Grandmaster's Cleric Cowl .4;Armadura;;8;;;Imbuer's;2,91
+T8_HEAD_CLOTH_SET2;Elder's Cleric Cowl;Armadura;;8;;;Imbuer's;0,19
+T8_HEAD_CLOTH_SET2@1;Elder's Cleric Cowl .1;Armadura;;8;;;Imbuer's;0,38
+T8_HEAD_CLOTH_SET2@2;Elder's Cleric Cowl .2;Armadura;;8;;;Imbuer's;0,76
+T8_HEAD_CLOTH_SET2@3;Elder's Cleric Cowl .3;Armadura;;8;;;Imbuer's;1,52
+T8_HEAD_CLOTH_SET2@4;Elder's Cleric Cowl .4;Armadura;;8;;;Imbuer's;3,04
+T4_HEAD_CLOTH_SET3;Adept's Mage Cowl;Armadura;;8;;;Imbuer's;0,05
+T4_HEAD_CLOTH_SET3@1;Adept's Mage Cowl .1;Armadura;;8;;;Imbuer's;0,1
+T4_HEAD_CLOTH_SET3@2;Adept's Mage Cowl .2;Armadura;;8;;;Imbuer's;0,2
+T4_HEAD_CLOTH_SET3@3;Adept's Mage Cowl .3;Armadura;;8;;;Imbuer's;0,4
+T4_HEAD_CLOTH_SET3@4;Adept's Mage Cowl .4;Armadura;;8;;;Imbuer's;0,8
+T5_HEAD_CLOTH_SET3;Expert's Mage Cowl;Armadura;;8;;;Imbuer's;0,1
+T5_HEAD_CLOTH_SET3@1;Expert's Mage Cowl .1;Armadura;;8;;;Imbuer's;0,2
+T5_HEAD_CLOTH_SET3@2;Expert's Mage Cowl .2;Armadura;;8;;;Imbuer's;0,4
+T5_HEAD_CLOTH_SET3@3;Expert's Mage Cowl .3;Armadura;;8;;;Imbuer's;0,8
+T5_HEAD_CLOTH_SET3@4;Expert's Mage Cowl .4;Armadura;;8;;;Imbuer's;1,6
+T6_HEAD_CLOTH_SET3;Master's Mage Cowl;Armadura;;8;;;Imbuer's;0,15
+T6_HEAD_CLOTH_SET3@1;Master's Mage Cowl .1;Armadura;;8;;;Imbuer's;0,3
+T6_HEAD_CLOTH_SET3@2;Master's Mage Cowl .2;Armadura;;8;;;Imbuer's;0,6
+T6_HEAD_CLOTH_SET3@3;Master's Mage Cowl .3;Armadura;;8;;;Imbuer's;1,2
+T6_HEAD_CLOTH_SET3@4;Master's Mage Cowl .4;Armadura;;8;;;Imbuer's;2,4
+T7_HEAD_CLOTH_SET3;Grandmaster's Mage Cowl;Armadura;;8;;;Imbuer's;0,18
+T7_HEAD_CLOTH_SET3@1;Grandmaster's Mage Cowl .1;Armadura;;8;;;Imbuer's;0,36
+T7_HEAD_CLOTH_SET3@2;Grandmaster's Mage Cowl .2;Armadura;;8;;;Imbuer's;0,725
+T7_HEAD_CLOTH_SET3@3;Grandmaster's Mage Cowl .3;Armadura;;8;;;Imbuer's;1,45
+T7_HEAD_CLOTH_SET3@4;Grandmaster's Mage Cowl .4;Armadura;;8;;;Imbuer's;2,91
+T8_HEAD_CLOTH_SET3;Elder's Mage Cowl;Armadura;;8;;;Imbuer's;0,19
+T8_HEAD_CLOTH_SET3@1;Elder's Mage Cowl .1;Armadura;;8;;;Imbuer's;0,38
+T8_HEAD_CLOTH_SET3@2;Elder's Mage Cowl .2;Armadura;;8;;;Imbuer's;0,76
+T8_HEAD_CLOTH_SET3@3;Elder's Mage Cowl .3;Armadura;;8;;;Imbuer's;1,52
+T8_HEAD_CLOTH_SET3@4;Elder's Mage Cowl .4;Armadura;;8;;;Imbuer's;3,04
+T4_ARMOR_CLOTH_SET1;Adept's Scholar Robe;Armadura;;16;;;Imbuer's;0,1
+T4_ARMOR_CLOTH_SET1@1;Adept's Scholar Robe .1;Armadura;;16;;;Imbuer's;0,2
+T4_ARMOR_CLOTH_SET1@2;Adept's Scholar Robe .2;Armadura;;16;;;Imbuer's;0,4
+T4_ARMOR_CLOTH_SET1@3;Adept's Scholar Robe .3;Armadura;;16;;;Imbuer's;0,8
+T4_ARMOR_CLOTH_SET1@4;Adept's Scholar Robe .4;Armadura;;16;;;Imbuer's;1,6
+T5_ARMOR_CLOTH_SET1;Expert's Scholar Robe;Armadura;;16;;;Imbuer's;0,2
+T5_ARMOR_CLOTH_SET1@1;Expert's Scholar Robe .1;Armadura;;16;;;Imbuer's;0,4
+T5_ARMOR_CLOTH_SET1@2;Expert's Scholar Robe .2;Armadura;;16;;;Imbuer's;0,8
+T5_ARMOR_CLOTH_SET1@3;Expert's Scholar Robe .3;Armadura;;16;;;Imbuer's;1,6
+T5_ARMOR_CLOTH_SET1@4;Expert's Scholar Robe .4;Armadura;;16;;;Imbuer's;3,2
+T6_ARMOR_CLOTH_SET1;Master's Scholar Robe;Armadura;;16;;;Imbuer's;0,3
+T6_ARMOR_CLOTH_SET1@1;Master's Scholar Robe .1;Armadura;;16;;;Imbuer's;0,6
+T6_ARMOR_CLOTH_SET1@2;Master's Scholar Robe .2;Armadura;;16;;;Imbuer's;1,2
+T6_ARMOR_CLOTH_SET1@3;Master's Scholar Robe .3;Armadura;;16;;;Imbuer's;2,4
+T6_ARMOR_CLOTH_SET1@4;Master's Scholar Robe .4;Armadura;;16;;;Imbuer's;4,8
+T7_ARMOR_CLOTH_SET1;Grandmaster's Scholar Robe;Armadura;;16;;;Imbuer's;0,36
+T7_ARMOR_CLOTH_SET1@1;Grandmaster's Scholar Robe .1;Armadura;;16;;;Imbuer's;0,72
+T7_ARMOR_CLOTH_SET1@2;Grandmaster's Scholar Robe .2;Armadura;;16;;;Imbuer's;1,45
+T7_ARMOR_CLOTH_SET1@3;Grandmaster's Scholar Robe .3;Armadura;;16;;;Imbuer's;2,9
+T7_ARMOR_CLOTH_SET1@4;Grandmaster's Scholar Robe .4;Armadura;;16;;;Imbuer's;5,82
+T8_ARMOR_CLOTH_SET1;Elder's Scholar Robe;Armadura;;16;;;Imbuer's;0,38
+T8_ARMOR_CLOTH_SET1@1;Elder's Scholar Robe .1;Armadura;;16;;;Imbuer's;0,76
+T8_ARMOR_CLOTH_SET1@2;Elder's Scholar Robe .2;Armadura;;16;;;Imbuer's;1,52
+T8_ARMOR_CLOTH_SET1@3;Elder's Scholar Robe .3;Armadura;;16;;;Imbuer's;3,04
+T8_ARMOR_CLOTH_SET1@4;Elder's Scholar Robe .4;Armadura;;16;;;Imbuer's;6,08
+T4_ARMOR_CLOTH_SET2;Adept's Cleric Robe;Armadura;;16;;;Imbuer's;0,1
+T4_ARMOR_CLOTH_SET2@1;Adept's Cleric Robe .1;Armadura;;16;;;Imbuer's;0,2
+T4_ARMOR_CLOTH_SET2@2;Adept's Cleric Robe .2;Armadura;;16;;;Imbuer's;0,4
+T4_ARMOR_CLOTH_SET2@3;Adept's Cleric Robe .3;Armadura;;16;;;Imbuer's;0,8
+T4_ARMOR_CLOTH_SET2@4;Adept's Cleric Robe .4;Armadura;;16;;;Imbuer's;1,6
+T5_ARMOR_CLOTH_SET2;Expert's Cleric Robe;Armadura;;16;;;Imbuer's;0,2
+T5_ARMOR_CLOTH_SET2@1;Expert's Cleric Robe .1;Armadura;;16;;;Imbuer's;0,4
+T5_ARMOR_CLOTH_SET2@2;Expert's Cleric Robe .2;Armadura;;16;;;Imbuer's;0,8
+T5_ARMOR_CLOTH_SET2@3;Expert's Cleric Robe .3;Armadura;;16;;;Imbuer's;1,6
+T5_ARMOR_CLOTH_SET2@4;Expert's Cleric Robe .4;Armadura;;16;;;Imbuer's;3,2
+T6_ARMOR_CLOTH_SET2;Master's Cleric Robe;Armadura;;16;;;Imbuer's;0,3
+T6_ARMOR_CLOTH_SET2@1;Master's Cleric Robe .1;Armadura;;16;;;Imbuer's;0,6
+T6_ARMOR_CLOTH_SET2@2;Master's Cleric Robe .2;Armadura;;16;;;Imbuer's;1,2
+T6_ARMOR_CLOTH_SET2@3;Master's Cleric Robe .3;Armadura;;16;;;Imbuer's;2,4
+T6_ARMOR_CLOTH_SET2@4;Master's Cleric Robe .4;Armadura;;16;;;Imbuer's;4,8
+T7_ARMOR_CLOTH_SET2;Grandmaster's Cleric Robe;Armadura;;16;;;Imbuer's;0,36
+T7_ARMOR_CLOTH_SET2@1;Grandmaster's Cleric Robe .1;Armadura;;16;;;Imbuer's;0,72
+T7_ARMOR_CLOTH_SET2@2;Grandmaster's Cleric Robe .2;Armadura;;16;;;Imbuer's;1,45
+T7_ARMOR_CLOTH_SET2@3;Grandmaster's Cleric Robe .3;Armadura;;16;;;Imbuer's;2,9
+T7_ARMOR_CLOTH_SET2@4;Grandmaster's Cleric Robe .4;Armadura;;16;;;Imbuer's;5,82
+T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;Armadura;;16;;;Imbuer's;0,38
+T8_ARMOR_CLOTH_SET2@1;Elder's Cleric Robe .1;Armadura;;16;;;Imbuer's;0,76
+T8_ARMOR_CLOTH_SET2@2;Elder's Cleric Robe .2;Armadura;;16;;;Imbuer's;1,52
+T8_ARMOR_CLOTH_SET2@3;Elder's Cleric Robe .3;Armadura;;16;;;Imbuer's;3,04
+T8_ARMOR_CLOTH_SET2@4;Elder's Cleric Robe .4;Armadura;;16;;;Imbuer's;6,08
+T4_ARMOR_CLOTH_SET3;Adept's Mage Robe;Armadura;;16;;;Imbuer's;0,1
+T4_ARMOR_CLOTH_SET3@1;Adept's Mage Robe .1;Armadura;;16;;;Imbuer's;0,2
+T4_ARMOR_CLOTH_SET3@2;Adept's Mage Robe .2;Armadura;;16;;;Imbuer's;0,4
+T4_ARMOR_CLOTH_SET3@3;Adept's Mage Robe .3;Armadura;;16;;;Imbuer's;0,8
+T4_ARMOR_CLOTH_SET3@4;Adept's Mage Robe .4;Armadura;;16;;;Imbuer's;1,6
+T5_ARMOR_CLOTH_SET3;Expert's Mage Robe;Armadura;;16;;;Imbuer's;0,2
+T5_ARMOR_CLOTH_SET3@1;Expert's Mage Robe .1;Armadura;;16;;;Imbuer's;0,4
+T5_ARMOR_CLOTH_SET3@2;Expert's Mage Robe .2;Armadura;;16;;;Imbuer's;0,8
+T5_ARMOR_CLOTH_SET3@3;Expert's Mage Robe .3;Armadura;;16;;;Imbuer's;1,6
+T5_ARMOR_CLOTH_SET3@4;Expert's Mage Robe .4;Armadura;;16;;;Imbuer's;3,2
+T6_ARMOR_CLOTH_SET3;Master's Mage Robe;Armadura;;16;;;Imbuer's;0,3
+T6_ARMOR_CLOTH_SET3@1;Master's Mage Robe .1;Armadura;;16;;;Imbuer's;0,6
+T6_ARMOR_CLOTH_SET3@2;Master's Mage Robe .2;Armadura;;16;;;Imbuer's;1,2
+T6_ARMOR_CLOTH_SET3@3;Master's Mage Robe .3;Armadura;;16;;;Imbuer's;2,4
+T6_ARMOR_CLOTH_SET3@4;Master's Mage Robe .4;Armadura;;16;;;Imbuer's;4,8
+T7_ARMOR_CLOTH_SET3;Grandmaster's Mage Robe;Armadura;;16;;;Imbuer's;0,36
+T7_ARMOR_CLOTH_SET3@1;Grandmaster's Mage Robe .1;Armadura;;16;;;Imbuer's;0,72
+T7_ARMOR_CLOTH_SET3@2;Grandmaster's Mage Robe .2;Armadura;;16;;;Imbuer's;1,45
+T7_ARMOR_CLOTH_SET3@3;Grandmaster's Mage Robe .3;Armadura;;16;;;Imbuer's;2,9
+T7_ARMOR_CLOTH_SET3@4;Grandmaster's Mage Robe .4;Armadura;;16;;;Imbuer's;5,82
+T8_ARMOR_CLOTH_SET3;Elder's Mage Robe;Armadura;;16;;;Imbuer's;0,38
+T8_ARMOR_CLOTH_SET3@1;Elder's Mage Robe .1;Armadura;;16;;;Imbuer's;0,76
+T8_ARMOR_CLOTH_SET3@2;Elder's Mage Robe .2;Armadura;;16;;;Imbuer's;1,52
+T8_ARMOR_CLOTH_SET3@3;Elder's Mage Robe .3;Armadura;;16;;;Imbuer's;3,04
+T8_ARMOR_CLOTH_SET3@4;Elder's Mage Robe .4;Armadura;;16;;;Imbuer's;6,08
+T4_SHOES_CLOTH_SET1;Adept's Scholar Sandals;Armadura;;8;;;Imbuer's;0,05
+T4_SHOES_CLOTH_SET1@1;Adept's Scholar Sandals .1;Armadura;;8;;;Imbuer's;0,1
+T4_SHOES_CLOTH_SET1@2;Adept's Scholar Sandals .2;Armadura;;8;;;Imbuer's;0,2
+T4_SHOES_CLOTH_SET1@3;Adept's Scholar Sandals .3;Armadura;;8;;;Imbuer's;0,4
+T4_SHOES_CLOTH_SET1@4;Adept's Scholar Sandals .4;Armadura;;8;;;Imbuer's;0,8
+T5_SHOES_CLOTH_SET1;Expert's Scholar Sandals;Armadura;;8;;;Imbuer's;0,1
+T5_SHOES_CLOTH_SET1@1;Expert's Scholar Sandals .1;Armadura;;8;;;Imbuer's;0,2
+T5_SHOES_CLOTH_SET1@2;Expert's Scholar Sandals .2;Armadura;;8;;;Imbuer's;0,4
+T5_SHOES_CLOTH_SET1@3;Expert's Scholar Sandals .3;Armadura;;8;;;Imbuer's;0,8
+T5_SHOES_CLOTH_SET1@4;Expert's Scholar Sandals .4;Armadura;;8;;;Imbuer's;1,6
+T6_SHOES_CLOTH_SET1;Master's Scholar Sandals;Armadura;;8;;;Imbuer's;0,15
+T6_SHOES_CLOTH_SET1@1;Master's Scholar Sandals .1;Armadura;;8;;;Imbuer's;0,3
+T6_SHOES_CLOTH_SET1@2;Master's Scholar Sandals .2;Armadura;;8;;;Imbuer's;0,6
+T6_SHOES_CLOTH_SET1@3;Master's Scholar Sandals .3;Armadura;;8;;;Imbuer's;1,2
+T6_SHOES_CLOTH_SET1@4;Master's Scholar Sandals .4;Armadura;;8;;;Imbuer's;2,4
+T7_SHOES_CLOTH_SET1;Grandmaster's Scholar Sandals;Armadura;;8;;;Imbuer's;0,18
+T7_SHOES_CLOTH_SET1@1;Grandmaster's Scholar Sandals .1;Armadura;;8;;;Imbuer's;0,36
+T7_SHOES_CLOTH_SET1@2;Grandmaster's Scholar Sandals .2;Armadura;;8;;;Imbuer's;0,725
+T7_SHOES_CLOTH_SET1@3;Grandmaster's Scholar Sandals .3;Armadura;;8;;;Imbuer's;1,45
+T7_SHOES_CLOTH_SET1@4;Grandmaster's Scholar Sandals .4;Armadura;;8;;;Imbuer's;2,91
+T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;Armadura;;8;;;Imbuer's;0,19
+T8_SHOES_CLOTH_SET1@1;Elder's Scholar Sandals .1;Armadura;;8;;;Imbuer's;0,38
+T8_SHOES_CLOTH_SET1@2;Elder's Scholar Sandals .2;Armadura;;8;;;Imbuer's;0,76
+T8_SHOES_CLOTH_SET1@3;Elder's Scholar Sandals .3;Armadura;;8;;;Imbuer's;1,52
+T8_SHOES_CLOTH_SET1@4;Elder's Scholar Sandals .4;Armadura;;8;;;Imbuer's;3,04
+T4_SHOES_CLOTH_SET2;Adept's Cleric Sandals;Armadura;;8;;;Imbuer's;0,05
+T4_SHOES_CLOTH_SET2@1;Adept's Cleric Sandals .1;Armadura;;8;;;Imbuer's;0,1
+T4_SHOES_CLOTH_SET2@2;Adept's Cleric Sandals .2;Armadura;;8;;;Imbuer's;0,2
+T4_SHOES_CLOTH_SET2@3;Adept's Cleric Sandals .3;Armadura;;8;;;Imbuer's;0,4
+T4_SHOES_CLOTH_SET2@4;Adept's Cleric Sandals .4;Armadura;;8;;;Imbuer's;0,8
+T5_SHOES_CLOTH_SET2;Expert's Cleric Sandals;Armadura;;8;;;Imbuer's;0,1
+T5_SHOES_CLOTH_SET2@1;Expert's Cleric Sandals .1;Armadura;;8;;;Imbuer's;0,2
+T5_SHOES_CLOTH_SET2@2;Expert's Cleric Sandals .2;Armadura;;8;;;Imbuer's;0,4
+T5_SHOES_CLOTH_SET2@3;Expert's Cleric Sandals .3;Armadura;;8;;;Imbuer's;0,8
+T5_SHOES_CLOTH_SET2@4;Expert's Cleric Sandals .4;Armadura;;8;;;Imbuer's;1,6
+T6_SHOES_CLOTH_SET2;Master's Cleric Sandals;Armadura;;8;;;Imbuer's;0,15
+T6_SHOES_CLOTH_SET2@1;Master's Cleric Sandals .1;Armadura;;8;;;Imbuer's;0,3
+T6_SHOES_CLOTH_SET2@2;Master's Cleric Sandals .2;Armadura;;8;;;Imbuer's;0,6
+T6_SHOES_CLOTH_SET2@3;Master's Cleric Sandals .3;Armadura;;8;;;Imbuer's;1,2
+T6_SHOES_CLOTH_SET2@4;Master's Cleric Sandals .4;Armadura;;8;;;Imbuer's;2,4
+T7_SHOES_CLOTH_SET2;Grandmaster's Cleric Sandals;Armadura;;8;;;Imbuer's;0,18
+T7_SHOES_CLOTH_SET2@1;Grandmaster's Cleric Sandals .1;Armadura;;8;;;Imbuer's;0,36
+T7_SHOES_CLOTH_SET2@2;Grandmaster's Cleric Sandals .2;Armadura;;8;;;Imbuer's;0,725
+T7_SHOES_CLOTH_SET2@3;Grandmaster's Cleric Sandals .3;Armadura;;8;;;Imbuer's;1,45
+T7_SHOES_CLOTH_SET2@4;Grandmaster's Cleric Sandals .4;Armadura;;8;;;Imbuer's;2,91
+T8_SHOES_CLOTH_SET2;Elder's Cleric Sandals;Armadura;;8;;;Imbuer's;0,19
+T8_SHOES_CLOTH_SET2@1;Elder's Cleric Sandals .1;Armadura;;8;;;Imbuer's;0,38
+T8_SHOES_CLOTH_SET2@2;Elder's Cleric Sandals .2;Armadura;;8;;;Imbuer's;0,76
+T8_SHOES_CLOTH_SET2@3;Elder's Cleric Sandals .3;Armadura;;8;;;Imbuer's;1,52
+T8_SHOES_CLOTH_SET2@4;Elder's Cleric Sandals .4;Armadura;;8;;;Imbuer's;3,04
+T4_SHOES_CLOTH_SET3;Adept's Mage Sandals;Armadura;;8;;;Imbuer's;0,05
+T4_SHOES_CLOTH_SET3@1;Adept's Mage Sandals .1;Armadura;;8;;;Imbuer's;0,1
+T4_SHOES_CLOTH_SET3@2;Adept's Mage Sandals .2;Armadura;;8;;;Imbuer's;0,2
+T4_SHOES_CLOTH_SET3@3;Adept's Mage Sandals .3;Armadura;;8;;;Imbuer's;0,4
+T4_SHOES_CLOTH_SET3@4;Adept's Mage Sandals .4;Armadura;;8;;;Imbuer's;0,8
+T5_SHOES_CLOTH_SET3;Expert's Mage Sandals;Armadura;;8;;;Imbuer's;0,1
+T5_SHOES_CLOTH_SET3@1;Expert's Mage Sandals .1;Armadura;;8;;;Imbuer's;0,2
+T5_SHOES_CLOTH_SET3@2;Expert's Mage Sandals .2;Armadura;;8;;;Imbuer's;0,4
+T5_SHOES_CLOTH_SET3@3;Expert's Mage Sandals .3;Armadura;;8;;;Imbuer's;0,8
+T5_SHOES_CLOTH_SET3@4;Expert's Mage Sandals .4;Armadura;;8;;;Imbuer's;1,6
+T6_SHOES_CLOTH_SET3;Master's Mage Sandals;Armadura;;8;;;Imbuer's;0,15
+T6_SHOES_CLOTH_SET3@1;Master's Mage Sandals .1;Armadura;;8;;;Imbuer's;0,3
+T6_SHOES_CLOTH_SET3@2;Master's Mage Sandals .2;Armadura;;8;;;Imbuer's;0,6
+T6_SHOES_CLOTH_SET3@3;Master's Mage Sandals .3;Armadura;;8;;;Imbuer's;1,2
+T6_SHOES_CLOTH_SET3@4;Master's Mage Sandals .4;Armadura;;8;;;Imbuer's;2,4
+T7_SHOES_CLOTH_SET3;Grandmaster's Mage Sandals;Armadura;;8;;;Imbuer's;0,18
+T7_SHOES_CLOTH_SET3@1;Grandmaster's Mage Sandals .1;Armadura;;8;;;Imbuer's;0,36
+T7_SHOES_CLOTH_SET3@2;Grandmaster's Mage Sandals .2;Armadura;;8;;;Imbuer's;0,725
+T7_SHOES_CLOTH_SET3@3;Grandmaster's Mage Sandals .3;Armadura;;8;;;Imbuer's;1,45
+T7_SHOES_CLOTH_SET3@4;Grandmaster's Mage Sandals .4;Armadura;;8;;;Imbuer's;2,91
+T8_SHOES_CLOTH_SET3;Elder's Mage Sandals;Armadura;;8;;;Imbuer's;0,19
+T8_SHOES_CLOTH_SET3@1;Elder's Mage Sandals .1;Armadura;;8;;;Imbuer's;0,38
+T8_SHOES_CLOTH_SET3@2;Elder's Mage Sandals .2;Armadura;;8;;;Imbuer's;0,76
+T8_SHOES_CLOTH_SET3@3;Elder's Mage Sandals .3;Armadura;;8;;;Imbuer's;1,52
+T8_SHOES_CLOTH_SET3@4;Elder's Mage Sandals .4;Armadura;;8;;;Imbuer's;3,04
+T4_OFF_SHIELD;Adept's Shield;Armas;;;4;4;Blacksmith's;0,05
+T4_OFF_SHIELD@1;Adept's Shield .1;Armas;;;4;4;Blacksmith's;0,1
+T4_OFF_SHIELD@2;Adept's Shield .2;Armas;;;4;4;Blacksmith's;0,2
+T4_OFF_SHIELD@3;Adept's Shield .3;Armas;;;4;4;Blacksmith's;0,4
+T4_OFF_SHIELD@4;Adept's Shield .4;Armas;;;4;4;Blacksmith's;0,8
+T5_OFF_SHIELD;Expert's Shield;Armas;;;4;4;Blacksmith's;0,1
+T5_OFF_SHIELD@1;Expert's Shield .1;Armas;;;4;4;Blacksmith's;0,2
+T5_OFF_SHIELD@2;Expert's Shield .2;Armas;;;4;4;Blacksmith's;0,4
+T5_OFF_SHIELD@3;Expert's Shield .3;Armas;;;4;4;Blacksmith's;0,8
+T5_OFF_SHIELD@4;Expert's Shield .4;Armas;;;4;4;Blacksmith's;1,6
+T6_OFF_SHIELD;Master's Shield;Armas;;;4;4;Blacksmith's;0,15
+T6_OFF_SHIELD@1;Master's Shield .1;Armas;;;4;4;Blacksmith's;0,3
+T6_OFF_SHIELD@2;Master's Shield .2;Armas;;;4;4;Blacksmith's;0,6
+T6_OFF_SHIELD@3;Master's Shield .3;Armas;;;4;4;Blacksmith's;1,2
+T6_OFF_SHIELD@4;Master's Shield .4;Armas;;;4;4;Blacksmith's;2,4
+T7_OFF_SHIELD;Grandmaster's Shield;Armas;;;4;4;Blacksmith's;0,18
+T7_OFF_SHIELD@1;Grandmaster's Shield .1;Armas;;;4;4;Blacksmith's;0,36
+T7_OFF_SHIELD@2;Grandmaster's Shield .2;Armas;;;4;4;Blacksmith's;0,725
+T7_OFF_SHIELD@3;Grandmaster's Shield .3;Armas;;;4;4;Blacksmith's;1,45
+T7_OFF_SHIELD@4;Grandmaster's Shield .4;Armas;;;4;4;Blacksmith's;2,91
+T8_OFF_SHIELD;Elder's Shield;Armas;;;4;4;Blacksmith's;0,19
+T8_OFF_SHIELD@1;Elder's Shield .1;Armas;;;4;4;Blacksmith's;0,38
+T8_OFF_SHIELD@2;Elder's Shield .2;Armas;;;4;4;Blacksmith's;0,76
+T8_OFF_SHIELD@3;Elder's Shield .3;Armas;;;4;4;Blacksmith's;1,52
+T8_OFF_SHIELD@4;Elder's Shield .4;Armas;;;4;4;Blacksmith's;3,04
+T4_OFF_BOOK;Adept's Tome of Spells;Armas;4;4;;;Imbuer's;0,05
+T4_OFF_BOOK@1;Adept's Tome of Spells .1;Armas;4;4;;;Imbuer's;0,1
+T4_OFF_BOOK@2;Adept's Tome of Spells .2;Armas;4;4;;;Imbuer's;0,2
+T4_OFF_BOOK@3;Adept's Tome of Spells .3;Armas;4;4;;;Imbuer's;0,4
+T4_OFF_BOOK@4;Adept's Tome of Spells .4;Armas;4;4;;;Imbuer's;0,8
+T5_OFF_BOOK;Expert's Tome of Spells;Armas;4;4;;;Imbuer's;0,1
+T5_OFF_BOOK@1;Expert's Tome of Spells .1;Armas;4;4;;;Imbuer's;0,2
+T5_OFF_BOOK@2;Expert's Tome of Spells .2;Armas;4;4;;;Imbuer's;0,4
+T5_OFF_BOOK@3;Expert's Tome of Spells .3;Armas;4;4;;;Imbuer's;0,8
+T5_OFF_BOOK@4;Expert's Tome of Spells .4;Armas;4;4;;;Imbuer's;1,6
+T6_OFF_BOOK;Master's Tome of Spells;Armas;4;4;;;Imbuer's;0,15
+T6_OFF_BOOK@1;Master's Tome of Spells .1;Armas;4;4;;;Imbuer's;0,3
+T6_OFF_BOOK@2;Master's Tome of Spells .2;Armas;4;4;;;Imbuer's;0,6
+T6_OFF_BOOK@3;Master's Tome of Spells .3;Armas;4;4;;;Imbuer's;1,2
+T6_OFF_BOOK@4;Master's Tome of Spells .4;Armas;4;4;;;Imbuer's;2,4
+T7_OFF_BOOK;Grandmaster's Tome of Spells;Armas;4;4;;;Imbuer's;0,18
+T7_OFF_BOOK@1;Grandmaster's Tome of Spells .1;Armas;4;4;;;Imbuer's;0,36
+T7_OFF_BOOK@2;Grandmaster's Tome of Spells .2;Armas;4;4;;;Imbuer's;0,725
+T7_OFF_BOOK@3;Grandmaster's Tome of Spells .3;Armas;4;4;;;Imbuer's;1,45
+T7_OFF_BOOK@4;Grandmaster's Tome of Spells .4;Armas;4;4;;;Imbuer's;2,91
+T8_OFF_BOOK;Rosalia's Diary;Armas;4;4;;;Imbuer's;0,19
+T8_OFF_BOOK@1;Rosalia's Diary .1;Armas;4;4;;;Imbuer's;0,38
+T8_OFF_BOOK@2;Rosalia's Diary .2;Armas;4;4;;;Imbuer's;0,76
+T8_OFF_BOOK@3;Rosalia's Diary .3;Armas;4;4;;;Imbuer's;1,52
+T8_OFF_BOOK@4;Rosalia's Diary .4;Armas;4;4;;;Imbuer's;3,04
+T4_OFF_TORCH;Adept's Torch;Armas;;4;;4;Fletcher's;0,05
+T4_OFF_TORCH@1;Adept's Torch .1;Armas;;4;;4;Fletcher's;0,1
+T4_OFF_TORCH@2;Adept's Torch .2;Armas;;4;;4;Fletcher's;0,2
+T4_OFF_TORCH@3;Adept's Torch .3;Armas;;4;;4;Fletcher's;0,4
+T4_OFF_TORCH@4;Adept's Torch .4;Armas;;4;;4;Fletcher's;0,8
+T5_OFF_TORCH;Expert's Torch;Armas;;4;;4;Fletcher's;0,1
+T5_OFF_TORCH@1;Expert's Torch .1;Armas;;4;;4;Fletcher's;0,2
+T5_OFF_TORCH@2;Expert's Torch .2;Armas;;4;;4;Fletcher's;0,4
+T5_OFF_TORCH@3;Expert's Torch .3;Armas;;4;;4;Fletcher's;0,8
+T5_OFF_TORCH@4;Expert's Torch .4;Armas;;4;;4;Fletcher's;1,6
+T6_OFF_TORCH;Master's Torch;Armas;;4;;4;Fletcher's;0,15
+T6_OFF_TORCH@1;Master's Torch .1;Armas;;4;;4;Fletcher's;0,3
+T6_OFF_TORCH@2;Master's Torch .2;Armas;;4;;4;Fletcher's;0,6
+T6_OFF_TORCH@3;Master's Torch .3;Armas;;4;;4;Fletcher's;1,2
+T6_OFF_TORCH@4;Master's Torch .4;Armas;;4;;4;Fletcher's;2,4
+T7_OFF_TORCH;Grandmaster's Torch;Armas;;4;;4;Fletcher's;0,18
+T7_OFF_TORCH@1;Grandmaster's Torch .1;Armas;;4;;4;Fletcher's;0,36
+T7_OFF_TORCH@2;Grandmaster's Torch .2;Armas;;4;;4;Fletcher's;0,725
+T7_OFF_TORCH@3;Grandmaster's Torch .3;Armas;;4;;4;Fletcher's;1,45
+T7_OFF_TORCH@4;Grandmaster's Torch .4;Armas;;4;;4;Fletcher's;2,91
+T8_OFF_TORCH;Elder's Torch;Armas;;4;;4;Fletcher's;0,19
+T8_OFF_TORCH@1;Elder's Torch .1;Armas;;4;;4;Fletcher's;0,38
+T8_OFF_TORCH@2;Elder's Torch .2;Armas;;4;;4;Fletcher's;0,76
+T8_OFF_TORCH@3;Elder's Torch .3;Armas;;4;;4;Fletcher's;1,52
+T8_OFF_TORCH@4;Elder's Torch .4;Armas;;4;;4;Fletcher's;3,04
+T4_2H_BOW;Adept's Bow;Armas;;;;32;Fletcher's;0,2
+T4_2H_BOW@1;Adept's Bow .1;Armas;;;;32;Fletcher's;0,4
+T4_2H_BOW@2;Adept's Bow .2;Armas;;;;32;Fletcher's;0,8
+T4_2H_BOW@3;Adept's Bow .3;Armas;;;;32;Fletcher's;1,6
+T4_2H_BOW@4;Adept's Bow .4;Armas;;;;32;Fletcher's;3,2
+T5_2H_BOW;Expert's Bow;Armas;;;;32;Fletcher's;0,4
+T5_2H_BOW@1;Expert's Bow .1;Armas;;;;32;Fletcher's;0,8
+T5_2H_BOW@2;Expert's Bow .2;Armas;;;;32;Fletcher's;1,6
+T5_2H_BOW@3;Expert's Bow .3;Armas;;;;32;Fletcher's;3,2
+T5_2H_BOW@4;Expert's Bow .4;Armas;;;;32;Fletcher's;6,4
+T6_2H_BOW;Master's Bow;Armas;;;;32;Fletcher's;0,6
+T6_2H_BOW@1;Master's Bow .1;Armas;;;;32;Fletcher's;1,2
+T6_2H_BOW@2;Master's Bow .2;Armas;;;;32;Fletcher's;2,4
+T6_2H_BOW@3;Master's Bow .3;Armas;;;;32;Fletcher's;4,8
+T6_2H_BOW@4;Master's Bow .4;Armas;;;;32;Fletcher's;9,6
+T7_2H_BOW;Grandmaster's Bow;Armas;;;;32;Fletcher's;0,72
+T7_2H_BOW@1;Grandmaster's Bow .1;Armas;;;;32;Fletcher's;1,44
+T7_2H_BOW@2;Grandmaster's Bow .2;Armas;;;;32;Fletcher's;2,9
+T7_2H_BOW@3;Grandmaster's Bow .3;Armas;;;;32;Fletcher's;5,8
+T7_2H_BOW@4;Grandmaster's Bow .4;Armas;;;;32;Fletcher's;11,64
+T8_2H_BOW;Elder's Bow;Armas;;;;32;Fletcher's;0,76
+T8_2H_BOW@1;Elder's Bow .1;Armas;;;;32;Fletcher's;1,52
+T8_2H_BOW@2;Elder's Bow .2;Armas;;;;32;Fletcher's;3,04
+T8_2H_BOW@3;Elder's Bow .3;Armas;;;;32;Fletcher's;6,08
+T8_2H_BOW@4;Elder's Bow .4;Armas;;;;32;Fletcher's;12,16
+T4_2H_WARBOW;Adept's Warbow;Armas;;;;32;Fletcher's;0,2
+T4_2H_WARBOW@1;Adept's Warbow .1;Armas;;;;32;Fletcher's;0,4
+T4_2H_WARBOW@2;Adept's Warbow .2;Armas;;;;32;Fletcher's;0,8
+T4_2H_WARBOW@3;Adept's Warbow .3;Armas;;;;32;Fletcher's;1,6
+T4_2H_WARBOW@4;Adept's Warbow .4;Armas;;;;32;Fletcher's;3,2
+T5_2H_WARBOW;Expert's Warbow;Armas;;;;32;Fletcher's;0,4
+T5_2H_WARBOW@1;Expert's Warbow .1;Armas;;;;32;Fletcher's;0,8
+T5_2H_WARBOW@2;Expert's Warbow .2;Armas;;;;32;Fletcher's;1,6
+T5_2H_WARBOW@3;Expert's Warbow .3;Armas;;;;32;Fletcher's;3,2
+T5_2H_WARBOW@4;Expert's Warbow .4;Armas;;;;32;Fletcher's;6,4
+T6_2H_WARBOW;Master's Warbow;Armas;;;;32;Fletcher's;0,6
+T6_2H_WARBOW@1;Master's Warbow .1;Armas;;;;32;Fletcher's;1,2
+T6_2H_WARBOW@2;Master's Warbow .2;Armas;;;;32;Fletcher's;2,4
+T6_2H_WARBOW@3;Master's Warbow .3;Armas;;;;32;Fletcher's;4,8
+T6_2H_WARBOW@4;Master's Warbow .4;Armas;;;;32;Fletcher's;9,6
+T7_2H_WARBOW;Grandmaster's Warbow;Armas;;;;32;Fletcher's;0,72
+T7_2H_WARBOW@1;Grandmaster's Warbow .1;Armas;;;;32;Fletcher's;1,44
+T7_2H_WARBOW@2;Grandmaster's Warbow .2;Armas;;;;32;Fletcher's;2,9
+T7_2H_WARBOW@3;Grandmaster's Warbow .3;Armas;;;;32;Fletcher's;5,8
+T7_2H_WARBOW@4;Grandmaster's Warbow .4;Armas;;;;32;Fletcher's;11,64
+T8_2H_WARBOW;Elder's Warbow;Armas;;;;32;Fletcher's;0,76
+T8_2H_WARBOW@1;Elder's Warbow .1;Armas;;;;32;Fletcher's;1,52
+T8_2H_WARBOW@2;Elder's Warbow .2;Armas;;;;32;Fletcher's;3,04
+T8_2H_WARBOW@3;Elder's Warbow .3;Armas;;;;32;Fletcher's;6,08
+T8_2H_WARBOW@4;Elder's Warbow .4;Armas;;;;32;Fletcher's;12,16
+T4_2H_LONGBOW;Adept's Longbow;Armas;;;;32;Fletcher's;0,2
+T4_2H_LONGBOW@1;Adept's Longbow .1;Armas;;;;32;Fletcher's;0,4
+T4_2H_LONGBOW@2;Adept's Longbow .2;Armas;;;;32;Fletcher's;0,8
+T4_2H_LONGBOW@3;Adept's Longbow .3;Armas;;;;32;Fletcher's;1,6
+T4_2H_LONGBOW@4;Adept's Longbow .4;Armas;;;;32;Fletcher's;3,2
+T5_2H_LONGBOW;Expert's Longbow;Armas;;;;32;Fletcher's;0,4
+T5_2H_LONGBOW@1;Expert's Longbow .1;Armas;;;;32;Fletcher's;0,8
+T5_2H_LONGBOW@2;Expert's Longbow .2;Armas;;;;32;Fletcher's;1,6
+T5_2H_LONGBOW@3;Expert's Longbow .3;Armas;;;;32;Fletcher's;3,2
+T5_2H_LONGBOW@4;Expert's Longbow .4;Armas;;;;32;Fletcher's;6,4
+T6_2H_LONGBOW;Master's Longbow;Armas;;;;32;Fletcher's;0,6
+T6_2H_LONGBOW@1;Master's Longbow .1;Armas;;;;32;Fletcher's;1,2
+T6_2H_LONGBOW@2;Master's Longbow .2;Armas;;;;32;Fletcher's;2,4
+T6_2H_LONGBOW@3;Master's Longbow .3;Armas;;;;32;Fletcher's;4,8
+T6_2H_LONGBOW@4;Master's Longbow .4;Armas;;;;32;Fletcher's;9,6
+T7_2H_LONGBOW;Grandmaster's Longbow;Armas;;;;32;Fletcher's;0,72
+T7_2H_LONGBOW@1;Grandmaster's Longbow .1;Armas;;;;32;Fletcher's;1,44
+T7_2H_LONGBOW@2;Grandmaster's Longbow .2;Armas;;;;32;Fletcher's;2,9
+T7_2H_LONGBOW@3;Grandmaster's Longbow .3;Armas;;;;32;Fletcher's;5,8
+T7_2H_LONGBOW@4;Grandmaster's Longbow .4;Armas;;;;32;Fletcher's;11,64
+T8_2H_LONGBOW;Elder's Longbow;Armas;;;;32;Fletcher's;0,76
+T8_2H_LONGBOW@1;Elder's Longbow .1;Armas;;;;32;Fletcher's;1,52
+T8_2H_LONGBOW@2;Elder's Longbow .2;Armas;;;;32;Fletcher's;3,04
+T8_2H_LONGBOW@3;Elder's Longbow .3;Armas;;;;32;Fletcher's;6,08
+T8_2H_LONGBOW@4;Elder's Longbow .4;Armas;;;;32;Fletcher's;12,16
+T4_2H_CROSSBOW;Adept's Crossbow;Armas;;;12;20;Blacksmith's;0,2
+T4_2H_CROSSBOW@1;Adept's Crossbow .1;Armas;;;12;20;Blacksmith's;0,4
+T4_2H_CROSSBOW@2;Adept's Crossbow .2;Armas;;;12;20;Blacksmith's;0,8
+T4_2H_CROSSBOW@3;Adept's Crossbow .3;Armas;;;12;20;Blacksmith's;1,6
+T4_2H_CROSSBOW@4;Adept's Crossbow .4;Armas;;;12;20;Blacksmith's;3,2
+T5_2H_CROSSBOW;Expert's Crossbow;Armas;;;12;20;Blacksmith's;0,4
+T5_2H_CROSSBOW@1;Expert's Crossbow .1;Armas;;;12;20;Blacksmith's;0,8
+T5_2H_CROSSBOW@2;Expert's Crossbow .2;Armas;;;12;20;Blacksmith's;1,6
+T5_2H_CROSSBOW@3;Expert's Crossbow .3;Armas;;;12;20;Blacksmith's;3,2
+T5_2H_CROSSBOW@4;Expert's Crossbow .4;Armas;;;12;20;Blacksmith's;6,4
+T6_2H_CROSSBOW;Master's Crossbow;Armas;;;12;20;Blacksmith's;0,6
+T6_2H_CROSSBOW@1;Master's Crossbow .1;Armas;;;12;20;Blacksmith's;1,2
+T6_2H_CROSSBOW@2;Master's Crossbow .2;Armas;;;12;20;Blacksmith's;2,4
+T6_2H_CROSSBOW@3;Master's Crossbow .3;Armas;;;12;20;Blacksmith's;4,8
+T6_2H_CROSSBOW@4;Master's Crossbow .4;Armas;;;12;20;Blacksmith's;9,6
+T7_2H_CROSSBOW;Grandmaster's Crossbow;Armas;;;12;20;Blacksmith's;0,72
+T7_2H_CROSSBOW@1;Grandmaster's Crossbow .1;Armas;;;12;20;Blacksmith's;1,44
+T7_2H_CROSSBOW@2;Grandmaster's Crossbow .2;Armas;;;12;20;Blacksmith's;2,9
+T7_2H_CROSSBOW@3;Grandmaster's Crossbow .3;Armas;;;12;20;Blacksmith's;5,8
+T7_2H_CROSSBOW@4;Grandmaster's Crossbow .4;Armas;;;12;20;Blacksmith's;11,64
+T8_2H_CROSSBOW;Elder's Crossbow;Armas;;;12;20;Blacksmith's;0,76
+T8_2H_CROSSBOW@1;Elder's Crossbow .1;Armas;;;12;20;Blacksmith's;1,52
+T8_2H_CROSSBOW@2;Elder's Crossbow .2;Armas;;;12;20;Blacksmith's;3,04
+T8_2H_CROSSBOW@3;Elder's Crossbow .3;Armas;;;12;20;Blacksmith's;6,08
+T8_2H_CROSSBOW@4;Elder's Crossbow .4;Armas;;;12;20;Blacksmith's;12,16
+T4_2H_CROSSBOWLARGE;Adept's Heavy Crossbow;Armas;;;12;20;Blacksmith's;0,2
+T4_2H_CROSSBOWLARGE@1;Adept's Heavy Crossbow .1;Armas;;;12;20;Blacksmith's;0,4
+T4_2H_CROSSBOWLARGE@2;Adept's Heavy Crossbow .2;Armas;;;12;20;Blacksmith's;0,8
+T4_2H_CROSSBOWLARGE@3;Adept's Heavy Crossbow .3;Armas;;;12;20;Blacksmith's;1,6
+T4_2H_CROSSBOWLARGE@4;Adept's Heavy Crossbow .4;Armas;;;12;20;Blacksmith's;3,2
+T5_2H_CROSSBOWLARGE;Expert's Heavy Crossbow;Armas;;;12;20;Blacksmith's;0,4
+T5_2H_CROSSBOWLARGE@1;Expert's Heavy Crossbow .1;Armas;;;12;20;Blacksmith's;0,8
+T5_2H_CROSSBOWLARGE@2;Expert's Heavy Crossbow .2;Armas;;;12;20;Blacksmith's;1,6
+T5_2H_CROSSBOWLARGE@3;Expert's Heavy Crossbow .3;Armas;;;12;20;Blacksmith's;3,2
+T5_2H_CROSSBOWLARGE@4;Expert's Heavy Crossbow .4;Armas;;;12;20;Blacksmith's;6,4
+T6_2H_CROSSBOWLARGE;Master's Heavy Crossbow;Armas;;;12;20;Blacksmith's;0,6
+T6_2H_CROSSBOWLARGE@1;Master's Heavy Crossbow .1;Armas;;;12;20;Blacksmith's;1,2
+T6_2H_CROSSBOWLARGE@2;Master's Heavy Crossbow .2;Armas;;;12;20;Blacksmith's;2,4
+T6_2H_CROSSBOWLARGE@3;Master's Heavy Crossbow .3;Armas;;;12;20;Blacksmith's;4,8
+T6_2H_CROSSBOWLARGE@4;Master's Heavy Crossbow .4;Armas;;;12;20;Blacksmith's;9,6
+T7_2H_CROSSBOWLARGE;Grandmaster's Heavy Crossbow;Armas;;;12;20;Blacksmith's;0,72
+T7_2H_CROSSBOWLARGE@1;Grandmaster's Heavy Crossbow .1;Armas;;;12;20;Blacksmith's;1,44
+T7_2H_CROSSBOWLARGE@2;Grandmaster's Heavy Crossbow .2;Armas;;;12;20;Blacksmith's;2,9
+T7_2H_CROSSBOWLARGE@3;Grandmaster's Heavy Crossbow .3;Armas;;;12;20;Blacksmith's;5,8
+T7_2H_CROSSBOWLARGE@4;Grandmaster's Heavy Crossbow .4;Armas;;;12;20;Blacksmith's;11,64
+T8_2H_CROSSBOWLARGE;Elder's Heavy Crossbow;Armas;;;12;20;Blacksmith's;0,76
+T8_2H_CROSSBOWLARGE@1;Elder's Heavy Crossbow .1;Armas;;;12;20;Blacksmith's;1,52
+T8_2H_CROSSBOWLARGE@2;Elder's Heavy Crossbow .2;Armas;;;12;20;Blacksmith's;3,04
+T8_2H_CROSSBOWLARGE@3;Elder's Heavy Crossbow .3;Armas;;;12;20;Blacksmith's;6,08
+T8_2H_CROSSBOWLARGE@4;Elder's Heavy Crossbow .4;Armas;;;12;20;Blacksmith's;12,16
+T4_MAIN_1HCROSSBOW;Adept's Light Crossbow;Armas;;;8;16;Blacksmith's;0,15
+T4_MAIN_1HCROSSBOW@1;Adept's Light Crossbow .1;Armas;;;8;16;Blacksmith's;0,3
+T4_MAIN_1HCROSSBOW@2;Adept's Light Crossbow .2;Armas;;;8;16;Blacksmith's;0,6
+T4_MAIN_1HCROSSBOW@3;Adept's Light Crossbow .3;Armas;;;8;16;Blacksmith's;1,2
+T4_MAIN_1HCROSSBOW@4;Adept's Light Crossbow .4;Armas;;;8;16;Blacksmith's;2,4
+T5_MAIN_1HCROSSBOW;Expert's Light Crossbow;Armas;;;8;16;Blacksmith's;0,3
+T5_MAIN_1HCROSSBOW@1;Expert's Light Crossbow .1;Armas;;;8;16;Blacksmith's;0,6
+T5_MAIN_1HCROSSBOW@2;Expert's Light Crossbow .2;Armas;;;8;16;Blacksmith's;1,2
+T5_MAIN_1HCROSSBOW@3;Expert's Light Crossbow .3;Armas;;;8;16;Blacksmith's;2,4
+T5_MAIN_1HCROSSBOW@4;Expert's Light Crossbow .4;Armas;;;8;16;Blacksmith's;4,8
+T6_MAIN_1HCROSSBOW;Master's Light Crossbow;Armas;;;8;16;Blacksmith's;0,45
+T6_MAIN_1HCROSSBOW@1;Master's Light Crossbow .1;Armas;;;8;16;Blacksmith's;0,9
+T6_MAIN_1HCROSSBOW@2;Master's Light Crossbow .2;Armas;;;8;16;Blacksmith's;1,8
+T6_MAIN_1HCROSSBOW@3;Master's Light Crossbow .3;Armas;;;8;16;Blacksmith's;3,6
+T6_MAIN_1HCROSSBOW@4;Master's Light Crossbow .4;Armas;;;8;16;Blacksmith's;7,2
+T7_MAIN_1HCROSSBOW;Grandmaster's Light Crossbow;Armas;;;8;16;Blacksmith's;0,54
+T7_MAIN_1HCROSSBOW@1;Grandmaster's Light Crossbow .1;Armas;;;8;16;Blacksmith's;1,08
+T7_MAIN_1HCROSSBOW@2;Grandmaster's Light Crossbow .2;Armas;;;8;16;Blacksmith's;2,175
+T7_MAIN_1HCROSSBOW@3;Grandmaster's Light Crossbow .3;Armas;;;8;16;Blacksmith's;4,35
+T7_MAIN_1HCROSSBOW@4;Grandmaster's Light Crossbow .4;Armas;;;8;16;Blacksmith's;8,73
+T8_MAIN_1HCROSSBOW;Elder's Light Crossbow;Armas;;;8;16;Blacksmith's;0,57
+T8_MAIN_1HCROSSBOW@1;Elder's Light Crossbow .1;Armas;;;8;16;Blacksmith's;1,14
+T8_MAIN_1HCROSSBOW@2;Elder's Light Crossbow .2;Armas;;;8;16;Blacksmith's;2,28
+T8_MAIN_1HCROSSBOW@3;Elder's Light Crossbow .3;Armas;;;8;16;Blacksmith's;4,56
+T8_MAIN_1HCROSSBOW@4;Elder's Light Crossbow .4;Armas;;;8;16;Blacksmith's;9,12
+T4_MAIN_CURSEDSTAFF;Adept's Cursed Staff;Armas;;;8;16;Imbuer's;0,15
+T4_MAIN_CURSEDSTAFF@1;Adept's Cursed Staff .1;Armas;;;8;16;Imbuer's;0,3
+T4_MAIN_CURSEDSTAFF@2;Adept's Cursed Staff .2;Armas;;;8;16;Imbuer's;0,6
+T4_MAIN_CURSEDSTAFF@3;Adept's Cursed Staff .3;Armas;;;8;16;Imbuer's;1,2
+T4_MAIN_CURSEDSTAFF@4;Adept's Cursed Staff .4;Armas;;;8;16;Imbuer's;2,4
+T5_MAIN_CURSEDSTAFF;Expert's Cursed Staff;Armas;;;8;16;Imbuer's;0,3
+T5_MAIN_CURSEDSTAFF@1;Expert's Cursed Staff .1;Armas;;;8;16;Imbuer's;0,6
+T5_MAIN_CURSEDSTAFF@2;Expert's Cursed Staff .2;Armas;;;8;16;Imbuer's;1,2
+T5_MAIN_CURSEDSTAFF@3;Expert's Cursed Staff .3;Armas;;;8;16;Imbuer's;2,4
+T5_MAIN_CURSEDSTAFF@4;Expert's Cuned Staff .4;Armas;;;8;16;Imbuer's;4,8
+T6_MAIN_CURSEDSTAFF;Master's Cursed Staff;Armas;;;8;16;Imbuer's;0,45
+T6_MAIN_CURSEDSTAFF@1;Master's Cursed Staff .1;Armas;;;8;16;Imbuer's;0,9
+T6_MAIN_CURSEDSTAFF@2;Master's Cursed Staff .2;Armas;;;8;16;Imbuer's;1,8
+T6_MAIN_CURSEDSTAFF@3;Master's Cursed Staff .3;Armas;;;8;16;Imbuer's;3,6
+T6_MAIN_CURSEDSTAFF@4;Master's Cursed Staff .4;Armas;;;8;16;Imbuer's;7,2
+T7_MAIN_CURSEDSTAFF;Grandmaster's Cursed Staff;Armas;;;8;16;Imbuer's;0,54
+T7_MAIN_CURSEDSTAFF@1;Grandmaster's Cursed Staff .1;Armas;;;8;16;Imbuer's;1,08
+T7_MAIN_CURSEDSTAFF@2;Grandmaster's Cursed Staff .2;Armas;;;8;16;Imbuer's;2,175
+T7_MAIN_CURSEDSTAFF@3;Grandmaster's Cursed Staff .3;Armas;;;8;16;Imbuer's;4,35
+T7_MAIN_CURSEDSTAFF@4;Grandmaster's Cursed Staff .4;Armas;;;8;16;Imbuer's;8,73
+T8_MAIN_CURSEDSTAFF;Elder's Cursed Staff;Armas;;;8;16;Imbuer's;0,57
+T8_MAIN_CURSEDSTAFF@1;Elder's Cursed Staff .1;Armas;;;8;16;Imbuer's;1,14
+T8_MAIN_CURSEDSTAFF@2;Elder's Cursed Staff .2;Armas;;;8;16;Imbuer's;2,28
+T8_MAIN_CURSEDSTAFF@3;Elder's Cursed Staff .3;Armas;;;8;16;Imbuer's;4,56
+T8_MAIN_CURSEDSTAFF@4;Elder's Cursed Staff .4;Armas;;;8;16;Imbuer's;9,12
+T4_2H_CURSEDSTAFF;Adept's Great Cursed Staff;Armas;;;12;20;Imbuer's;0,2
+T4_2H_CURSEDSTAFF@1;Adept's Great Cursed Staff .1;Armas;;;12;20;Imbuer's;0,4
+T4_2H_CURSEDSTAFF@2;Adept's Great Cursed Staff .2;Armas;;;12;20;Imbuer's;0,8
+T4_2H_CURSEDSTAFF@3;Adept's Great Cursed Staff .3;Armas;;;12;20;Imbuer's;1,6
+T4_2H_CURSEDSTAFF@4;Adept's Great Cursed Staff .4;Armas;;;12;20;Imbuer's;3,2
+T5_2H_CURSEDSTAFF;Expert's Great Cursed Staff;Armas;;;12;20;Imbuer's;0,4
+T5_2H_CURSEDSTAFF@1;Expert's Great Cursed Staff .1;Armas;;;12;20;Imbuer's;0,8
+T5_2H_CURSEDSTAFF@2;Expert's Great Cursed Staff .2;Armas;;;12;20;Imbuer's;1,6
+T5_2H_CURSEDSTAFF@3;Expert's Great Cursed Staff .3;Armas;;;12;20;Imbuer's;3,2
+T5_2H_CURSEDSTAFF@4;Expert's Great Cursed Staff .4;Armas;;;12;20;Imbuer's;6,4
+T6_2H_CURSEDSTAFF;Master's Great Cursed Staff;Armas;;;12;20;Imbuer's;0,6
+T6_2H_CURSEDSTAFF@1;Master's Great Cursed Staff .1;Armas;;;12;20;Imbuer's;1,2
+T6_2H_CURSEDSTAFF@2;Master's Great Cursed Staff .2;Armas;;;12;20;Imbuer's;2,4
+T6_2H_CURSEDSTAFF@3;Master's Great Cursed Staff .3;Armas;;;12;20;Imbuer's;4,8
+T6_2H_CURSEDSTAFF@4;Master's Great Cursed Staff .4;Armas;;;12;20;Imbuer's;9,6
+T7_2H_CURSEDSTAFF;Grandmaster's Great Cursed Staff;Armas;;;12;20;Imbuer's;0,72
+T7_2H_CURSEDSTAFF@1;Grandmaster's Great Cursed Staff .1;Armas;;;12;20;Imbuer's;1,44
+T7_2H_CURSEDSTAFF@2;Grandmaster's Great Cursed Staff .2;Armas;;;12;20;Imbuer's;2,9
+T7_2H_CURSEDSTAFF@3;Grandmaster's Great Cursed Staff .3;Armas;;;12;20;Imbuer's;5,8
+T7_2H_CURSEDSTAFF@4;Grandmaster's Great Cursed Staff .4;Armas;;;12;20;Imbuer's;11,64
+T8_2H_CURSEDSTAFF;Elder's Great Cursed Staff;Armas;;;12;20;Imbuer's;0,76
+T8_2H_CURSEDSTAFF@1;Elder's Great Cursed Staff .1;Armas;;;12;20;Imbuer's;1,52
+T8_2H_CURSEDSTAFF@2;Elder's Great Cursed Staff .2;Armas;;;12;20;Imbuer's;3,04
+T8_2H_CURSEDSTAFF@3;Elder's Great Cursed Staff .3;Armas;;;12;20;Imbuer's;6,08
+T8_2H_CURSEDSTAFF@4;Elder's Great Cursed Staff .4;Armas;;;12;20;Imbuer's;12,16
+T4_2H_DEMONICSTAFF;Adept's Demonic Staff;Armas;;;12;20;Imbuer's;0,2
+T4_2H_DEMONICSTAFF@1;Adept's Demonic Staff .1;Armas;;;12;20;Imbuer's;0,4
+T4_2H_DEMONICSTAFF@2;Adept's Demonic Staff .2;Armas;;;12;20;Imbuer's;0,8
+T4_2H_DEMONICSTAFF@3;Adept's Demonic Staff .3;Armas;;;12;20;Imbuer's;1,6
+T4_2H_DEMONICSTAFF@4;Adept's Demonic Staff .4;Armas;;;12;20;Imbuer's;3,2
+T5_2H_DEMONICSTAFF;Expert's Demonic Staff;Armas;;;12;20;Imbuer's;0,4
+T5_2H_DEMONICSTAFF@1;Expert's Demonic Staff .1;Armas;;;12;20;Imbuer's;0,8
+T5_2H_DEMONICSTAFF@2;Expert's Demonic Staff .2;Armas;;;12;20;Imbuer's;1,6
+T5_2H_DEMONICSTAFF@3;Expert's Demonic Staff .3;Armas;;;12;20;Imbuer's;3,2
+T5_2H_DEMONICSTAFF@4;Expert's Demonic Staff .4;Armas;;;12;20;Imbuer's;6,4
+T6_2H_DEMONICSTAFF;Master's Demonic Staff;Armas;;;12;20;Imbuer's;0,6
+T6_2H_DEMONICSTAFF@1;Master's Demonic Staff .1;Armas;;;12;20;Imbuer's;1,2
+T6_2H_DEMONICSTAFF@2;Master's Demonic Staff .2;Armas;;;12;20;Imbuer's;2,4
+T6_2H_DEMONICSTAFF@3;Master's Demonic Staff .3;Armas;;;12;20;Imbuer's;4,8
+T6_2H_DEMONICSTAFF@4;Master's Demonic Staff .4;Armas;;;12;20;Imbuer's;9,6
+T7_2H_DEMONICSTAFF;Grandmaster's Demonic Staff;Armas;;;12;20;Imbuer's;0,72
+T7_2H_DEMONICSTAFF@1;Grandmaster's Demonic Staff .1;Armas;;;12;20;Imbuer's;1,44
+T7_2H_DEMONICSTAFF@2;Grandmaster's Demonic Staff .2;Armas;;;12;20;Imbuer's;2,9
+T7_2H_DEMONICSTAFF@3;Grandmaster's Demonic Staff .3;Armas;;;12;20;Imbuer's;5,8
+T7_2H_DEMONICSTAFF@4;Grandmaster's Demonic Staff .4;Armas;;;12;20;Imbuer's;11,64
+T8_2H_DEMONICSTAFF;Elder's Demonic Staff;Armas;;;12;20;Imbuer's;0,76
+T8_2H_DEMONICSTAFF@1;Elder's Demonic Staff .1;Armas;;;12;20;Imbuer's;1,52
+T8_2H_DEMONICSTAFF@2;Elder's Demonic Staff .2;Armas;;;12;20;Imbuer's;3,04
+T8_2H_DEMONICSTAFF@3;Elder's Demonic Staff .3;Armas;;;12;20;Imbuer's;6,08
+T8_2H_DEMONICSTAFF@4;Elder's Demonic Staff .4;Armas;;;12;20;Imbuer's;12,16
+T4_MAIN_FIRESTAFF;Adept's Fire Staff;Armas;;;8;16;Imbuer's;0,15
+T4_MAIN_FIRESTAFF@1;Adept's Fire Staff .1;Armas;;;8;16;Imbuer's;0,3
+T4_MAIN_FIRESTAFF@2;Adept's Fire Staff .2;Armas;;;8;16;Imbuer's;0,6
+T4_MAIN_FIRESTAFF@3;Adept's Fire Staff .3;Armas;;;8;16;Imbuer's;1,2
+T4_MAIN_FIRESTAFF@4;Adept's Fire Staff .4;Armas;;;8;16;Imbuer's;2,4
+T5_MAIN_FIRESTAFF;Expert's Fire Staff;Armas;;;8;16;Imbuer's;0,3
+T5_MAIN_FIRESTAFF@1;Expert's Fire Staff .1;Armas;;;8;16;Imbuer's;0,6
+T5_MAIN_FIRESTAFF@2;Expert's Fire Staff .2;Armas;;;8;16;Imbuer's;1,2
+T5_MAIN_FIRESTAFF@3;Expert's Fire Staff .3;Armas;;;8;16;Imbuer's;2,4
+T5_MAIN_FIRESTAFF@4;Expert's Fire Staff .4;Armas;;;8;16;Imbuer's;4,8
+T6_MAIN_FIRESTAFF;Master's Fire Staff;Armas;;;8;16;Imbuer's;0,45
+T6_MAIN_FIRESTAFF@1;Master's Fire Staff .1;Armas;;;8;16;Imbuer's;0,9
+T6_MAIN_FIRESTAFF@2;Master's Fire Staff .2;Armas;;;8;16;Imbuer's;1,8
+T6_MAIN_FIRESTAFF@3;Master's Fire Staff .3;Armas;;;8;16;Imbuer's;3,6
+T6_MAIN_FIRESTAFF@4;Master's Fire Staff .4;Armas;;;8;16;Imbuer's;7,2
+T7_MAIN_FIRESTAFF;Grandmaster's Fire Staff;Armas;;;8;16;Imbuer's;0,54
+T7_MAIN_FIRESTAFF@1;Grandmaster's Fire Staff .1;Armas;;;8;16;Imbuer's;1,08
+T7_MAIN_FIRESTAFF@2;Grandmaster's Fire Staff .2;Armas;;;8;16;Imbuer's;2,175
+T7_MAIN_FIRESTAFF@3;Grandmaster's Fire Staff .3;Armas;;;8;16;Imbuer's;4,35
+T7_MAIN_FIRESTAFF@4;Grandmaster's Fire Staff .4;Armas;;;8;16;Imbuer's;8,73
+T8_MAIN_FIRESTAFF;Elder's Fire Staff;Armas;;;8;16;Imbuer's;0,57
+T8_MAIN_FIRESTAFF@1;Elder's Fire Staff .1;Armas;;;8;16;Imbuer's;1,14
+T8_MAIN_FIRESTAFF@2;Elder's Fire Staff .2;Armas;;;8;16;Imbuer's;2,28
+T8_MAIN_FIRESTAFF@3;Elder's Fire Staff .3;Armas;;;8;16;Imbuer's;4,56
+T8_MAIN_FIRESTAFF@4;Elder's Fire Staff .4;Armas;;;8;16;Imbuer's;9,12
+T4_2H_FIRESTAFF;Adept's Great Fire Staff;Armas;;;12;20;Imbuer's;0,2
+T4_2H_FIRESTAFF@1;Adept's Great Fire Staff .1;Armas;;;12;20;Imbuer's;0,4
+T4_2H_FIRESTAFF@2;Adept's Great Fire Staff .2;Armas;;;12;20;Imbuer's;0,8
+T4_2H_FIRESTAFF@3;Adept's Great Fire Staff .3;Armas;;;12;20;Imbuer's;1,6
+T4_2H_FIRESTAFF@4;Adept's Great Fire Staff .4;Armas;;;12;20;Imbuer's;3,2
+T5_2H_FIRESTAFF;Expert's Great Fire Staff;Armas;;;12;20;Imbuer's;0,4
+T5_2H_FIRESTAFF@1;Expert's Great Fire Staff .1;Armas;;;12;20;Imbuer's;0,8
+T5_2H_FIRESTAFF@2;Expert's Great Fire Staff .2;Armas;;;12;20;Imbuer's;1,6
+T5_2H_FIRESTAFF@3;Expert's Great Fire Staff .3;Armas;;;12;20;Imbuer's;3,2
+T5_2H_FIRESTAFF@4;Expert's Great Fire Staff .4;Armas;;;12;20;Imbuer's;6,4
+T6_2H_FIRESTAFF;Master's Great Fire Staff;Armas;;;12;20;Imbuer's;0,6
+T6_2H_FIRESTAFF@1;Master's Great Fire Staff .1;Armas;;;12;20;Imbuer's;1,2
+T6_2H_FIRESTAFF@2;Master's Great Fire Staff .2;Armas;;;12;20;Imbuer's;2,4
+T6_2H_FIRESTAFF@3;Master's Great Fire Staff .3;Armas;;;12;20;Imbuer's;4,8
+T6_2H_FIRESTAFF@4;Master's Great Fire Staff .4;Armas;;;12;20;Imbuer's;9,6
+T7_2H_FIRESTAFF;Grandmaster's Great Fire Staff;Armas;;;12;20;Imbuer's;0,72
+T7_2H_FIRESTAFF@1;Grandmaster's Great Fire Staff .1;Armas;;;12;20;Imbuer's;1,44
+T7_2H_FIRESTAFF@2;Grandmaster's Great Fire Staff .2;Armas;;;12;20;Imbuer's;2,9
+T7_2H_FIRESTAFF@3;Grandmaster's Great Fire Staff .3;Armas;;;12;20;Imbuer's;5,8
+T7_2H_FIRESTAFF@4;Grandmaster's Great Fire Staff .4;Armas;;;12;20;Imbuer's;11,64
+T8_2H_FIRESTAFF;Vendetta's Wrath;Armas;;;12;20;Imbuer's;0,76
+T8_2H_FIRESTAFF@1;Vendetta's Wrath .1;Armas;;;12;20;Imbuer's;1,52
+T8_2H_FIRESTAFF@2;Vendetta's Wrath .2;Armas;;;12;20;Imbuer's;3,04
+T8_2H_FIRESTAFF@3;Vendetta's Wrath .3;Armas;;;12;20;Imbuer's;6,08
+T8_2H_FIRESTAFF@4;Vendetta's Wrath .4;Armas;;;12;20;Imbuer's;12,16
+T4_2H_INFERNOSTAFF;Adept's Infernal Staff;Armas;;;12;20;Imbuer's;0,2
+T4_2H_INFERNOSTAFF@1;Adept's Infernal Staff .1;Armas;;;12;20;Imbuer's;0,4
+T4_2H_INFERNOSTAFF@2;Adept's Infernal Staff .2;Armas;;;12;20;Imbuer's;0,8
+T4_2H_INFERNOSTAFF@3;Adept's Infernal Staff .3;Armas;;;12;20;Imbuer's;1,6
+T4_2H_INFERNOSTAFF@4;Adept's Infernal Staff .4;Armas;;;12;20;Imbuer's;3,2
+T5_2H_INFERNOSTAFF;Expert's Infernal Staff;Armas;;;12;20;Imbuer's;0,4
+T5_2H_INFERNOSTAFF@1;Expert's Infernal Staff .1;Armas;;;12;20;Imbuer's;0,8
+T5_2H_INFERNOSTAFF@2;Expert's Infernal Staff .2;Armas;;;12;20;Imbuer's;1,6
+T5_2H_INFERNOSTAFF@3;Expert's Infernal Staff .3;Armas;;;12;20;Imbuer's;3,2
+T5_2H_INFERNOSTAFF@4;Expert's Infernal Staff .4;Armas;;;12;20;Imbuer's;6,4
+T6_2H_INFERNOSTAFF;Master's Infernal Staff;Armas;;;12;20;Imbuer's;0,6
+T6_2H_INFERNOSTAFF@1;Master's Infernal Staff .1;Armas;;;12;20;Imbuer's;1,2
+T6_2H_INFERNOSTAFF@2;Master's Infernal Staff .2;Armas;;;12;20;Imbuer's;2,4
+T6_2H_INFERNOSTAFF@3;Master's Infernal Staff .3;Armas;;;12;20;Imbuer's;4,8
+T6_2H_INFERNOSTAFF@4;Master's Infernal Staff .4;Armas;;;12;20;Imbuer's;9,6
+T7_2H_INFERNOSTAFF;Grandmaster's Infernal Staff;Armas;;;12;20;Imbuer's;0,72
+T7_2H_INFERNOSTAFF@1;Grandmaster's Infernal Staff .1;Armas;;;12;20;Imbuer's;1,44
+T7_2H_INFERNOSTAFF@2;Grandmaster's Infernal Staff .2;Armas;;;12;20;Imbuer's;2,9
+T7_2H_INFERNOSTAFF@3;Grandmaster's Infernal Staff .3;Armas;;;12;20;Imbuer's;5,8
+T7_2H_INFERNOSTAFF@4;Grandmaster's Infernal Staff .4;Armas;;;12;20;Imbuer's;11,64
+T8_2H_INFERNOSTAFF;Elder's Infernal Staff;Armas;;;12;20;Imbuer's;0,76
+T8_2H_INFERNOSTAFF@1;Elder's Infernal Staff .1;Armas;;;12;20;Imbuer's;1,52
+T8_2H_INFERNOSTAFF@2;Elder's Infernal Staff .2;Armas;;;12;20;Imbuer's;3,04
+T8_2H_INFERNOSTAFF@3;Elder's Infernal Staff .3;Armas;;;12;20;Imbuer's;6,08
+T8_2H_INFERNOSTAFF@4;Elder's Infernal Staff .4;Armas;;;12;20;Imbuer's;12,16
+T4_MAIN_FROSTSTAFF;Adept's Frost Staff;Armas;;;8;16;Imbuer's;0,15
+T4_MAIN_FROSTSTAFF@1;Adept's Frost Staff .1;Armas;;;8;16;Imbuer's;0,3
+T4_MAIN_FROSTSTAFF@2;Adept's Frost Staff .2;Armas;;;8;16;Imbuer's;0,6
+T4_MAIN_FROSTSTAFF@3;Adept's Frost Staff .3;Armas;;;8;16;Imbuer's;1,2
+T4_MAIN_FROSTSTAFF@4;Adept's Frost Staff .4;Armas;;;8;16;Imbuer's;2,4
+T5_MAIN_FROSTSTAFF;Expert's Frost Staff;Armas;;;8;16;Imbuer's;0,3
+T5_MAIN_FROSTSTAFF@1;Expert's Frost Staff .1;Armas;;;8;16;Imbuer's;0,6
+T5_MAIN_FROSTSTAFF@2;Expert's Frost Staff .2;Armas;;;8;16;Imbuer's;1,2
+T5_MAIN_FROSTSTAFF@3;Expert's Frost Staff .3;Armas;;;8;16;Imbuer's;2,4
+T5_MAIN_FROSTSTAFF@4;Expert's Frost Staff .4;Armas;;;8;16;Imbuer's;4,8
+T6_MAIN_FROSTSTAFF;Master's Frost Staff;Armas;;;8;16;Imbuer's;0,45
+T6_MAIN_FROSTSTAFF@1;Master's Frost Staff .1;Armas;;;8;16;Imbuer's;0,9
+T6_MAIN_FROSTSTAFF@2;Master's Frost Staff .2;Armas;;;8;16;Imbuer's;1,8
+T6_MAIN_FROSTSTAFF@3;Master's Frost Staff .3;Armas;;;8;16;Imbuer's;3,6
+T6_MAIN_FROSTSTAFF@4;Master's Frost Staff .4;Armas;;;8;16;Imbuer's;7,2
+T7_MAIN_FROSTSTAFF;Grandmaster's Frost Staff;Armas;;;8;16;Imbuer's;0,54
+T7_MAIN_FROSTSTAFF@1;Grandmaster's Frost Staff .1;Armas;;;8;16;Imbuer's;1,08
+T7_MAIN_FROSTSTAFF@2;Grandmaster's Frost Staff .2;Armas;;;8;16;Imbuer's;2,175
+T7_MAIN_FROSTSTAFF@3;Grandmaster's Frost Staff .3;Armas;;;8;16;Imbuer's;4,35
+T7_MAIN_FROSTSTAFF@4;Grandmaster's Frost Staff .4;Armas;;;8;16;Imbuer's;8,73
+T8_MAIN_FROSTSTAFF;Elder's Frost Staff;Armas;;;8;16;Imbuer's;0,57
+T8_MAIN_FROSTSTAFF@1;Elder's Frost Staff .1;Armas;;;8;16;Imbuer's;1,14
+T8_MAIN_FROSTSTAFF@2;Elder's Frost Staff .2;Armas;;;8;16;Imbuer's;2,28
+T8_MAIN_FROSTSTAFF@3;Elder's Frost Staff .3;Armas;;;8;16;Imbuer's;4,56
+T8_MAIN_FROSTSTAFF@4;Elder's Frost Staff .4;Armas;;;8;16;Imbuer's;9,12
+T4_2H_FROSTSTAFF;Adept's Great Frost Staff;Armas;;;12;20;Imbuer's;0,2
+T4_2H_FROSTSTAFF@1;Adept's Great Frost Staff .1;Armas;;;12;20;Imbuer's;0,4
+T4_2H_FROSTSTAFF@2;Adept's Great Frost Staff .2;Armas;;;12;20;Imbuer's;0,8
+T4_2H_FROSTSTAFF@3;Adept's Great Frost Staff .3;Armas;;;12;20;Imbuer's;1,6
+T4_2H_FROSTSTAFF@4;Adept's Great Frost Staff .4;Armas;;;12;20;Imbuer's;3,2
+T5_2H_FROSTSTAFF;Expert's Great Frost Staff;Armas;;;12;20;Imbuer's;0,4
+T5_2H_FROSTSTAFF@1;Expert's Great Frost Staff .1;Armas;;;12;20;Imbuer's;0,8
+T5_2H_FROSTSTAFF@2;Expert's Great Frost Staff .2;Armas;;;12;20;Imbuer's;1,6
+T5_2H_FROSTSTAFF@3;Expert's Great Frost Staff .3;Armas;;;12;20;Imbuer's;3,2
+T5_2H_FROSTSTAFF@4;Expert's Great Frost Staff .4;Armas;;;12;20;Imbuer's;6,4
+T6_2H_FROSTSTAFF;Master's Great Frost Staff;Armas;;;12;20;Imbuer's;0,6
+T6_2H_FROSTSTAFF@1;Master's Great Frost Staff .1;Armas;;;12;20;Imbuer's;1,2
+T6_2H_FROSTSTAFF@2;Master's Great Frost Staff .2;Armas;;;12;20;Imbuer's;2,4
+T6_2H_FROSTSTAFF@3;Master's Great Frost Staff .3;Armas;;;12;20;Imbuer's;4,8
+T6_2H_FROSTSTAFF@4;Master's Great Frost Staff .4;Armas;;;12;20;Imbuer's;9,6
+T7_2H_FROSTSTAFF;Grandmaster's Great Frost Staff;Armas;;;12;20;Imbuer's;0,72
+T7_2H_FROSTSTAFF@1;Grandmaster's Great Frost Staff .1;Armas;;;12;20;Imbuer's;1,44
+T7_2H_FROSTSTAFF@2;Grandmaster's Great Frost Staff .2;Armas;;;12;20;Imbuer's;2,9
+T7_2H_FROSTSTAFF@3;Grandmaster's Great Frost Staff .3;Armas;;;12;20;Imbuer's;5,8
+T7_2H_FROSTSTAFF@4;Grandmaster's Great Frost Staff .4;Armas;;;12;20;Imbuer's;11,64
+T8_2H_FROSTSTAFF;Elder's Great Frost Staff;Armas;;;12;20;Imbuer's;0,76
+T8_2H_FROSTSTAFF@1;Elder's Great Frost Staff .1;Armas;;;12;20;Imbuer's;1,52
+T8_2H_FROSTSTAFF@2;Elder's Great Frost Staff .2;Armas;;;12;20;Imbuer's;3,04
+T8_2H_FROSTSTAFF@3;Elder's Great Frost Staff .3;Armas;;;12;20;Imbuer's;6,08
+T8_2H_FROSTSTAFF@4;Elder's Great Frost Staff .4;Armas;;;12;20;Imbuer's;12,16
+T4_2H_GLACIALSTAFF;Adept's Glacial Staff;Armas;;;12;20;Imbuer's;0,2
+T4_2H_GLACIALSTAFF@1;Adept's Glacial Staff .1;Armas;;;12;20;Imbuer's;0,4
+T4_2H_GLACIALSTAFF@2;Adept's Glacial Staff .2;Armas;;;12;20;Imbuer's;0,8
+T4_2H_GLACIALSTAFF@3;Adept's Glacial Staff .3;Armas;;;12;20;Imbuer's;1,6
+T4_2H_GLACIALSTAFF@4;Adept's Glacial Staff .4;Armas;;;12;20;Imbuer's;3,2
+T5_2H_GLACIALSTAFF;Expert's Glacial Staff;Armas;;;12;20;Imbuer's;0,4
+T5_2H_GLACIALSTAFF@1;Expert's Glacial Staff .1;Armas;;;12;20;Imbuer's;0,8
+T5_2H_GLACIALSTAFF@2;Expert's Glacial Staff .2;Armas;;;12;20;Imbuer's;1,6
+T5_2H_GLACIALSTAFF@3;Expert's Glacial Staff .3;Armas;;;12;20;Imbuer's;3,2
+T5_2H_GLACIALSTAFF@4;Expert's Glacial Staff .4;Armas;;;12;20;Imbuer's;6,4
+T6_2H_GLACIALSTAFF;Master's Glacial Staff;Armas;;;12;20;Imbuer's;0,6
+T6_2H_GLACIALSTAFF@1;Master's Glacial Staff .1;Armas;;;12;20;Imbuer's;1,2
+T6_2H_GLACIALSTAFF@2;Master's Glacial Staff .2;Armas;;;12;20;Imbuer's;2,4
+T6_2H_GLACIALSTAFF@3;Master's Glacial Staff .3;Armas;;;12;20;Imbuer's;4,8
+T6_2H_GLACIALSTAFF@4;Master's Glacial Staff .4;Armas;;;12;20;Imbuer's;9,6
+T7_2H_GLACIALSTAFF;Grandmaster's Glacial Staff;Armas;;;12;20;Imbuer's;0,72
+T7_2H_GLACIALSTAFF@1;Grandmaster's Glacial Staff .1;Armas;;;12;20;Imbuer's;1,44
+T7_2H_GLACIALSTAFF@2;Grandmaster's Glacial Staff .2;Armas;;;12;20;Imbuer's;2,9
+T7_2H_GLACIALSTAFF@3;Grandmaster's Glacial Staff .3;Armas;;;12;20;Imbuer's;5,8
+T7_2H_GLACIALSTAFF@4;Grandmaster's Glacial Staff .4;Armas;;;12;20;Imbuer's;11,64
+T8_2H_GLACIALSTAFF;Elder's Glacial Staff;Armas;;;12;20;Imbuer's;0,76
+T8_2H_GLACIALSTAFF@1;Elder's Glacial Staff .1;Armas;;;12;20;Imbuer's;1,52
+T8_2H_GLACIALSTAFF@2;Elder's Glacial Staff .2;Armas;;;12;20;Imbuer's;3,04
+T8_2H_GLACIALSTAFF@3;Elder's Glacial Staff .3;Armas;;;12;20;Imbuer's;6,08
+T8_2H_GLACIALSTAFF@4;Elder's Glacial Staff .4;Armas;;;12;20;Imbuer's;12,16
+T4_MAIN_ARCANESTAFF;Adept's Arcane Staff;Armas;;;8;16;Imbuer's;0,15
+T4_MAIN_ARCANESTAFF@1;Adept's Arcane Staff .1;Armas;;;8;16;Imbuer's;0,3
+T4_MAIN_ARCANESTAFF@2;Adept's Arcane Staff .2;Armas;;;8;16;Imbuer's;0,6
+T4_MAIN_ARCANESTAFF@3;Adept's Arcane Staff .3;Armas;;;8;16;Imbuer's;1,2
+T4_MAIN_ARCANESTAFF@4;Adept's Arcane Staff .4;Armas;;;8;16;Imbuer's;2,4
+T5_MAIN_ARCANESTAFF;Expert's Arcane Staff;Armas;;;8;16;Imbuer's;0,3
+T5_MAIN_ARCANESTAFF@1;Expert's Arcane Staff .1;Armas;;;8;16;Imbuer's;0,6
+T5_MAIN_ARCANESTAFF@2;Expert's Arcane Staff .2;Armas;;;8;16;Imbuer's;1,2
+T5_MAIN_ARCANESTAFF@3;Expert's Arcane Staff .3;Armas;;;8;16;Imbuer's;2,4
+T5_MAIN_ARCANESTAFF@4;Expert's Arcane Staff .4;Armas;;;8;16;Imbuer's;4,8
+T6_MAIN_ARCANESTAFF;Master's Arcane Staff;Armas;;;8;16;Imbuer's;0,45
+T6_MAIN_ARCANESTAFF@1;Master's Arcane Staff .1;Armas;;;8;16;Imbuer's;0,9
+T6_MAIN_ARCANESTAFF@2;Master's Arcane Staff .2;Armas;;;8;16;Imbuer's;1,8
+T6_MAIN_ARCANESTAFF@3;Master's Arcane Staff .3;Armas;;;8;16;Imbuer's;3,6
+T6_MAIN_ARCANESTAFF@4;Master's Arcane Staff .4;Armas;;;8;16;Imbuer's;7,2
+T7_MAIN_ARCANESTAFF;Grandmaster's Arcane Staff;Armas;;;8;16;Imbuer's;0,54
+T7_MAIN_ARCANESTAFF@1;Grandmaster's Arcane Staff .1;Armas;;;8;16;Imbuer's;1,08
+T7_MAIN_ARCANESTAFF@2;Grandmaster's Arcane Staff .2;Armas;;;8;16;Imbuer's;2,175
+T7_MAIN_ARCANESTAFF@3;Grandmaster's Arcane Staff .3;Armas;;;8;16;Imbuer's;4,35
+T7_MAIN_ARCANESTAFF@4;Grandmaster's Arcane Staff .4;Armas;;;8;16;Imbuer's;8,73
+T8_MAIN_ARCANESTAFF;Elder's Arcane Staff;Armas;;;8;16;Imbuer's;0,57
+T8_MAIN_ARCANESTAFF@1;Elder's Arcane Staff .1;Armas;;;8;16;Imbuer's;1,14
+T8_MAIN_ARCANESTAFF@2;Elder's Arcane Staff .2;Armas;;;8;16;Imbuer's;2,28
+T8_MAIN_ARCANESTAFF@3;Elder's Arcane Staff .3;Armas;;;8;16;Imbuer's;4,56
+T8_MAIN_ARCANESTAFF@4;Elder's Arcane Staff .4;Armas;;;8;16;Imbuer's;9,12
+T4_2H_ARCANESTAFF;Adept's Great Arcane Staff;Armas;;;12;20;Imbuer's;0,2
+T4_2H_ARCANESTAFF@1;Adept's Great Arcane Staff .1;Armas;;;12;20;Imbuer's;0,4
+T4_2H_ARCANESTAFF@2;Adept's Great Arcane Staff .2;Armas;;;12;20;Imbuer's;0,8
+T4_2H_ARCANESTAFF@3;Adept's Great Arcane Staff .3;Armas;;;12;20;Imbuer's;1,6
+T4_2H_ARCANESTAFF@4;Adept's Great Arcane Staff .4;Armas;;;12;20;Imbuer's;3,2
+T5_2H_ARCANESTAFF;Expert's Great Arcane Staff;Armas;;;12;20;Imbuer's;0,4
+T5_2H_ARCANESTAFF@1;Expert's Great Arcane Staff .1;Armas;;;12;20;Imbuer's;0,8
+T5_2H_ARCANESTAFF@2;Expert's Great Arcane Staff .2;Armas;;;12;20;Imbuer's;1,6
+T5_2H_ARCANESTAFF@3;Expert's Great Arcane Staff .3;Armas;;;12;20;Imbuer's;3,2
+T5_2H_ARCANESTAFF@4;Expert's Great Arcane Staff .4;Armas;;;12;20;Imbuer's;6,4
+T6_2H_ARCANESTAFF;Master's Great Arcane Staff;Armas;;;12;20;Imbuer's;0,6
+T6_2H_ARCANESTAFF@1;Master's Great Arcane Staff .1;Armas;;;12;20;Imbuer's;1,2
+T6_2H_ARCANESTAFF@2;Master's Great Arcane Staff .2;Armas;;;12;20;Imbuer's;2,4
+T6_2H_ARCANESTAFF@3;Master's Great Arcane Staff .3;Armas;;;12;20;Imbuer's;4,8
+T6_2H_ARCANESTAFF@4;Master's Great Arcane Staff .4;Armas;;;12;20;Imbuer's;9,6
+T7_2H_ARCANESTAFF;Grandmaster's Great Arcane Staff;Armas;;;12;20;Imbuer's;0,72
+T7_2H_ARCANESTAFF@1;Grandmaster's Great Arcane Staff .1;Armas;;;12;20;Imbuer's;1,44
+T7_2H_ARCANESTAFF@2;Grandmaster's Great Arcane Staff .2;Armas;;;12;20;Imbuer's;2,9
+T7_2H_ARCANESTAFF@3;Grandmaster's Great Arcane Staff .3;Armas;;;12;20;Imbuer's;5,8
+T7_2H_ARCANESTAFF@4;Grandmaster's Great Arcane Staff .4;Armas;;;12;20;Imbuer's;11,64
+T8_2H_ARCANESTAFF;Elder's Great Arcane Staff;Armas;;;12;20;Imbuer's;0,76
+T8_2H_ARCANESTAFF@1;Elder's Great Arcane Staff .1;Armas;;;12;20;Imbuer's;1,52
+T8_2H_ARCANESTAFF@2;Elder's Great Arcane Staff .2;Armas;;;12;20;Imbuer's;3,04
+T8_2H_ARCANESTAFF@3;Elder's Great Arcane Staff .3;Armas;;;12;20;Imbuer's;6,08
+T8_2H_ARCANESTAFF@4;Elder's Great Arcane Staff .4;Armas;;;12;20;Imbuer's;12,16
+T4_2H_ENIGMATICSTAFF;Adept's Enigmatic Staff;Armas;;;12;20;Imbuer's;0,2
+T4_2H_ENIGMATICSTAFF@1;Adept's Enigmatic Staff .1;Armas;;;12;20;Imbuer's;0,4
+T4_2H_ENIGMATICSTAFF@2;Adept's Enigmatic Staff .2;Armas;;;12;20;Imbuer's;0,8
+T4_2H_ENIGMATICSTAFF@3;Adept's Enigmatic Staff .3;Armas;;;12;20;Imbuer's;1,6
+T4_2H_ENIGMATICSTAFF@4;Adept's Enigmatic Staff .4;Armas;;;12;20;Imbuer's;3,2
+T5_2H_ENIGMATICSTAFF;Expert's Enigmatic Staff;Armas;;;12;20;Imbuer's;0,4
+T5_2H_ENIGMATICSTAFF@1;Expert's Enigmatic Staff .1;Armas;;;12;20;Imbuer's;0,8
+T5_2H_ENIGMATICSTAFF@2;Expert's Enigmatic Staff .2;Armas;;;12;20;Imbuer's;1,6
+T5_2H_ENIGMATICSTAFF@3;Expert's Enigmatic Staff .3;Armas;;;12;20;Imbuer's;3,2
+T5_2H_ENIGMATICSTAFF@4;Expert's Enigmatic Staff .4;Armas;;;12;20;Imbuer's;6,4
+T6_2H_ENIGMATICSTAFF;Master's Enigmatic Staff;Armas;;;12;20;Imbuer's;0,6
+T6_2H_ENIGMATICSTAFF@1;Master's Enigmatic Staff .1;Armas;;;12;20;Imbuer's;1,2
+T6_2H_ENIGMATICSTAFF@2;Master's Enigmatic Staff .2;Armas;;;12;20;Imbuer's;2,4
+T6_2H_ENIGMATICSTAFF@3;Master's Enigmatic Staff .3;Armas;;;12;20;Imbuer's;4,8
+T6_2H_ENIGMATICSTAFF@4;Master's Enigmatic Staff .4;Armas;;;12;20;Imbuer's;9,6
+T7_2H_ENIGMATICSTAFF;Grandmaster's Enigmatic Staff;Armas;;;12;20;Imbuer's;0,72
+T7_2H_ENIGMATICSTAFF@1;Grandmaster's Enigmatic Staff .1;Armas;;;12;20;Imbuer's;1,44
+T7_2H_ENIGMATICSTAFF@2;Grandmaster's Enigmatic Staff .2;Armas;;;12;20;Imbuer's;2,9
+T7_2H_ENIGMATICSTAFF@3;Grandmaster's Enigmatic Staff .3;Armas;;;12;20;Imbuer's;5,8
+T7_2H_ENIGMATICSTAFF@4;Grandmaster's Enigmatic Staff .4;Armas;;;12;20;Imbuer's;11,64
+T8_2H_ENIGMATICSTAFF;Elder's Enigmatic Staff;Armas;;;12;20;Imbuer's;0,76
+T8_2H_ENIGMATICSTAFF@1;Elder's Enigmatic Staff .1;Armas;;;12;20;Imbuer's;1,52
+T8_2H_ENIGMATICSTAFF@2;Elder's Enigmatic Staff .2;Armas;;;12;20;Imbuer's;3,04
+T8_2H_ENIGMATICSTAFF@3;Elder's Enigmatic Staff .3;Armas;;;12;20;Imbuer's;6,08
+T8_2H_ENIGMATICSTAFF@4;Elder's Enigmatic Staff .4;Armas;;;12;20;Imbuer's;12,16
+T4_MAIN_HOLYSTAFF;Adept's Holy Staff;Armas;;8;;16;Imbuer's;0,15
+T4_MAIN_HOLYSTAFF@1;Adept's Holy Staff .1;Armas;;8;;16;Imbuer's;0,3
+T4_MAIN_HOLYSTAFF@2;Adept's Holy Staff .2;Armas;;8;;16;Imbuer's;0,6
+T4_MAIN_HOLYSTAFF@3;Adept's Holy Staff .3;Armas;;8;;16;Imbuer's;1,2
+T4_MAIN_HOLYSTAFF@4;Adept's Holy Staff .4;Armas;;8;;16;Imbuer's;2,4
+T5_MAIN_HOLYSTAFF;Expert's Holy Staff;Armas;;8;;16;Imbuer's;0,3
+T5_MAIN_HOLYSTAFF@1;Expert's Holy Staff .1;Armas;;8;;16;Imbuer's;0,6
+T5_MAIN_HOLYSTAFF@2;Expert's Holy Staff .2;Armas;;8;;16;Imbuer's;1,2
+T5_MAIN_HOLYSTAFF@3;Expert's Holy Staff .3;Armas;;8;;16;Imbuer's;2,4
+T5_MAIN_HOLYSTAFF@4;Expert's Holy Staff .4;Armas;;8;;16;Imbuer's;4,8
+T6_MAIN_HOLYSTAFF;Master's Holy Staff;Armas;;8;;16;Imbuer's;0,45
+T6_MAIN_HOLYSTAFF@1;Master's Holy Staff .1;Armas;;8;;16;Imbuer's;0,9
+T6_MAIN_HOLYSTAFF@2;Master's Holy Staff .2;Armas;;8;;16;Imbuer's;1,8
+T6_MAIN_HOLYSTAFF@3;Master's Holy Staff .3;Armas;;8;;16;Imbuer's;3,6
+T6_MAIN_HOLYSTAFF@4;Master's Holy Staff .4;Armas;;8;;16;Imbuer's;7,2
+T7_MAIN_HOLYSTAFF;Grandmaster's Holy Staff;Armas;;8;;16;Imbuer's;0,54
+T7_MAIN_HOLYSTAFF@1;Grandmaster's Holy Staff .1;Armas;;8;;16;Imbuer's;1,08
+T7_MAIN_HOLYSTAFF@2;Grandmaster's Holy Staff .2;Armas;;8;;16;Imbuer's;2,175
+T7_MAIN_HOLYSTAFF@3;Grandmaster's Holy Staff .3;Armas;;8;;16;Imbuer's;4,35
+T7_MAIN_HOLYSTAFF@4;Grandmaster's Holy Staff .4;Armas;;8;;16;Imbuer's;8,73
+T8_MAIN_HOLYSTAFF;Elder's Holy Staff;Armas;;8;;16;Imbuer's;0,57
+T8_MAIN_HOLYSTAFF@1;Elder's Holy Staff .1;Armas;;8;;16;Imbuer's;1,14
+T8_MAIN_HOLYSTAFF@2;Elder's Holy Staff .2;Armas;;8;;16;Imbuer's;2,28
+T8_MAIN_HOLYSTAFF@3;Elder's Holy Staff .3;Armas;;8;;16;Imbuer's;4,56
+T8_MAIN_HOLYSTAFF@4;Elder's Holy Staff .4;Armas;;8;;16;Imbuer's;9,12
+T4_2H_HOLYSTAFF;Adept's Great Holy Staff;Armas;;12;;20;Imbuer's;0,2
+T4_2H_HOLYSTAFF@1;Adept's Great Holy Staff .1;Armas;;12;;20;Imbuer's;0,4
+T4_2H_HOLYSTAFF@2;Adept's Great Holy Staff .2;Armas;;12;;20;Imbuer's;0,8
+T4_2H_HOLYSTAFF@3;Adept's Great Holy Staff .3;Armas;;12;;20;Imbuer's;1,6
+T4_2H_HOLYSTAFF@4;Adept's Great Holy Staff .4;Armas;;12;;20;Imbuer's;3,2
+T5_2H_HOLYSTAFF;Expert's Great Holy Staff;Armas;;12;;20;Imbuer's;0,4
+T5_2H_HOLYSTAFF@1;Expert's Great Holy Staff .1;Armas;;12;;20;Imbuer's;0,8
+T5_2H_HOLYSTAFF@2;Expert's Great Holy Staff .2;Armas;;12;;20;Imbuer's;1,6
+T5_2H_HOLYSTAFF@3;Expert's Great Holy Staff .3;Armas;;12;;20;Imbuer's;3,2
+T5_2H_HOLYSTAFF@4;Expert's Great Holy Staff .4;Armas;;12;;20;Imbuer's;6,4
+T6_2H_HOLYSTAFF;Master's Great Holy Staff;Armas;;12;;20;Imbuer's;0,6
+T6_2H_HOLYSTAFF@1;Master's Great Holy Staff .1;Armas;;12;;20;Imbuer's;1,2
+T6_2H_HOLYSTAFF@2;Master's Great Holy Staff .2;Armas;;12;;20;Imbuer's;2,4
+T6_2H_HOLYSTAFF@3;Master's Great Holy Staff .3;Armas;;12;;20;Imbuer's;4,8
+T6_2H_HOLYSTAFF@4;Master's Great Holy Staff .4;Armas;;12;;20;Imbuer's;9,6
+T7_2H_HOLYSTAFF;Grandmaster's Great Holy Staff;Armas;;12;;20;Imbuer's;0,72
+T7_2H_HOLYSTAFF@1;Grandmaster's Great Holy Staff .1;Armas;;12;;20;Imbuer's;1,44
+T7_2H_HOLYSTAFF@2;Grandmaster's Great Holy Staff .2;Armas;;12;;20;Imbuer's;2,9
+T7_2H_HOLYSTAFF@3;Grandmaster's Great Holy Staff .3;Armas;;12;;20;Imbuer's;5,8
+T7_2H_HOLYSTAFF@4;Grandmaster's Great Holy Staff .4;Armas;;12;;20;Imbuer's;11,64
+T8_2H_HOLYSTAFF;Elder's Great Holy Staff;Armas;;12;;20;Imbuer's;0,76
+T8_2H_HOLYSTAFF@1;Elder's Great Holy Staff .1;Armas;;12;;20;Imbuer's;1,52
+T8_2H_HOLYSTAFF@2;Elder's Great Holy Staff .2;Armas;;12;;20;Imbuer's;3,04
+T8_2H_HOLYSTAFF@3;Elder's Great Holy Staff .3;Armas;;12;;20;Imbuer's;6,08
+T8_2H_HOLYSTAFF@4;Elder's Great Holy Staff .4;Armas;;12;;20;Imbuer's;12,16
+T4_2H_DIVINESTAFF;Adept's Divine Staff;Armas;;12;;20;Imbuer's;0,2
+T4_2H_DIVINESTAFF@1;Adept's Divine Staff .1;Armas;;12;;20;Imbuer's;0,4
+T4_2H_DIVINESTAFF@2;Adept's Divine Staff .2;Armas;;12;;20;Imbuer's;0,8
+T4_2H_DIVINESTAFF@3;Adept's Divine Staff .3;Armas;;12;;20;Imbuer's;1,6
+T4_2H_DIVINESTAFF@4;Adept's Divine Staff .4;Armas;;12;;20;Imbuer's;3,2
+T5_2H_DIVINESTAFF;Expert's Divine Staff;Armas;;12;;20;Imbuer's;0,4
+T5_2H_DIVINESTAFF@1;Expert's Divine Staff .1;Armas;;12;;20;Imbuer's;0,8
+T5_2H_DIVINESTAFF@2;Expert's Divine Staff .2;Armas;;12;;20;Imbuer's;1,6
+T5_2H_DIVINESTAFF@3;Expert's Divine Staff .3;Armas;;12;;20;Imbuer's;3,2
+T5_2H_DIVINESTAFF@4;Expert's Divine Staff .4;Armas;;12;;20;Imbuer's;6,4
+T6_2H_DIVINESTAFF;Master's Divine Staff;Armas;;12;;20;Imbuer's;0,6
+T6_2H_DIVINESTAFF@1;Master's Divine Staff .1;Armas;;12;;20;Imbuer's;1,2
+T6_2H_DIVINESTAFF@2;Master's Divine Staff .2;Armas;;12;;20;Imbuer's;2,4
+T6_2H_DIVINESTAFF@3;Master's Divine Staff .3;Armas;;12;;20;Imbuer's;4,8
+T6_2H_DIVINESTAFF@4;Master's Divine Staff .4;Armas;;12;;20;Imbuer's;9,6
+T7_2H_DIVINESTAFF;Grandmaster's Divine Staff;Armas;;12;;20;Imbuer's;0,72
+T7_2H_DIVINESTAFF@1;Grandmaster's Divine Staff .1;Armas;;12;;20;Imbuer's;1,44
+T7_2H_DIVINESTAFF@2;Grandmaster's Divine Staff .2;Armas;;12;;20;Imbuer's;2,9
+T7_2H_DIVINESTAFF@3;Grandmaster's Divine Staff .3;Armas;;12;;20;Imbuer's;5,8
+T7_2H_DIVINESTAFF@4;Grandmaster's Divine Staff .4;Armas;;12;;20;Imbuer's;11,64
+T8_2H_DIVINESTAFF;Elder's Divine Staff;Armas;;12;;20;Imbuer's;0,76
+T8_2H_DIVINESTAFF@1;Elder's Divine Staff .1;Armas;;12;;20;Imbuer's;1,52
+T8_2H_DIVINESTAFF@2;Elder's Divine Staff .2;Armas;;12;;20;Imbuer's;3,04
+T8_2H_DIVINESTAFF@3;Elder's Divine Staff .3;Armas;;12;;20;Imbuer's;6,08
+T8_2H_DIVINESTAFF@4;Elder's Divine Staff .4;Armas;;12;;20;Imbuer's;12,16
+T4_MAIN_NATURESTAFF;Adept's Nature Staff;Armas;;8;;16;Fletcher's;0,15
+T4_MAIN_NATURESTAFF@1;Adept's Nature Staff .1;Armas;;8;;16;Fletcher's;0,3
+T4_MAIN_NATURESTAFF@2;Adept's Nature Staff .2;Armas;;8;;16;Fletcher's;0,6
+T4_MAIN_NATURESTAFF@3;Adept's Nature Staff .3;Armas;;8;;16;Fletcher's;1,2
+T4_MAIN_NATURESTAFF@4;Adept's Nature Staff .4;Armas;;8;;16;Fletcher's;2,4
+T5_MAIN_NATURESTAFF;Expert's Nature Staff;Armas;;8;;16;Fletcher's;0,3
+T5_MAIN_NATURESTAFF@1;Expert's Nature Staff .1;Armas;;8;;16;Fletcher's;0,6
+T5_MAIN_NATURESTAFF@2;Expert's Nature Staff .2;Armas;;8;;16;Fletcher's;1,2
+T5_MAIN_NATURESTAFF@3;Expert's Nature Staff .3;Armas;;8;;16;Fletcher's;2,4
+T5_MAIN_NATURESTAFF@4;Expert's Nature Staff .4;Armas;;8;;16;Fletcher's;4,8
+T6_MAIN_NATURESTAFF;Master's Nature Staff;Armas;;8;;16;Fletcher's;0,45
+T6_MAIN_NATURESTAFF@1;Master's Nature Staff .1;Armas;;8;;16;Fletcher's;0,9
+T6_MAIN_NATURESTAFF@2;Master's Nature Staff .2;Armas;;8;;16;Fletcher's;1,8
+T6_MAIN_NATURESTAFF@3;Master's Nature Staff .3;Armas;;8;;16;Fletcher's;3,6
+T6_MAIN_NATURESTAFF@4;Master's Nature Staff .4;Armas;;8;;16;Fletcher's;7,2
+T7_MAIN_NATURESTAFF;Grandmaster's Nature Staff;Armas;;8;;16;Fletcher's;0,54
+T7_MAIN_NATURESTAFF@1;Grandmaster's Nature Staff .1;Armas;;8;;16;Fletcher's;1,08
+T7_MAIN_NATURESTAFF@2;Grandmaster's Nature Staff .2;Armas;;8;;16;Fletcher's;2,175
+T7_MAIN_NATURESTAFF@3;Grandmaster's Nature Staff .3;Armas;;8;;16;Fletcher's;4,35
+T7_MAIN_NATURESTAFF@4;Grandmaster's Nature Staff .4;Armas;;8;;16;Fletcher's;8,73
+T8_MAIN_NATURESTAFF;Elder's Nature Staff;Armas;;8;;16;Fletcher's;0,57
+T8_MAIN_NATURESTAFF@1;Elder's Nature Staff .1;Armas;;8;;16;Fletcher's;1,14
+T8_MAIN_NATURESTAFF@2;Elder's Nature Staff .2;Armas;;8;;16;Fletcher's;2,28
+T8_MAIN_NATURESTAFF@3;Elder's Nature Staff .3;Armas;;8;;16;Fletcher's;4,56
+T8_MAIN_NATURESTAFF@4;Elder's Nature Staff .4;Armas;;8;;16;Fletcher's;9,12
+T4_2H_NATURESTAFF;Adept's Great Nature Staff;Armas;;12;;20;Fletcher's;0,2
+T4_2H_NATURESTAFF@1;Adept's Great Nature Staff .1;Armas;;12;;20;Fletcher's;0,4
+T4_2H_NATURESTAFF@2;Adept's Great Nature Staff .2;Armas;;12;;20;Fletcher's;0,8
+T4_2H_NATURESTAFF@3;Adept's Great Nature Staff .3;Armas;;12;;20;Fletcher's;1,6
+T4_2H_NATURESTAFF@4;Adept's Great Nature Staff .4;Armas;;12;;20;Fletcher's;3,2
+T5_2H_NATURESTAFF;Expert's Great Nature Staff;Armas;;12;;20;Fletcher's;0,4
+T5_2H_NATURESTAFF@1;Expert's Great Nature Staff .1;Armas;;12;;20;Fletcher's;0,8
+T5_2H_NATURESTAFF@2;Expert's Great Nature Staff .2;Armas;;12;;20;Fletcher's;1,6
+T5_2H_NATURESTAFF@3;Expert's Great Nature Staff .3;Armas;;12;;20;Fletcher's;3,2
+T5_2H_NATURESTAFF@4;Expert's Great Nature Staff .4;Armas;;12;;20;Fletcher's;6,4
+T6_2H_NATURESTAFF;Master's Great Nature Staff;Armas;;12;;20;Fletcher's;0,6
+T6_2H_NATURESTAFF@1;Master's Great Nature Staff .1;Armas;;12;;20;Fletcher's;1,2
+T6_2H_NATURESTAFF@2;Master's Great Nature Staff .2;Armas;;12;;20;Fletcher's;2,4
+T6_2H_NATURESTAFF@3;Master's Great Nature Staff .3;Armas;;12;;20;Fletcher's;4,8
+T6_2H_NATURESTAFF@4;Master's Great Nature Staff .4;Armas;;12;;20;Fletcher's;9,6
+T7_2H_NATURESTAFF;Grandmaster's Great Nature Staff;Armas;;12;;20;Fletcher's;0,72
+T7_2H_NATURESTAFF@1;Grandmaster's Great Nature Staff .1;Armas;;12;;20;Fletcher's;1,44
+T7_2H_NATURESTAFF@2;Grandmaster's Great Nature Staff .2;Armas;;12;;20;Fletcher's;2,9
+T7_2H_NATURESTAFF@3;Grandmaster's Great Nature Staff .3;Armas;;12;;20;Fletcher's;5,8
+T7_2H_NATURESTAFF@4;Grandmaster's Great Nature Staff .4;Armas;;12;;20;Fletcher's;11,64
+T8_2H_NATURESTAFF;Elder's Great Nature Staff;Armas;;12;;20;Fletcher's;0,76
+T8_2H_NATURESTAFF@1;Elder's Great Nature Staff .1;Armas;;12;;20;Fletcher's;1,52
+T8_2H_NATURESTAFF@2;Elder's Great Nature Staff .2;Armas;;12;;20;Fletcher's;3,04
+T8_2H_NATURESTAFF@3;Elder's Great Nature Staff .3;Armas;;12;;20;Fletcher's;6,08
+T8_2H_NATURESTAFF@4;Elder's Great Nature Staff .4;Armas;;12;;20;Fletcher's;12,16
+T4_2H_WILDSTAFF;Adept's Wild Staff;Armas;;12;;20;Fletcher's;0,2
+T4_2H_WILDSTAFF@1;Adept's Wild Staff .1;Armas;;12;;20;Fletcher's;0,4
+T4_2H_WILDSTAFF@2;Adept's Wild Staff .2;Armas;;12;;20;Fletcher's;0,8
+T4_2H_WILDSTAFF@3;Adept's Wild Staff .3;Armas;;12;;20;Fletcher's;1,6
+T4_2H_WILDSTAFF@4;Adept's Wild Staff .4;Armas;;12;;20;Fletcher's;3,2
+T5_2H_WILDSTAFF;Expert's Wild Staff;Armas;;12;;20;Fletcher's;0,4
+T5_2H_WILDSTAFF@1;Expert's Wild Staff .1;Armas;;12;;20;Fletcher's;0,8
+T5_2H_WILDSTAFF@2;Expert's Wild Staff .2;Armas;;12;;20;Fletcher's;1,6
+T5_2H_WILDSTAFF@3;Expert's Wild Staff .3;Armas;;12;;20;Fletcher's;3,2
+T5_2H_WILDSTAFF@4;Expert's Wild Staff .4;Armas;;12;;20;Fletcher's;6,4
+T6_2H_WILDSTAFF;Master's Wild Staff;Armas;;12;;20;Fletcher's;0,6
+T6_2H_WILDSTAFF@1;Master's Wild Staff .1;Armas;;12;;20;Fletcher's;1,2
+T6_2H_WILDSTAFF@2;Master's Wild Staff .2;Armas;;12;;20;Fletcher's;2,4
+T6_2H_WILDSTAFF@3;Master's Wild Staff .3;Armas;;12;;20;Fletcher's;4,8
+T6_2H_WILDSTAFF@4;Master's Wild Staff .4;Armas;;12;;20;Fletcher's;9,6
+T7_2H_WILDSTAFF;Grandmaster's Wild Staff;Armas;;12;;20;Fletcher's;0,72
+T7_2H_WILDSTAFF@1;Grandmaster's Wild Staff .1;Armas;;12;;20;Fletcher's;1,44
+T7_2H_WILDSTAFF@2;Grandmaster's Wild Staff .2;Armas;;12;;20;Fletcher's;2,9
+T7_2H_WILDSTAFF@3;Grandmaster's Wild Staff .3;Armas;;12;;20;Fletcher's;5,8
+T7_2H_WILDSTAFF@4;Grandmaster's Wild Staff .4;Armas;;12;;20;Fletcher's;11,64
+T8_2H_WILDSTAFF;Elder's Wild Staff;Armas;;12;;20;Fletcher's;0,76
+T8_2H_WILDSTAFF@1;Elder's Wild Staff .1;Armas;;12;;20;Fletcher's;1,52
+T8_2H_WILDSTAFF@2;Elder's Wild Staff .2;Armas;;12;;20;Fletcher's;3,04
+T8_2H_WILDSTAFF@3;Elder's Wild Staff .3;Armas;;12;;20;Fletcher's;6,08
+T8_2H_WILDSTAFF@4;Elder's Wild Staff .4;Armas;;12;;20;Fletcher's;12,16
+T4_MAIN_DAGGER;Adept's Dagger;Armas;12;;12;;Fletcher's;0,15
+T4_MAIN_DAGGER@1;Adept's Dagger .1;Armas;12;;12;;Fletcher's;0,3
+T4_MAIN_DAGGER@2;Adept's Dagger .2;Armas;12;;12;;Fletcher's;0,6
+T4_MAIN_DAGGER@3;Adept's Dagger .3;Armas;12;;12;;Fletcher's;1,2
+T4_MAIN_DAGGER@4;Adept's Dagger .4;Armas;12;;12;;Fletcher's;2,4
+T5_MAIN_DAGGER;Expert's Dagger;Armas;12;;12;;Fletcher's;0,3
+T5_MAIN_DAGGER@1;Expert's Dagger .1;Armas;12;;12;;Fletcher's;0,6
+T5_MAIN_DAGGER@2;Expert's Dagger .2;Armas;12;;12;;Fletcher's;1,2
+T5_MAIN_DAGGER@3;Expert's Dagger .3;Armas;12;;12;;Fletcher's;2,4
+T5_MAIN_DAGGER@4;Expert's Dagger .4;Armas;12;;12;;Fletcher's;4,8
+T6_MAIN_DAGGER;Master's Dagger;Armas;12;;12;;Fletcher's;0,45
+T6_MAIN_DAGGER@1;Master's Dagger .1;Armas;12;;12;;Fletcher's;0,9
+T6_MAIN_DAGGER@2;Master's Dagger .2;Armas;12;;12;;Fletcher's;1,8
+T6_MAIN_DAGGER@3;Master's Dagger .3;Armas;12;;12;;Fletcher's;3,6
+T6_MAIN_DAGGER@4;Master's Dagger .4;Armas;12;;12;;Fletcher's;7,2
+T7_MAIN_DAGGER;Grandmaster's Dagger;Armas;12;;12;;Fletcher's;0,54
+T7_MAIN_DAGGER@1;Grandmaster's Dagger .1;Armas;12;;12;;Fletcher's;1,08
+T7_MAIN_DAGGER@2;Grandmaster's Dagger .2;Armas;12;;12;;Fletcher's;2,175
+T7_MAIN_DAGGER@3;Grandmaster's Dagger .3;Armas;12;;12;;Fletcher's;4,35
+T7_MAIN_DAGGER@4;Grandmaster's Dagger .4;Armas;12;;12;;Fletcher's;8,73
+T8_MAIN_DAGGER;Elder's Dagger;Armas;12;;12;;Fletcher's;0,57
+T8_MAIN_DAGGER@1;Elder's Dagger .1;Armas;12;;12;;Fletcher's;1,14
+T8_MAIN_DAGGER@2;Elder's Dagger .2;Armas;12;;12;;Fletcher's;2,28
+T8_MAIN_DAGGER@3;Elder's Dagger .3;Armas;12;;12;;Fletcher's;4,56
+T8_MAIN_DAGGER@4;Elder's Dagger .4;Armas;12;;12;;Fletcher's;9,12
+T4_2H_DAGGERPAIR;Adept's Dagger Pair;Armas;16;;16;;Fletcher's;0,2
+T4_2H_DAGGERPAIR@1;Adept's Dagger Pair .1;Armas;16;;16;;Fletcher's;0,4
+T4_2H_DAGGERPAIR@2;Adept's Dagger Pair .2;Armas;16;;16;;Fletcher's;0,8
+T4_2H_DAGGERPAIR@3;Adept's Dagger Pair .3;Armas;16;;16;;Fletcher's;1,6
+T4_2H_DAGGERPAIR@4;Adept's Dagger Pair .4;Armas;16;;16;;Fletcher's;3,2
+T5_2H_DAGGERPAIR;Expert's Dagger Pair;Armas;16;;16;;Fletcher's;0,4
+T5_2H_DAGGERPAIR@1;Expert's Dagger Pair .1;Armas;16;;16;;Fletcher's;0,8
+T5_2H_DAGGERPAIR@2;Expert's Dagger Pair .2;Armas;16;;16;;Fletcher's;1,6
+T5_2H_DAGGERPAIR@3;Expert's Dagger Pair .3;Armas;16;;16;;Fletcher's;3,2
+T5_2H_DAGGERPAIR@4;Expert's Dagger Pair .4;Armas;16;;16;;Fletcher's;6,4
+T6_2H_DAGGERPAIR;Master's Dagger Pair;Armas;16;;16;;Fletcher's;0,6
+T6_2H_DAGGERPAIR@1;Master's Dagger Pair .1;Armas;16;;16;;Fletcher's;1,2
+T6_2H_DAGGERPAIR@2;Master's Dagger Pair .2;Armas;16;;16;;Fletcher's;2,4
+T6_2H_DAGGERPAIR@3;Master's Dagger Pair .3;Armas;16;;16;;Fletcher's;4,8
+T6_2H_DAGGERPAIR@4;Master's Dagger Pair .4;Armas;16;;16;;Fletcher's;9,6
+T7_2H_DAGGERPAIR;Grandmaster's Dagger Pair;Armas;16;;16;;Fletcher's;0,72
+T7_2H_DAGGERPAIR@1;Grandmaster's Dagger Pair .1;Armas;16;;16;;Fletcher's;1,44
+T7_2H_DAGGERPAIR@2;Grandmaster's Dagger Pair .2;Armas;16;;16;;Fletcher's;2,9
+T7_2H_DAGGERPAIR@3;Grandmaster's Dagger Pair .3;Armas;16;;16;;Fletcher's;5,8
+T7_2H_DAGGERPAIR@4;Grandmaster's Dagger Pair .4;Armas;16;;16;;Fletcher's;11,64
+T8_2H_DAGGERPAIR;Elder's Dagger Pair;Armas;16;;16;;Fletcher's;0,76
+T8_2H_DAGGERPAIR@1;Elder's Dagger Pair .1;Armas;16;;16;;Fletcher's;1,52
+T8_2H_DAGGERPAIR@2;Elder's Dagger Pair .2;Armas;16;;16;;Fletcher's;3,04
+T8_2H_DAGGERPAIR@3;Elder's Dagger Pair .3;Armas;16;;16;;Fletcher's;6,08
+T8_2H_DAGGERPAIR@4;Elder's Dagger Pair .4;Armas;16;;16;;Fletcher's;12,16
+T4_2H_CLAWPAIR;Adept's Claws;Armas;20;;12;;Fletcher's;0,2
+T4_2H_CLAWPAIR@1;Adept's Claws .1;Armas;20;;12;;Fletcher's;0,4
+T4_2H_CLAWPAIR@2;Adept's Claws .2;Armas;20;;12;;Fletcher's;0,8
+T4_2H_CLAWPAIR@3;Adept's Claws .3;Armas;20;;12;;Fletcher's;1,6
+T4_2H_CLAWPAIR@4;Adept's Claws .4;Armas;20;;12;;Fletcher's;3,2
+T5_2H_CLAWPAIR;Expert's Claws;Armas;20;;12;;Fletcher's;0,4
+T5_2H_CLAWPAIR@1;Expert's Claws .1;Armas;20;;12;;Fletcher's;0,8
+T5_2H_CLAWPAIR@2;Expert's Claws .2;Armas;20;;12;;Fletcher's;1,6
+T5_2H_CLAWPAIR@3;Expert's Claws .3;Armas;20;;12;;Fletcher's;3,2
+T5_2H_CLAWPAIR@4;Expert's Claws .4;Armas;20;;12;;Fletcher's;6,4
+T6_2H_CLAWPAIR;Master's Claws;Armas;20;;12;;Fletcher's;0,6
+T6_2H_CLAWPAIR@1;Master's Claws .1;Armas;20;;12;;Fletcher's;1,2
+T6_2H_CLAWPAIR@2;Master's Claws .2;Armas;20;;12;;Fletcher's;2,4
+T6_2H_CLAWPAIR@3;Master's Claws .3;Armas;20;;12;;Fletcher's;4,8
+T6_2H_CLAWPAIR@4;Master's Claws .4;Armas;20;;12;;Fletcher's;9,6
+T7_2H_CLAWPAIR;Grandmaster's Claws;Armas;20;;12;;Fletcher's;0,72
+T7_2H_CLAWPAIR@1;Grandmaster's Claws .1;Armas;20;;12;;Fletcher's;1,44
+T7_2H_CLAWPAIR@2;Grandmaster's Claws .2;Armas;20;;12;;Fletcher's;2,9
+T7_2H_CLAWPAIR@3;Grandmaster's Claws .3;Armas;20;;12;;Fletcher's;5,8
+T7_2H_CLAWPAIR@4;Grandmaster's Claws .4;Armas;20;;12;;Fletcher's;11,64
+T8_2H_CLAWPAIR;Elder's Claws;Armas;20;;12;;Fletcher's;0,76
+T8_2H_CLAWPAIR@1;Elder's Claws .1;Armas;20;;12;;Fletcher's;1,52
+T8_2H_CLAWPAIR@2;Elder's Claws .2;Armas;20;;12;;Fletcher's;3,04
+T8_2H_CLAWPAIR@3;Elder's Claws .3;Armas;20;;12;;Fletcher's;6,08
+T8_2H_CLAWPAIR@4;Elder's Claws .4;Armas;20;;12;;Fletcher's;12,16
+T4_MAIN_SPEAR;Adept's Spear;Armas;;;8;16;Fletcher's;0,15
+T4_MAIN_SPEAR@1;Adept's Spear .1;Armas;;;8;16;Fletcher's;0,3
+T4_MAIN_SPEAR@2;Adept's Spear .2;Armas;;;8;16;Fletcher's;0,6
+T4_MAIN_SPEAR@3;Adept's Spear .3;Armas;;;8;16;Fletcher's;1,2
+T4_MAIN_SPEAR@4;Adept's Spear .4;Armas;;;8;16;Fletcher's;2,4
+T5_MAIN_SPEAR;Expert's Spear;Armas;;;8;16;Fletcher's;0,3
+T5_MAIN_SPEAR@1;Expert's Spear .1;Armas;;;8;16;Fletcher's;0,6
+T5_MAIN_SPEAR@2;Expert's Spear .2;Armas;;;8;16;Fletcher's;1,2
+T5_MAIN_SPEAR@3;Expert's Spear .3;Armas;;;8;16;Fletcher's;2,4
+T5_MAIN_SPEAR@4;Expert's Spear .4;Armas;;;8;16;Fletcher's;4,8
+T6_MAIN_SPEAR;Master's Spear;Armas;;;8;16;Fletcher's;0,45
+T6_MAIN_SPEAR@1;Master's Spear .1;Armas;;;8;16;Fletcher's;0,9
+T6_MAIN_SPEAR@2;Master's Spear .2;Armas;;;8;16;Fletcher's;1,8
+T6_MAIN_SPEAR@3;Master's Spear .3;Armas;;;8;16;Fletcher's;3,6
+T6_MAIN_SPEAR@4;Master's Spear .4;Armas;;;8;16;Fletcher's;7,2
+T7_MAIN_SPEAR;Grandmaster's Spear;Armas;;;8;16;Fletcher's;0,54
+T7_MAIN_SPEAR@1;Grandmaster's Spear .1;Armas;;;8;16;Fletcher's;1,08
+T7_MAIN_SPEAR@2;Grandmaster's Spear .2;Armas;;;8;16;Fletcher's;2,175
+T7_MAIN_SPEAR@3;Grandmaster's Spear .3;Armas;;;8;16;Fletcher's;4,35
+T7_MAIN_SPEAR@4;Grandmaster's Spear .4;Armas;;;8;16;Fletcher's;8,73
+T8_MAIN_SPEAR;Elder's Spear;Armas;;;8;16;Fletcher's;0,57
+T8_MAIN_SPEAR@1;Elder's Spear .1;Armas;;;8;16;Fletcher's;1,14
+T8_MAIN_SPEAR@2;Elder's Spear .2;Armas;;;8;16;Fletcher's;2,28
+T8_MAIN_SPEAR@3;Elder's Spear .3;Armas;;;8;16;Fletcher's;4,56
+T8_MAIN_SPEAR@4;Elder's Spear .4;Armas;;;8;16;Fletcher's;9,12
+T4_2H_SPEAR;Adept's Pike;Armas;;;12;20;Fletcher's;0,2
+T4_2H_SPEAR@1;Adept's Pike .1;Armas;;;12;20;Fletcher's;0,4
+T4_2H_SPEAR@2;Adept's Pike .2;Armas;;;12;20;Fletcher's;0,8
+T4_2H_SPEAR@3;Adept's Pike .3;Armas;;;12;20;Fletcher's;1,6
+T4_2H_SPEAR@4;Adept's Pike .4;Armas;;;12;20;Fletcher's;3,2
+T5_2H_SPEAR;Expert's Pike;Armas;;;12;20;Fletcher's;0,4
+T5_2H_SPEAR@1;Expert's Pike .1;Armas;;;12;20;Fletcher's;0,8
+T5_2H_SPEAR@2;Expert's Pike .2;Armas;;;12;20;Fletcher's;1,6
+T5_2H_SPEAR@3;Expert's Pike .3;Armas;;;12;20;Fletcher's;3,2
+T5_2H_SPEAR@4;Expert's Pike .4;Armas;;;12;20;Fletcher's;6,4
+T6_2H_SPEAR;Master's Pike;Armas;;;12;20;Fletcher's;0,6
+T6_2H_SPEAR@1;Master's Pike .1;Armas;;;12;20;Fletcher's;1,2
+T6_2H_SPEAR@2;Master's Pike .2;Armas;;;12;20;Fletcher's;2,4
+T6_2H_SPEAR@3;Master's Pike .3;Armas;;;12;20;Fletcher's;4,8
+T6_2H_SPEAR@4;Master's Pike .4;Armas;;;12;20;Fletcher's;9,6
+T7_2H_SPEAR;Grandmaster's Pike;Armas;;;12;20;Fletcher's;0,72
+T7_2H_SPEAR@1;Grandmaster's Pike .1;Armas;;;12;20;Fletcher's;1,44
+T7_2H_SPEAR@2;Grandmaster's Pike .2;Armas;;;12;20;Fletcher's;2,9
+T7_2H_SPEAR@3;Grandmaster's Pike .3;Armas;;;12;20;Fletcher's;5,8
+T7_2H_SPEAR@4;Grandmaster's Pike .4;Armas;;;12;20;Fletcher's;11,64
+T8_2H_SPEAR;Elder's Pike;Armas;;;12;20;Fletcher's;0,76
+T8_2H_SPEAR@1;Elder's Pike .1;Armas;;;12;20;Fletcher's;1,52
+T8_2H_SPEAR@2;Elder's Pike .2;Armas;;;12;20;Fletcher's;3,04
+T8_2H_SPEAR@3;Elder's Pike .3;Armas;;;12;20;Fletcher's;6,08
+T8_2H_SPEAR@4;Elder's Pike .4;Armas;;;12;20;Fletcher's;12,16
+T4_2H_GLAIVE;Adept's Glaive;Armas;;;20;12;Fletcher's;0,2
+T4_2H_GLAIVE@1;Adept's Glaive .1;Armas;;;20;12;Fletcher's;0,4
+T4_2H_GLAIVE@2;Adept's Glaive .2;Armas;;;20;12;Fletcher's;0,8
+T4_2H_GLAIVE@3;Adept's Glaive .3;Armas;;;20;12;Fletcher's;1,6
+T4_2H_GLAIVE@4;Adept's Glaive .4;Armas;;;20;12;Fletcher's;3,2
+T5_2H_GLAIVE;Expert's Glaive;Armas;;;20;12;Fletcher's;0,4
+T5_2H_GLAIVE@1;Expert's Glaive .1;Armas;;;20;12;Fletcher's;0,8
+T5_2H_GLAIVE@2;Expert's Glaive .2;Armas;;;20;12;Fletcher's;1,6
+T5_2H_GLAIVE@3;Expert's Glaive .3;Armas;;;20;12;Fletcher's;3,2
+T5_2H_GLAIVE@4;Expert's Glaive .4;Armas;;;20;12;Fletcher's;6,4
+T6_2H_GLAIVE;Master's Glaive;Armas;;;20;12;Fletcher's;0,6
+T6_2H_GLAIVE@1;Master's Glaive .1;Armas;;;20;12;Fletcher's;1,2
+T6_2H_GLAIVE@2;Master's Glaive .2;Armas;;;20;12;Fletcher's;2,4
+T6_2H_GLAIVE@3;Master's Glaive .3;Armas;;;20;12;Fletcher's;4,8
+T6_2H_GLAIVE@4;Master's Glaive .4;Armas;;;20;12;Fletcher's;9,6
+T7_2H_GLAIVE;Grandmaster's Glaive;Armas;;;20;12;Fletcher's;0,72
+T7_2H_GLAIVE@1;Grandmaster's Glaive .1;Armas;;;20;12;Fletcher's;1,44
+T7_2H_GLAIVE@2;Grandmaster's Glaive .2;Armas;;;20;12;Fletcher's;2,9
+T7_2H_GLAIVE@3;Grandmaster's Glaive .3;Armas;;;20;12;Fletcher's;5,8
+T7_2H_GLAIVE@4;Grandmaster's Glaive .4;Armas;;;20;12;Fletcher's;11,64
+T8_2H_GLAIVE;Elder's Glaive;Armas;;;20;12;Fletcher's;0,76
+T8_2H_GLAIVE@1;Elder's Glaive .1;Armas;;;20;12;Fletcher's;1,52
+T8_2H_GLAIVE@2;Elder's Glaive .2;Armas;;;20;12;Fletcher's;3,04
+T8_2H_GLAIVE@3;Elder's Glaive .3;Armas;;;20;12;Fletcher's;6,08
+T8_2H_GLAIVE@4;Elder's Glaive .4;Armas;;;20;12;Fletcher's;12,16
+T4_MAIN_AXE;Adept's Battleaxe;Armas;;;16;8;Blacksmith's;0,15
+T4_MAIN_AXE@1;Adept's Battleaxe .1;Armas;;;16;8;Blacksmith's;0,3
+T4_MAIN_AXE@2;Adept's Battleaxe .2;Armas;;;16;8;Blacksmith's;0,6
+T4_MAIN_AXE@3;Adept's Battleaxe .3;Armas;;;16;8;Blacksmith's;1,2
+T4_MAIN_AXE@4;Adept's Battleaxe .4;Armas;;;16;8;Blacksmith's;2,4
+T5_MAIN_AXE;Expert's Battleaxe;Armas;;;16;8;Blacksmith's;0,3
+T5_MAIN_AXE@1;Expert's Battleaxe .1;Armas;;;16;8;Blacksmith's;0,6
+T5_MAIN_AXE@2;Expert's Battleaxe .2;Armas;;;16;8;Blacksmith's;1,2
+T5_MAIN_AXE@3;Expert's Battleaxe .3;Armas;;;16;8;Blacksmith's;2,4
+T5_MAIN_AXE@4;Expert's Battleaxe .4;Armas;;;16;8;Blacksmith's;4,8
+T6_MAIN_AXE;Master's Battleaxe;Armas;;;16;8;Blacksmith's;0,45
+T6_MAIN_AXE@1;Master's Battleaxe .1;Armas;;;16;8;Blacksmith's;0,9
+T6_MAIN_AXE@2;Master's Battleaxe .2;Armas;;;16;8;Blacksmith's;1,8
+T6_MAIN_AXE@3;Master's Battleaxe .3;Armas;;;16;8;Blacksmith's;3,6
+T6_MAIN_AXE@4;Master's Battleaxe .4;Armas;;;16;8;Blacksmith's;7,2
+T7_MAIN_AXE;Grandmaster's Battleaxe;Armas;;;16;8;Blacksmith's;0,54
+T7_MAIN_AXE@1;Grandmaster's Battleaxe .1;Armas;;;16;8;Blacksmith's;1,08
+T7_MAIN_AXE@2;Grandmaster's Battleaxe .2;Armas;;;16;8;Blacksmith's;2,175
+T7_MAIN_AXE@3;Grandmaster's Battleaxe .3;Armas;;;16;8;Blacksmith's;4,35
+T7_MAIN_AXE@4;Grandmaster's Battleaxe .4;Armas;;;16;8;Blacksmith's;8,73
+T8_MAIN_AXE;Elder's Battleaxe;Armas;;;16;8;Blacksmith's;0,57
+T8_MAIN_AXE@1;Elder's Battleaxe .1;Armas;;;16;8;Blacksmith's;1,14
+T8_MAIN_AXE@2;Elder's Battleaxe .2;Armas;;;16;8;Blacksmith's;2,28
+T8_MAIN_AXE@3;Elder's Battleaxe .3;Armas;;;16;8;Blacksmith's;4,56
+T8_MAIN_AXE@4;Elder's Battleaxe .4;Armas;;;16;8;Blacksmith's;9,12
+T4_2H_AXE;Adept's Greataxe;Armas;;;20;12;Blacksmith's;0,2
+T4_2H_AXE@1;Adept's Greataxe .1;Armas;;;20;12;Blacksmith's;0,4
+T4_2H_AXE@2;Adept's Greataxe .2;Armas;;;20;12;Blacksmith's;0,8
+T4_2H_AXE@3;Adept's Greataxe .3;Armas;;;20;12;Blacksmith's;1,6
+T4_2H_AXE@4;Adept's Greataxe .4;Armas;;;20;12;Blacksmith's;3,2
+T5_2H_AXE;Expert's Greataxe;Armas;;;20;12;Blacksmith's;0,4
+T5_2H_AXE@1;Expert's Greataxe .1;Armas;;;20;12;Blacksmith's;0,8
+T5_2H_AXE@2;Expert's Greataxe .2;Armas;;;20;12;Blacksmith's;1,6
+T5_2H_AXE@3;Expert's Greataxe .3;Armas;;;20;12;Blacksmith's;3,2
+T5_2H_AXE@4;Expert's Greataxe .4;Armas;;;20;12;Blacksmith's;6,4
+T6_2H_AXE;Master's Greataxe;Armas;;;20;12;Blacksmith's;0,6
+T6_2H_AXE@1;Master's Greataxe .1;Armas;;;20;12;Blacksmith's;1,2
+T6_2H_AXE@2;Master's Greataxe .2;Armas;;;20;12;Blacksmith's;2,4
+T6_2H_AXE@3;Master's Greataxe .3;Armas;;;20;12;Blacksmith's;4,8
+T6_2H_AXE@4;Master's Greataxe .4;Armas;;;20;12;Blacksmith's;9,6
+T7_2H_AXE;Grandmaster's Greataxe;Armas;;;20;12;Blacksmith's;0,72
+T7_2H_AXE@1;Grandmaster's Greataxe .1;Armas;;;20;12;Blacksmith's;1,44
+T7_2H_AXE@2;Grandmaster's Greataxe .2;Armas;;;20;12;Blacksmith's;2,9
+T7_2H_AXE@3;Grandmaster's Greataxe .3;Armas;;;20;12;Blacksmith's;5,8
+T7_2H_AXE@4;Grandmaster's Greataxe .4;Armas;;;20;12;Blacksmith's;11,64
+T8_2H_AXE;The Hand of Khor;Armas;;;20;12;Blacksmith's;0,76
+T8_2H_AXE@1;The Hand of Khor .1;Armas;;;20;12;Blacksmith's;1,52
+T8_2H_AXE@2;The Hand of Khor .2;Armas;;;20;12;Blacksmith's;3,04
+T8_2H_AXE@3;The Hand of Khor .3;Armas;;;20;12;Blacksmith's;6,08
+T8_2H_AXE@4;The Hand of Khor .4;Armas;;;20;12;Blacksmith's;12,16
+T4_2H_HALBERD;Adept's Halberd;Armas;;;12;20;Blacksmith's;0,2
+T4_2H_HALBERD@1;Adept's Halberd .1;Armas;;;12;20;Blacksmith's;0,4
+T4_2H_HALBERD@2;Adept's Halberd .2;Armas;;;12;20;Blacksmith's;0,8
+T4_2H_HALBERD@3;Adept's Halberd .3;Armas;;;12;20;Blacksmith's;1,6
+T4_2H_HALBERD@4;Adept's Halberd .4;Armas;;;12;20;Blacksmith's;3,2
+T5_2H_HALBERD;Expert's Halberd;Armas;;;12;20;Blacksmith's;0,4
+T5_2H_HALBERD@1;Expert's Halberd .1;Armas;;;12;20;Blacksmith's;0,8
+T5_2H_HALBERD@2;Expert's Halberd .2;Armas;;;12;20;Blacksmith's;1,6
+T5_2H_HALBERD@3;Expert's Halberd .3;Armas;;;12;20;Blacksmith's;3,2
+T5_2H_HALBERD@4;Expert's Halberd .4;Armas;;;12;20;Blacksmith's;6,4
+T6_2H_HALBERD;Master's Halberd;Armas;;;12;20;Blacksmith's;0,6
+T6_2H_HALBERD@1;Master's Halberd .1;Armas;;;12;20;Blacksmith's;1,2
+T6_2H_HALBERD@2;Master's Halberd .2;Armas;;;12;20;Blacksmith's;2,4
+T6_2H_HALBERD@3;Master's Halberd .3;Armas;;;12;20;Blacksmith's;4,8
+T6_2H_HALBERD@4;Master's Halberd .4;Armas;;;12;20;Blacksmith's;9,6
+T7_2H_HALBERD;Grandmaster's Halberd;Armas;;;12;20;Blacksmith's;0,72
+T7_2H_HALBERD@1;Grandmaster's Halberd .1;Armas;;;12;20;Blacksmith's;1,44
+T7_2H_HALBERD@2;Grandmaster's Halberd .2;Armas;;;12;20;Blacksmith's;2,9
+T7_2H_HALBERD@3;Grandmaster's Halberd .3;Armas;;;12;20;Blacksmith's;5,8
+T7_2H_HALBERD@4;Grandmaster's Halberd .4;Armas;;;12;20;Blacksmith's;11,64
+T8_2H_HALBERD;Elder's Halberd;Armas;;;12;20;Blacksmith's;0,76
+T8_2H_HALBERD@1;Elder's Halberd .1;Armas;;;12;20;Blacksmith's;1,52
+T8_2H_HALBERD@2;Elder's Halberd .2;Armas;;;12;20;Blacksmith's;3,04
+T8_2H_HALBERD@3;Elder's Halberd .3;Armas;;;12;20;Blacksmith's;6,08
+T8_2H_HALBERD@4;Elder's Halberd .4;Armas;;;12;20;Blacksmith's;12,16
+T4_MAIN_SWORD;Adept's Broadsword;Armas;8;;16;;Blacksmith's;0,15
+T4_MAIN_SWORD@1;Adept's Broadsword .1;Armas;8;;16;;Blacksmith's;0,3
+T4_MAIN_SWORD@2;Adept's Broadsword .2;Armas;8;;16;;Blacksmith's;0,6
+T4_MAIN_SWORD@3;Adept's Broadsword .3;Armas;8;;16;;Blacksmith's;1,2
+T4_MAIN_SWORD@4;Adept's Broadsword .4;Armas;8;;16;;Blacksmith's;2,4
+T5_MAIN_SWORD;Expert's Broadsword;Armas;8;;16;;Blacksmith's;0,3
+T5_MAIN_SWORD@1;Expert's Broadsword .1;Armas;8;;16;;Blacksmith's;0,6
+T5_MAIN_SWORD@2;Expert's Broadsword .2;Armas;8;;16;;Blacksmith's;1,2
+T5_MAIN_SWORD@3;Expert's Broadsword .3;Armas;8;;16;;Blacksmith's;2,4
+T5_MAIN_SWORD@4;Expert's Broadsword .4;Armas;8;;16;;Blacksmith's;4,8
+T6_MAIN_SWORD;Master's Broadsword;Armas;8;;16;;Blacksmith's;0,45
+T6_MAIN_SWORD@1;Master's Broadsword .1;Armas;8;;16;;Blacksmith's;0,9
+T6_MAIN_SWORD@2;Master's Broadsword .2;Armas;8;;16;;Blacksmith's;1,8
+T6_MAIN_SWORD@3;Master's Broadsword .3;Armas;8;;16;;Blacksmith's;3,6
+T6_MAIN_SWORD@4;Master's Broadsword .4;Armas;8;;16;;Blacksmith's;7,2
+T7_MAIN_SWORD;Grandmaster's Broadsword;Armas;8;;16;;Blacksmith's;0,54
+T7_MAIN_SWORD@1;Grandmaster's Broadsword .1;Armas;8;;16;;Blacksmith's;1,08
+T7_MAIN_SWORD@2;Grandmaster's Broadsword .2;Armas;8;;16;;Blacksmith's;2,175
+T7_MAIN_SWORD@3;Grandmaster's Broadsword .3;Armas;8;;16;;Blacksmith's;4,35
+T7_MAIN_SWORD@4;Grandmaster's Broadsword .4;Armas;8;;16;;Blacksmith's;8,73
+T8_MAIN_SWORD;Elder's Broadsword;Armas;8;;16;;Blacksmith's;0,57
+T8_MAIN_SWORD@1;Elder's Broadsword .1;Armas;8;;16;;Blacksmith's;1,14
+T8_MAIN_SWORD@2;Elder's Broadsword .2;Armas;8;;16;;Blacksmith's;2,28
+T8_MAIN_SWORD@3;Elder's Broadsword .3;Armas;8;;16;;Blacksmith's;4,56
+T8_MAIN_SWORD@4;Elder's Broadsword .4;Armas;8;;16;;Blacksmith's;9,12
+T4_2H_CLAYMORE;Adept's Claymore;Armas;12;;20;;Blacksmith's;0,2
+T4_2H_CLAYMORE@1;Adept's Claymore .1;Armas;12;;20;;Blacksmith's;0,4
+T4_2H_CLAYMORE@2;Adept's Claymore .2;Armas;12;;20;;Blacksmith's;0,8
+T4_2H_CLAYMORE@3;Adept's Claymore .3;Armas;12;;20;;Blacksmith's;1,6
+T4_2H_CLAYMORE@4;Adept's Claymore .4;Armas;12;;20;;Blacksmith's;3,2
+T5_2H_CLAYMORE;Expert's Claymore;Armas;12;;20;;Blacksmith's;0,4
+T5_2H_CLAYMORE@1;Expert's Claymore .1;Armas;12;;20;;Blacksmith's;0,8
+T5_2H_CLAYMORE@2;Expert's Claymore .2;Armas;12;;20;;Blacksmith's;1,6
+T5_2H_CLAYMORE@3;Expert's Claymore .3;Armas;12;;20;;Blacksmith's;3,2
+T5_2H_CLAYMORE@4;Expert's Claymore .4;Armas;12;;20;;Blacksmith's;6,4
+T6_2H_CLAYMORE;Master's Claymore;Armas;12;;20;;Blacksmith's;0,6
+T6_2H_CLAYMORE@1;Master's Claymore .1;Armas;12;;20;;Blacksmith's;1,2
+T6_2H_CLAYMORE@2;Master's Claymore .2;Armas;12;;20;;Blacksmith's;2,4
+T6_2H_CLAYMORE@3;Master's Claymore .3;Armas;12;;20;;Blacksmith's;4,8
+T6_2H_CLAYMORE@4;Master's Claymore .4;Armas;12;;20;;Blacksmith's;9,6
+T7_2H_CLAYMORE;Grandmaster's Claymore;Armas;12;;20;;Blacksmith's;0,72
+T7_2H_CLAYMORE@1;Grandmaster's Claymore .1;Armas;12;;20;;Blacksmith's;1,44
+T7_2H_CLAYMORE@2;Grandmaster's Claymore .2;Armas;12;;20;;Blacksmith's;2,9
+T7_2H_CLAYMORE@3;Grandmaster's Claymore .3;Armas;12;;20;;Blacksmith's;5,8
+T7_2H_CLAYMORE@4;Grandmaster's Claymore .4;Armas;12;;20;;Blacksmith's;11,64
+T8_2H_CLAYMORE;Elder's Claymore;Armas;12;;20;;Blacksmith's;0,76
+T8_2H_CLAYMORE@1;Elder's Claymore .1;Armas;12;;20;;Blacksmith's;1,52
+T8_2H_CLAYMORE@2;Elder's Claymore .2;Armas;12;;20;;Blacksmith's;3,04
+T8_2H_CLAYMORE@3;Elder's Claymore .3;Armas;12;;20;;Blacksmith's;6,08
+T8_2H_CLAYMORE@4;Elder's Claymore .4;Armas;12;;20;;Blacksmith's;12,16
+T4_2H_DUALSWORD;Adept's Dual Swords;Armas;12;;20;;Blacksmith's;0,2
+T4_2H_DUALSWORD@1;Adept's Dual Swords .1;Armas;12;;20;;Blacksmith's;0,4
+T4_2H_DUALSWORD@2;Adept's Dual Swords .2;Armas;12;;20;;Blacksmith's;0,8
+T4_2H_DUALSWORD@3;Adept's Dual Swords .3;Armas;12;;20;;Blacksmith's;1,6
+T4_2H_DUALSWORD@4;Adept's Dual Swords .4;Armas;12;;20;;Blacksmith's;3,2
+T5_2H_DUALSWORD;Expert's Dual Swords;Armas;12;;20;;Blacksmith's;0,4
+T5_2H_DUALSWORD@1;Expert's Dual Swords .1;Armas;12;;20;;Blacksmith's;0,8
+T5_2H_DUALSWORD@2;Expert's Dual Swords .2;Armas;12;;20;;Blacksmith's;1,6
+T5_2H_DUALSWORD@3;Expert's Dual Swords .3;Armas;12;;20;;Blacksmith's;3,2
+T5_2H_DUALSWORD@4;Expert's Dual Swords .4;Armas;12;;20;;Blacksmith's;6,4
+T6_2H_DUALSWORD;Master's Dual Swords;Armas;12;;20;;Blacksmith's;0,6
+T6_2H_DUALSWORD@1;Master's Dual Swords .1;Armas;12;;20;;Blacksmith's;1,2
+T6_2H_DUALSWORD@2;Master's Dual Swords .2;Armas;12;;20;;Blacksmith's;2,4
+T6_2H_DUALSWORD@3;Master's Dual Swords .3;Armas;12;;20;;Blacksmith's;4,8
+T6_2H_DUALSWORD@4;Master's Dual Swords .4;Armas;12;;20;;Blacksmith's;9,6
+T7_2H_DUALSWORD;Grandmaster's Dual Swords;Armas;12;;20;;Blacksmith's;0,72
+T7_2H_DUALSWORD@1;Grandmaster's Dual Swords .1;Armas;12;;20;;Blacksmith's;1,44
+T7_2H_DUALSWORD@2;Grandmaster's Dual Swords .2;Armas;12;;20;;Blacksmith's;2,9
+T7_2H_DUALSWORD@3;Grandmaster's Dual Swords .3;Armas;12;;20;;Blacksmith's;5,8
+T7_2H_DUALSWORD@4;Grandmaster's Dual Swords .4;Armas;12;;20;;Blacksmith's;11,64
+T8_2H_DUALSWORD;Elder's Dual Swords;Armas;12;;20;;Blacksmith's;0,76
+T8_2H_DUALSWORD@1;Elder's Dual Swords .1;Armas;12;;20;;Blacksmith's;1,52
+T8_2H_DUALSWORD@2;Elder's Dual Swords .2;Armas;12;;20;;Blacksmith's;3,04
+T8_2H_DUALSWORD@3;Elder's Dual Swords .3;Armas;12;;20;;Blacksmith's;6,08
+T8_2H_DUALSWORD@4;Elder's Dual Swords .4;Armas;12;;20;;Blacksmith's;12,16
+T4_2H_QUARTERSTAFF;Adept's Quarterstaff;Armas;20;;12;;Fletcher's;0,2
+T4_2H_QUARTERSTAFF@1;Adept's Quarterstaff .1;Armas;20;;12;;Fletcher's;0,4
+T4_2H_QUARTERSTAFF@2;Adept's Quarterstaff .2;Armas;20;;12;;Fletcher's;0,8
+T4_2H_QUARTERSTAFF@3;Adept's Quarterstaff .3;Armas;20;;12;;Fletcher's;1,6
+T4_2H_QUARTERSTAFF@4;Adept's Quarterstaff .4;Armas;20;;12;;Fletcher's;3,2
+T5_2H_QUARTERSTAFF;Expert's Quarterstaff;Armas;20;;12;;Fletcher's;0,4
+T5_2H_QUARTERSTAFF@1;Expert's Quarterstaff .1;Armas;20;;12;;Fletcher's;0,8
+T5_2H_QUARTERSTAFF@2;Expert's Quarterstaff .2;Armas;20;;12;;Fletcher's;1,6
+T5_2H_QUARTERSTAFF@3;Expert's Quarterstaff .3;Armas;20;;12;;Fletcher's;3,2
+T5_2H_QUARTERSTAFF@4;Expert's Quarterstaff .4;Armas;20;;12;;Fletcher's;6,4
+T6_2H_QUARTERSTAFF;Master's Quarterstaff;Armas;20;;12;;Fletcher's;0,6
+T6_2H_QUARTERSTAFF@1;Master's Quarterstaff .1;Armas;20;;12;;Fletcher's;1,2
+T6_2H_QUARTERSTAFF@2;Master's Quarterstaff .2;Armas;20;;12;;Fletcher's;2,4
+T6_2H_QUARTERSTAFF@3;Master's Quarterstaff .3;Armas;20;;12;;Fletcher's;4,8
+T6_2H_QUARTERSTAFF@4;Master's Quarterstaff .4;Armas;20;;12;;Fletcher's;9,6
+T7_2H_QUARTERSTAFF;Grandmaster's Quarterstaff;Armas;20;;12;;Fletcher's;0,72
+T7_2H_QUARTERSTAFF@1;Grandmaster's Quarterstaff .1;Armas;20;;12;;Fletcher's;1,44
+T7_2H_QUARTERSTAFF@2;Grandmaster's Quarterstaff .2;Armas;20;;12;;Fletcher's;2,9
+T7_2H_QUARTERSTAFF@3;Grandmaster's Quarterstaff .3;Armas;20;;12;;Fletcher's;5,8
+T7_2H_QUARTERSTAFF@4;Grandmaster's Quarterstaff .4;Armas;20;;12;;Fletcher's;11,64
+T8_2H_QUARTERSTAFF;Elder's Quarterstaff;Armas;20;;12;;Fletcher's;0,76
+T8_2H_QUARTERSTAFF@1;Elder's Quarterstaff .1;Armas;20;;12;;Fletcher's;1,52
+T8_2H_QUARTERSTAFF@2;Elder's Quarterstaff .2;Armas;20;;12;;Fletcher's;3,04
+T8_2H_QUARTERSTAFF@3;Elder's Quarterstaff .3;Armas;20;;12;;Fletcher's;6,08
+T8_2H_QUARTERSTAFF@4;Elder's Quarterstaff .4;Armas;20;;12;;Fletcher's;12,16
+T4_2H_IRONCLADEDSTAFF;Adept's Iron-clad Staff;Armas;20;;12;;Fletcher's;0,2
+T4_2H_IRONCLADEDSTAFF@1;Adept's Iron-clad Staff .1;Armas;20;;12;;Fletcher's;0,4
+T4_2H_IRONCLADEDSTAFF@2;Adept's Iron-clad Staff .2;Armas;20;;12;;Fletcher's;0,8
+T4_2H_IRONCLADEDSTAFF@3;Adept's Iron-clad Staff .3;Armas;20;;12;;Fletcher's;1,6
+T4_2H_IRONCLADEDSTAFF@4;Adept's Iron-clad Staff .4;Armas;20;;12;;Fletcher's;3,2
+T5_2H_IRONCLADEDSTAFF;Expert's Iron-clad Staff;Armas;20;;12;;Fletcher's;0,4
+T5_2H_IRONCLADEDSTAFF@1;Expert's Iron-clad Staff .1;Armas;20;;12;;Fletcher's;0,8
+T5_2H_IRONCLADEDSTAFF@2;Expert's Iron-clad Staff .2;Armas;20;;12;;Fletcher's;1,6
+T5_2H_IRONCLADEDSTAFF@3;Expert's Iron-clad Staff .3;Armas;20;;12;;Fletcher's;3,2
+T5_2H_IRONCLADEDSTAFF@4;Expert's Iron-clad Staff .4;Armas;20;;12;;Fletcher's;6,4
+T6_2H_IRONCLADEDSTAFF;Master's Iron-clad Staff;Armas;20;;12;;Fletcher's;0,6
+T6_2H_IRONCLADEDSTAFF@1;Master's Iron-clad Staff .1;Armas;20;;12;;Fletcher's;1,2
+T6_2H_IRONCLADEDSTAFF@2;Master's Iron-clad Staff .2;Armas;20;;12;;Fletcher's;2,4
+T6_2H_IRONCLADEDSTAFF@3;Master's Iron-clad Staff .3;Armas;20;;12;;Fletcher's;4,8
+T6_2H_IRONCLADEDSTAFF@4;Master's Iron-clad Staff .4;Armas;20;;12;;Fletcher's;9,6
+T7_2H_IRONCLADEDSTAFF;Grandmaster's Iron-clad Staff;Armas;20;;12;;Fletcher's;0,72
+T7_2H_IRONCLADEDSTAFF@1;Grandmaster's Iron-clad Staff .1;Armas;20;;12;;Fletcher's;1,44
+T7_2H_IRONCLADEDSTAFF@2;Grandmaster's Iron-clad Staff .2;Armas;20;;12;;Fletcher's;2,9
+T7_2H_IRONCLADEDSTAFF@3;Grandmaster's Iron-clad Staff .3;Armas;20;;12;;Fletcher's;5,8
+T7_2H_IRONCLADEDSTAFF@4;Grandmaster's Iron-clad Staff .4;Armas;20;;12;;Fletcher's;11,64
+T8_2H_IRONCLADEDSTAFF;Elder's Iron-clad Staff;Armas;20;;12;;Fletcher's;0,76
+T8_2H_IRONCLADEDSTAFF@1;Elder's Iron-clad Staff .1;Armas;20;;12;;Fletcher's;1,52
+T8_2H_IRONCLADEDSTAFF@2;Elder's Iron-clad Staff .2;Armas;20;;12;;Fletcher's;3,04
+T8_2H_IRONCLADEDSTAFF@3;Elder's Iron-clad Staff .3;Armas;20;;12;;Fletcher's;6,08
+T8_2H_IRONCLADEDSTAFF@4;Elder's Iron-clad Staff .4;Armas;20;;12;;Fletcher's;12,16
+T4_2H_DOUBLEBLADEDSTAFF;Adept's Double Bladed Staff;Armas;20;;12;;Fletcher's;0,2
+T4_2H_DOUBLEBLADEDSTAFF@1;Adept's Double Bladed Staff .1;Armas;20;;12;;Fletcher's;0,4
+T4_2H_DOUBLEBLADEDSTAFF@2;Adept's Double Bladed Staff .2;Armas;20;;12;;Fletcher's;0,8
+T4_2H_DOUBLEBLADEDSTAFF@3;Adept's Double Bladed Staff .3;Armas;20;;12;;Fletcher's;1,6
+T4_2H_DOUBLEBLADEDSTAFF@4;Adept's Double Bladed Staff .4;Armas;20;;12;;Fletcher's;3,2
+T5_2H_DOUBLEBLADEDSTAFF;Expert's Double Bladed Staff;Armas;20;;12;;Fletcher's;0,4
+T5_2H_DOUBLEBLADEDSTAFF@1;Expert's Double Bladed Staff .1;Armas;20;;12;;Fletcher's;0,8
+T5_2H_DOUBLEBLADEDSTAFF@2;Expert's Double Bladed Staff .2;Armas;20;;12;;Fletcher's;1,6
+T5_2H_DOUBLEBLADEDSTAFF@3;Expert's Double Bladed Staff .3;Armas;20;;12;;Fletcher's;3,2
+T5_2H_DOUBLEBLADEDSTAFF@4;Expert's Double Bladed Staff .4;Armas;20;;12;;Fletcher's;6,4
+T6_2H_DOUBLEBLADEDSTAFF;Master's Double Bladed Staff;Armas;20;;12;;Fletcher's;0,6
+T6_2H_DOUBLEBLADEDSTAFF@1;Master's Double Bladed Staff .1;Armas;20;;12;;Fletcher's;1,2
+T6_2H_DOUBLEBLADEDSTAFF@2;Master's Double Bladed Staff .2;Armas;20;;12;;Fletcher's;2,4
+T6_2H_DOUBLEBLADEDSTAFF@3;Master's Double Bladed Staff .3;Armas;20;;12;;Fletcher's;4,8
+T6_2H_DOUBLEBLADEDSTAFF@4;Master's Double Bladed Staff .4;Armas;20;;12;;Fletcher's;9,6
+T7_2H_DOUBLEBLADEDSTAFF;Grandmaster's Double Bladed Staff;Armas;20;;12;;Fletcher's;0,72
+T7_2H_DOUBLEBLADEDSTAFF@1;Grandmaster's Double Bladed Staff .1;Armas;20;;12;;Fletcher's;1,44
+T7_2H_DOUBLEBLADEDSTAFF@2;Grandmaster's Double Bladed Staff .2;Armas;20;;12;;Fletcher's;2,9
+T7_2H_DOUBLEBLADEDSTAFF@3;Grandmaster's Double Bladed Staff .3;Armas;20;;12;;Fletcher's;5,8
+T7_2H_DOUBLEBLADEDSTAFF@4;Grandmaster's Double Bladed Staff .4;Armas;20;;12;;Fletcher's;11,64
+T8_2H_DOUBLEBLADEDSTAFF;Elder's Double Bladed Staff;Armas;20;;12;;Fletcher's;0,76
+T8_2H_DOUBLEBLADEDSTAFF@1;Elder's Double Bladed Staff .1;Armas;20;;12;;Fletcher's;1,52
+T8_2H_DOUBLEBLADEDSTAFF@2;Elder's Double Bladed Staff .2;Armas;20;;12;;Fletcher's;3,04
+T8_2H_DOUBLEBLADEDSTAFF@3;Elder's Double Bladed Staff .3;Armas;20;;12;;Fletcher's;6,08
+T8_2H_DOUBLEBLADEDSTAFF@4;Elder's Double Bladed Staff .4;Armas;20;;12;;Fletcher's;12,16
+T4_MAIN_HAMMER;Adept's Hammer;Armas;;;24;;Blacksmith's;0,15
+T4_MAIN_HAMMER@1;Adept's Hammer .1;Armas;;;24;;Blacksmith's;0,3
+T4_MAIN_HAMMER@2;Adept's Hammer .2;Armas;;;24;;Blacksmith's;0,6
+T4_MAIN_HAMMER@3;Adept's Hammer .3;Armas;;;24;;Blacksmith's;1,2
+T4_MAIN_HAMMER@4;Adept's Hammer .4;Armas;;;24;;Blacksmith's;2,4
+T5_MAIN_HAMMER;Expert's Hammer;Armas;;;24;;Blacksmith's;0,3
+T5_MAIN_HAMMER@1;Expert's Hammer .1;Armas;;;24;;Blacksmith's;0,6
+T5_MAIN_HAMMER@2;Expert's Hammer .2;Armas;;;24;;Blacksmith's;1,2
+T5_MAIN_HAMMER@3;Expert's Hammer .3;Armas;;;24;;Blacksmith's;2,4
+T5_MAIN_HAMMER@4;Expert's Hammer .4;Armas;;;24;;Blacksmith's;4,8
+T6_MAIN_HAMMER;Master's Hammer;Armas;;;24;;Blacksmith's;0,45
+T6_MAIN_HAMMER@1;Master's Hammer .1;Armas;;;24;;Blacksmith's;0,9
+T6_MAIN_HAMMER@2;Master's Hammer .2;Armas;;;24;;Blacksmith's;1,8
+T6_MAIN_HAMMER@3;Master's Hammer .3;Armas;;;24;;Blacksmith's;3,6
+T6_MAIN_HAMMER@4;Master's Hammer .4;Armas;;;24;;Blacksmith's;7,2
+T7_MAIN_HAMMER;Grandmaster's Hammer;Armas;;;24;;Blacksmith's;0,54
+T7_MAIN_HAMMER@1;Grandmaster's Hammer .1;Armas;;;24;;Blacksmith's;1,08
+T7_MAIN_HAMMER@2;Grandmaster's Hammer .2;Armas;;;24;;Blacksmith's;2,175
+T7_MAIN_HAMMER@3;Grandmaster's Hammer .3;Armas;;;24;;Blacksmith's;4,35
+T7_MAIN_HAMMER@4;Grandmaster's Hammer .4;Armas;;;24;;Blacksmith's;8,73
+T8_MAIN_HAMMER;Elder's Hammer;Armas;;;24;;Blacksmith's;0,57
+T8_MAIN_HAMMER@1;Elder's Hammer .1;Armas;;;24;;Blacksmith's;1,14
+T8_MAIN_HAMMER@2;Elder's Hammer .2;Armas;;;24;;Blacksmith's;2,28
+T8_MAIN_HAMMER@3;Elder's Hammer .3;Armas;;;24;;Blacksmith's;4,56
+T8_MAIN_HAMMER@4;Elder's Hammer .4;Armas;;;24;;Blacksmith's;9,12
+T4_2H_POLEHAMMER;Adept's Polehammer;Armas;;12;20;;Blacksmith's;0,2
+T4_2H_POLEHAMMER@1;Adept's Polehammer .1;Armas;;12;20;;Blacksmith's;0,4
+T4_2H_POLEHAMMER@2;Adept's Polehammer .2;Armas;;12;20;;Blacksmith's;0,8
+T4_2H_POLEHAMMER@3;Adept's Polehammer .3;Armas;;12;20;;Blacksmith's;1,6
+T4_2H_POLEHAMMER@4;Adept's Polehammer .4;Armas;;12;20;;Blacksmith's;3,2
+T5_2H_POLEHAMMER;Expert's Polehammer;Armas;;12;20;;Blacksmith's;0,4
+T5_2H_POLEHAMMER@1;Expert's Polehammer .1;Armas;;12;20;;Blacksmith's;0,8
+T5_2H_POLEHAMMER@2;Expert's Polehammer .2;Armas;;12;20;;Blacksmith's;1,6
+T5_2H_POLEHAMMER@3;Expert's Polehammer .3;Armas;;12;20;;Blacksmith's;3,2
+T5_2H_POLEHAMMER@4;Expert's Polehammer .4;Armas;;12;20;;Blacksmith's;6,4
+T6_2H_POLEHAMMER;Master's Polehammer;Armas;;12;20;;Blacksmith's;0,6
+T6_2H_POLEHAMMER@1;Master's Polehammer .1;Armas;;12;20;;Blacksmith's;1,2
+T6_2H_POLEHAMMER@2;Master's Polehammer .2;Armas;;12;20;;Blacksmith's;2,4
+T6_2H_POLEHAMMER@3;Master's Polehammer .3;Armas;;12;20;;Blacksmith's;4,8
+T6_2H_POLEHAMMER@4;Master's Polehammer .4;Armas;;12;20;;Blacksmith's;9,6
+T7_2H_POLEHAMMER;Grandmaster's Polehammer;Armas;;12;20;;Blacksmith's;0,72
+T7_2H_POLEHAMMER@1;Grandmaster's Polehammer .1;Armas;;12;20;;Blacksmith's;1,44
+T7_2H_POLEHAMMER@2;Grandmaster's Polehammer .2;Armas;;12;20;;Blacksmith's;2,9
+T7_2H_POLEHAMMER@3;Grandmaster's Polehammer .3;Armas;;12;20;;Blacksmith's;5,8
+T7_2H_POLEHAMMER@4;Grandmaster's Polehammer .4;Armas;;12;20;;Blacksmith's;11,64
+T8_2H_POLEHAMMER;Elder's Polehammer;Armas;;12;20;;Blacksmith's;0,76
+T8_2H_POLEHAMMER@1;Elder's Polehammer .1;Armas;;12;20;;Blacksmith's;1,52
+T8_2H_POLEHAMMER@2;Elder's Polehammer .2;Armas;;12;20;;Blacksmith's;3,04
+T8_2H_POLEHAMMER@3;Elder's Polehammer .3;Armas;;12;20;;Blacksmith's;6,08
+T8_2H_POLEHAMMER@4;Elder's Polehammer .4;Armas;;12;20;;Blacksmith's;12,16
+T4_2H_HAMMER;Adept's Great Hammer;Armas;;12;20;;Blacksmith's;0,2
+T4_2H_HAMMER@1;Adept's Great Hammer .1;Armas;;12;20;;Blacksmith's;0,4
+T4_2H_HAMMER@2;Adept's Great Hammer .2;Armas;;12;20;;Blacksmith's;0,8
+T4_2H_HAMMER@3;Adept's Great Hammer .3;Armas;;12;20;;Blacksmith's;1,6
+T4_2H_HAMMER@4;Adept's Great Hammer .4;Armas;;12;20;;Blacksmith's;3,2
+T5_2H_HAMMER;Expert's Great Hammer;Armas;;12;20;;Blacksmith's;0,4
+T5_2H_HAMMER@1;Expert's Great Hammer .1;Armas;;12;20;;Blacksmith's;0,8
+T5_2H_HAMMER@2;Expert's Great Hammer .2;Armas;;12;20;;Blacksmith's;1,6
+T5_2H_HAMMER@3;Expert's Great Hammer .3;Armas;;12;20;;Blacksmith's;3,2
+T5_2H_HAMMER@4;Expert's Great Hammer .4;Armas;;12;20;;Blacksmith's;6,4
+T6_2H_HAMMER;Master's Great Hammer;Armas;;12;20;;Blacksmith's;0,6
+T6_2H_HAMMER@1;Master's Great Hammer .1;Armas;;12;20;;Blacksmith's;1,2
+T6_2H_HAMMER@2;Master's Great Hammer .2;Armas;;12;20;;Blacksmith's;2,4
+T6_2H_HAMMER@3;Master's Great Hammer .3;Armas;;12;20;;Blacksmith's;4,8
+T6_2H_HAMMER@4;Master's Great Hammer .4;Armas;;12;20;;Blacksmith's;9,6
+T7_2H_HAMMER;Grandmaster's Great Hammer;Armas;;12;20;;Blacksmith's;0,72
+T7_2H_HAMMER@1;Grandmaster's Great Hammer .1;Armas;;12;20;;Blacksmith's;1,44
+T7_2H_HAMMER@2;Grandmaster's Great Hammer .2;Armas;;12;20;;Blacksmith's;2,9
+T7_2H_HAMMER@3;Grandmaster's Great Hammer .3;Armas;;12;20;;Blacksmith's;5,8
+T7_2H_HAMMER@4;Grandmaster's Great Hammer .4;Armas;;12;20;;Blacksmith's;11,64
+T8_2H_HAMMER;Elder's Great Hammer;Armas;;12;20;;Blacksmith's;0,76
+T8_2H_HAMMER@1;Elder's Great Hammer .1;Armas;;12;20;;Blacksmith's;1,52
+T8_2H_HAMMER@2;Elder's Great Hammer .2;Armas;;12;20;;Blacksmith's;3,04
+T8_2H_HAMMER@3;Elder's Great Hammer .3;Armas;;12;20;;Blacksmith's;6,08
+T8_2H_HAMMER@4;Elder's Great Hammer .4;Armas;;12;20;;Blacksmith's;12,16
+T4_MAIN_MACE;Adept's Mace;Armas;;8;16;;Blacksmith's;0,15
+T4_MAIN_MACE@1;Adept's Mace .1;Armas;;8;16;;Blacksmith's;0,3
+T4_MAIN_MACE@2;Adept's Mace .2;Armas;;8;16;;Blacksmith's;0,6
+T4_MAIN_MACE@3;Adept's Mace .3;Armas;;8;16;;Blacksmith's;1,2
+T4_MAIN_MACE@4;Adept's Mace .4;Armas;;8;16;;Blacksmith's;2,4
+T5_MAIN_MACE;Expert's Mace;Armas;;8;16;;Blacksmith's;0,3
+T5_MAIN_MACE@1;Expert's Mace .1;Armas;;8;16;;Blacksmith's;0,6
+T5_MAIN_MACE@2;Expert's Mace .2;Armas;;8;16;;Blacksmith's;1,2
+T5_MAIN_MACE@3;Expert's Mace .3;Armas;;8;16;;Blacksmith's;2,4
+T5_MAIN_MACE@4;Expert's Mace .4;Armas;;8;16;;Blacksmith's;4,8
+T6_MAIN_MACE;Master's Mace;Armas;;8;16;;Blacksmith's;0,45
+T6_MAIN_MACE@1;Master's Mace .1;Armas;;8;16;;Blacksmith's;0,9
+T6_MAIN_MACE@2;Master's Mace .2;Armas;;8;16;;Blacksmith's;1,8
+T6_MAIN_MACE@3;Master's Mace .3;Armas;;8;16;;Blacksmith's;3,6
+T6_MAIN_MACE@4;Master's Mace .4;Armas;;8;16;;Blacksmith's;7,2
+T7_MAIN_MACE;Grandmaster's Mace;Armas;;8;16;;Blacksmith's;0,54
+T7_MAIN_MACE@1;Grandmaster's Mace .1;Armas;;8;16;;Blacksmith's;1,08
+T7_MAIN_MACE@2;Grandmaster's Mace .2;Armas;;8;16;;Blacksmith's;2,175
+T7_MAIN_MACE@3;Grandmaster's Mace .3;Armas;;8;16;;Blacksmith's;4,35
+T7_MAIN_MACE@4;Grandmaster's Mace .4;Armas;;8;16;;Blacksmith's;8,73
+T8_MAIN_MACE;Elder's Mace;Armas;;8;16;;Blacksmith's;0,57
+T8_MAIN_MACE@1;Elder's Mace .1;Armas;;8;16;;Blacksmith's;1,14
+T8_MAIN_MACE@2;Elder's Mace .2;Armas;;8;16;;Blacksmith's;2,28
+T8_MAIN_MACE@3;Elder's Mace .3;Armas;;8;16;;Blacksmith's;4,56
+T8_MAIN_MACE@4;Elder's Mace .4;Armas;;8;16;;Blacksmith's;9,12
+T4_2H_MACE;Adept's Heavy Mace;Armas;;12;20;;Blacksmith's;0,2
+T4_2H_MACE@1;Adept's Heavy Mace .1;Armas;;12;20;;Blacksmith's;0,4
+T4_2H_MACE@2;Adept's Heavy Mace .2;Armas;;12;20;;Blacksmith's;0,8
+T4_2H_MACE@3;Adept's Heavy Mace .3;Armas;;12;20;;Blacksmith's;1,6
+T4_2H_MACE@4;Adept's Heavy Mace .4;Armas;;12;20;;Blacksmith's;3,2
+T5_2H_MACE;Expert's Heavy Mace;Armas;;12;20;;Blacksmith's;0,4
+T5_2H_MACE@1;Expert's Heavy Mace .1;Armas;;12;20;;Blacksmith's;0,8
+T5_2H_MACE@2;Expert's Heavy Mace .2;Armas;;12;20;;Blacksmith's;1,6
+T5_2H_MACE@3;Expert's Heavy Mace .3;Armas;;12;20;;Blacksmith's;3,2
+T5_2H_MACE@4;Expert's Heavy Mace .4;Armas;;12;20;;Blacksmith's;6,4
+T6_2H_MACE;Master's Heavy Mace;Armas;;12;20;;Blacksmith's;0,6
+T6_2H_MACE@1;Master's Heavy Mace .1;Armas;;12;20;;Blacksmith's;1,2
+T6_2H_MACE@2;Master's Heavy Mace .2;Armas;;12;20;;Blacksmith's;2,4
+T6_2H_MACE@3;Master's Heavy Mace .3;Armas;;12;20;;Blacksmith's;4,8
+T6_2H_MACE@4;Master's Heavy Mace .4;Armas;;12;20;;Blacksmith's;9,6
+T7_2H_MACE;Grandmaster's Heavy Mace;Armas;;12;20;;Blacksmith's;0,72
+T7_2H_MACE@1;Grandmaster's Heavy Mace .1;Armas;;12;20;;Blacksmith's;1,44
+T7_2H_MACE@2;Grandmaster's Heavy Mace .2;Armas;;12;20;;Blacksmith's;2,9
+T7_2H_MACE@3;Grandmaster's Heavy Mace .3;Armas;;12;20;;Blacksmith's;5,8
+T7_2H_MACE@4;Grandmaster's Heavy Mace .4;Armas;;12;20;;Blacksmith's;11,64
+T8_2H_MACE;Elder's Heavy Mace;Armas;;12;20;;Blacksmith's;0,76
+T8_2H_MACE@1;Elder's Heavy Mace .1;Armas;;12;20;;Blacksmith's;1,52
+T8_2H_MACE@2;Elder's Heavy Mace .2;Armas;;12;20;;Blacksmith's;3,04
+T8_2H_MACE@3;Elder's Heavy Mace .3;Armas;;12;20;;Blacksmith's;6,08
+T8_2H_MACE@4;Elder's Heavy Mace .4;Armas;;12;20;;Blacksmith's;12,16
+T4_2H_FLAIL;Adept's Morning Star;Armas;;12;20;;Blacksmith's;0,2
+T4_2H_FLAIL@1;Adept's Morning Star .1;Armas;;12;20;;Blacksmith's;0,4
+T4_2H_FLAIL@2;Adept's Morning Star .2;Armas;;12;20;;Blacksmith's;0,8
+T4_2H_FLAIL@3;Adept's Morning Star .3;Armas;;12;20;;Blacksmith's;1,6
+T4_2H_FLAIL@4;Adept's Morning Star .4;Armas;;12;20;;Blacksmith's;3,2
+T5_2H_FLAIL;Expert's Morning Star;Armas;;12;20;;Blacksmith's;0,4
+T5_2H_FLAIL@1;Expert's Morning Star .1;Armas;;12;20;;Blacksmith's;0,8
+T5_2H_FLAIL@2;Expert's Morning Star .2;Armas;;12;20;;Blacksmith's;1,6
+T5_2H_FLAIL@3;Expert's Morning Star .3;Armas;;12;20;;Blacksmith's;3,2
+T5_2H_FLAIL@4;Expert's Morning Star .4;Armas;;12;20;;Blacksmith's;6,4
+T6_2H_FLAIL;Master's Morning Star;Armas;;12;20;;Blacksmith's;0,6
+T6_2H_FLAIL@1;Master's Morning Star .1;Armas;;12;20;;Blacksmith's;1,2
+T6_2H_FLAIL@2;Master's Morning Star .2;Armas;;12;20;;Blacksmith's;2,4
+T6_2H_FLAIL@3;Master's Morning Star .3;Armas;;12;20;;Blacksmith's;4,8
+T6_2H_FLAIL@4;Master's Morning Star .4;Armas;;12;20;;Blacksmith's;9,6
+T7_2H_FLAIL;Grandmaster's Morning Star;Armas;;12;20;;Blacksmith's;0,72
+T7_2H_FLAIL@1;Grandmaster's Morning Star .1;Armas;;12;20;;Blacksmith's;1,44
+T7_2H_FLAIL@2;Grandmaster's Morning Star .2;Armas;;12;20;;Blacksmith's;2,9
+T7_2H_FLAIL@3;Grandmaster's Morning Star .3;Armas;;12;20;;Blacksmith's;5,8
+T7_2H_FLAIL@4;Grandmaster's Morning Star .4;Armas;;12;20;;Blacksmith's;11,64
+T8_2H_FLAIL;Elder's Morning Star;Armas;;12;20;;Blacksmith's;0,76
+T8_2H_FLAIL@1;Elder's Morning Star .1;Armas;;12;20;;Blacksmith's;1,52
+T8_2H_FLAIL@2;Elder's Morning Star .2;Armas;;12;20;;Blacksmith's;3,04
+T8_2H_FLAIL@3;Elder's Morning Star .3;Armas;;12;20;;Blacksmith's;6,08
+T8_2H_FLAIL@4;Elder's Morning Star .4;Armas;;12;20;;Blacksmith's;12,16
+T4_2H_KNUCKLES_SET1;Adept's Brawler Gloves;Armas;20;;12;;Blacksmith's;0,2
+T4_2H_KNUCKLES_SET1@1;Adept's Brawler Gloves .1;Armas;20;;12;;Blacksmith's;0,4
+T4_2H_KNUCKLES_SET1@2;Adept's Brawler Gloves .2;Armas;20;;12;;Blacksmith's;0,8
+T4_2H_KNUCKLES_SET1@3;Adept's Brawler Gloves .3;Armas;20;;12;;Blacksmith's;1,6
+T4_2H_KNUCKLES_SET1@4;Adept's Brawler Gloves .4;Armas;20;;12;;Blacksmith's;3,2
+T5_2H_KNUCKLES_SET1;Expert's Brawler Gloves;Armas;20;;12;;Blacksmith's;0,4
+T5_2H_KNUCKLES_SET1@1;Expert's Brawler Gloves .1;Armas;20;;12;;Blacksmith's;0,8
+T5_2H_KNUCKLES_SET1@2;Expert's Brawler Gloves .2;Armas;20;;12;;Blacksmith's;1,6
+T5_2H_KNUCKLES_SET1@3;Expert's Brawler Gloves .3;Armas;20;;12;;Blacksmith's;3,2
+T5_2H_KNUCKLES_SET1@4;Expert's Brawler Gloves .4;Armas;20;;12;;Blacksmith's;6,4
+T6_2H_KNUCKLES_SET1;Master's Brawler Gloves;Armas;20;;12;;Blacksmith's;0,6
+T6_2H_KNUCKLES_SET1@1;Master's Brawler Gloves .1;Armas;20;;12;;Blacksmith's;1,2
+T6_2H_KNUCKLES_SET1@2;Master's Brawler Gloves .2;Armas;20;;12;;Blacksmith's;2,4
+T6_2H_KNUCKLES_SET1@3;Master's Brawler Gloves .3;Armas;20;;12;;Blacksmith's;4,8
+T6_2H_KNUCKLES_SET1@4;Master's Brawler Gloves .4;Armas;20;;12;;Blacksmith's;9,6
+T7_2H_KNUCKLES_SET1;Grandmaster's Brawler Gloves;Armas;20;;12;;Blacksmith's;0,72
+T7_2H_KNUCKLES_SET1@1;Grandmaster's Brawler Gloves .1;Armas;20;;12;;Blacksmith's;1,44
+T7_2H_KNUCKLES_SET1@2;Grandmaster's Brawler Gloves .2;Armas;20;;12;;Blacksmith's;2,9
+T7_2H_KNUCKLES_SET1@3;Grandmaster's Brawler Gloves .3;Armas;20;;12;;Blacksmith's;5,8
+T7_2H_KNUCKLES_SET1@4;Grandmaster's Brawler Gloves .4;Armas;20;;12;;Blacksmith's;11,64
+T8_2H_KNUCKLES_SET1;Elder's Brawler Gloves;Armas;20;;12;;Blacksmith's;0,76
+T8_2H_KNUCKLES_SET1@1;Elder's Brawler Gloves .1;Armas;20;;12;;Blacksmith's;1,52
+T8_2H_KNUCKLES_SET1@2;Elder's Brawler Gloves .2;Armas;20;;12;;Blacksmith's;3,04
+T8_2H_KNUCKLES_SET1@3;Elder's Brawler Gloves .3;Armas;20;;12;;Blacksmith's;6,08
+T8_2H_KNUCKLES_SET1@4;Elder's Brawler Gloves .4;Armas;20;;12;;Blacksmith's;12,16
+T4_2H_KNUCKLES_SET3;Adept's Spiked Gauntlets;Armas;20;;12;;Blacksmith's;0,2
+T4_2H_KNUCKLES_SET3@1;Adept's Spiked Gauntlets .1;Armas;20;;12;;Blacksmith's;0,4
+T4_2H_KNUCKLES_SET3@2;Adept's Spiked Gauntlets .2;Armas;20;;12;;Blacksmith's;0,8
+T4_2H_KNUCKLES_SET3@3;Adept's Spiked Gauntlets .3;Armas;20;;12;;Blacksmith's;1,6
+T4_2H_KNUCKLES_SET3@4;Adept's Spiked Gauntlets .4;Armas;20;;12;;Blacksmith's;3,2
+T5_2H_KNUCKLES_SET3;Expert's Spiked Gauntlets;Armas;20;;12;;Blacksmith's;0,4
+T5_2H_KNUCKLES_SET3@1;Expert's Spiked Gauntlets .1;Armas;20;;12;;Blacksmith's;0,8
+T5_2H_KNUCKLES_SET3@2;Expert's Spiked Gauntlets .2;Armas;20;;12;;Blacksmith's;1,6
+T5_2H_KNUCKLES_SET3@3;Expert's Spiked Gauntlets .3;Armas;20;;12;;Blacksmith's;3,2
+T5_2H_KNUCKLES_SET3@4;Expert's Spiked Gauntlets .4;Armas;20;;12;;Blacksmith's;6,4
+T6_2H_KNUCKLES_SET3;Master's Spiked Gauntlets;Armas;20;;12;;Blacksmith's;0,6
+T6_2H_KNUCKLES_SET3@1;Master's Spiked Gauntlets .1;Armas;20;;12;;Blacksmith's;1,2
+T6_2H_KNUCKLES_SET3@2;Master's Spiked Gauntlets .2;Armas;20;;12;;Blacksmith's;2,4
+T6_2H_KNUCKLES_SET3@3;Master's Spiked Gauntlets .3;Armas;20;;12;;Blacksmith's;4,8
+T6_2H_KNUCKLES_SET3@4;Master's Spiked Gauntlets .4;Armas;20;;12;;Blacksmith's;9,6
+T7_2H_KNUCKLES_SET3;Grandmaster's Spiked Gauntlets;Armas;20;;12;;Blacksmith's;0,72
+T7_2H_KNUCKLES_SET3@1;Grandmaster's Spiked Gauntlets .1;Armas;20;;12;;Blacksmith's;1,44
+T7_2H_KNUCKLES_SET3@2;Grandmaster's Spiked Gauntlets .2;Armas;20;;12;;Blacksmith's;2,9
+T7_2H_KNUCKLES_SET3@3;Grandmaster's Spiked Gauntlets .3;Armas;20;;12;;Blacksmith's;5,8
+T7_2H_KNUCKLES_SET3@4;Grandmaster's Spiked Gauntlets .4;Armas;20;;12;;Blacksmith's;11,64
+T8_2H_KNUCKLES_SET3;Elder's Spiked Gauntlets;Armas;20;;12;;Blacksmith's;0,76
+T8_2H_KNUCKLES_SET3@1;Elder's Spiked Gauntlets .1;Armas;20;;12;;Blacksmith's;1,52
+T8_2H_KNUCKLES_SET3@2;Elder's Spiked Gauntlets .2;Armas;20;;12;;Blacksmith's;3,04
+T8_2H_KNUCKLES_SET3@3;Elder's Spiked Gauntlets .3;Armas;20;;12;;Blacksmith's;6,08
+T8_2H_KNUCKLES_SET3@4;Elder's Spiked Gauntlets .4;Armas;20;;12;;Blacksmith's;12,16
+T4_JOURNAL_MAGE_EMPTY;Adept's Imbuer's Journal (Empty);Craft;;;;;;
+T4_JOURNAL_MAGE_FULL;Adept's Imbuer's Journal (Full);Craft;;;;;;
+T5_JOURNAL_MAGE_EMPTY;Expert's Imbuer's Journal (Empty);Craft;;;;;;
+T5_JOURNAL_MAGE_FULL;Expert's Imbuer's Journal (Full);Craft;;;;;;
+T6_JOURNAL_MAGE_EMPTY;Master's Imbuer's Journal (Empty);Craft;;;;;;
+T6_JOURNAL_MAGE_FULL;Master's Imbuer's Journal (Full);Craft;;;;;;
+T7_JOURNAL_MAGE_EMPTY;Grandmaster's Imbuer's Journal (Empty);Craft;;;;;;
+T7_JOURNAL_MAGE_FULL;Grandmaster's Imbuer's Journal (Full);Craft;;;;;;
+T8_JOURNAL_MAGE_EMPTY;Elder's Imbuer's Journal (Empty);Craft;;;;;;
+T8_JOURNAL_MAGE_FULL;Elder's Imbuer's Journal (Full);Craft;;;;;;
+T4_JOURNAL_WARRIOR_EMPTY;Adept's Blacksmith's Journal (Empty);Craft;;;;;;
+T4_JOURNAL_WARRIOR_FULL;Adept's Blacksmith's Journal (Full);Craft;;;;;;
+T5_JOURNAL_WARRIOR_EMPTY;Expert's Blacksmith's Journal (Empty);Craft;;;;;;
+T5_JOURNAL_WARRIOR_FULL;Expert's Blacksmith's Journal (Full);Craft;;;;;;
+T6_JOURNAL_WARRIOR_EMPTY;Master's Blacksmith's Journal (Empty);Craft;;;;;;
+T6_JOURNAL_WARRIOR_FULL;Master's Blacksmith's Journal (Full);Craft;;;;;;
+T7_JOURNAL_WARRIOR_EMPTY;Grandmaster's Blacksmith's Journal (Empty);Craft;;;;;;
+T7_JOURNAL_WARRIOR_FULL;Grandmaster's Blacksmith's Journal (Full);Craft;;;;;;
+T8_JOURNAL_WARRIOR_EMPTY;Elder's Blacksmith's Journal (Empty);Craft;;;;;;
+T8_JOURNAL_WARRIOR_FULL;Elder's Blacksmith's Journal (Full);Craft;;;;;;
+T4_JOURNAL_HUNTER_EMPTY;Adept's Fletcher's Journal (Empty);Craft;;;;;;
+T4_JOURNAL_HUNTER_FULL;Adept's Fletcher's Journal (Full);Craft;;;;;;
+T5_JOURNAL_HUNTER_EMPTY;Expert's Fletcher's Journal (Empty);Craft;;;;;;
+T5_JOURNAL_HUNTER_FULL;Expert's Fletcher's Journal (Full);Craft;;;;;;
+T6_JOURNAL_HUNTER_EMPTY;Master's Fletcher's Journal (Empty);Craft;;;;;;
+T6_JOURNAL_HUNTER_FULL;Master's Fletcher's Journal (Full);Craft;;;;;;
+T7_JOURNAL_HUNTER_EMPTY;Grandmaster's Fletcher's Journal (Empty);Craft;;;;;;
+T7_JOURNAL_HUNTER_FULL;Grandmaster's Fletcher's Journal (Full);Craft;;;;;;
+T8_JOURNAL_HUNTER_EMPTY;Elder's Fletcher's Journal (Empty);Craft;;;;;;
+T8_JOURNAL_HUNTER_FULL;Elder's Fletcher's Journal (Full);Craft;;;;;;
+T4_JOURNAL_TOOLMAKER_EMPTY;Adept Tinker's Journal (Empty);Craft;;;;;;
+T4_JOURNAL_TOOLMAKER_FULL;Adept Tinker's Journal (Full);Craft;;;;;;
+T5_JOURNAL_TOOLMAKER_EMPTY;Expert Tinker's Journal (Empty);Craft;;;;;;
+T5_JOURNAL_TOOLMAKER_FULL;Expert Tinker's Journal (Full);Craft;;;;;;
+T6_JOURNAL_TOOLMAKER_EMPTY;Master Tinker's Journal (Empty);Craft;;;;;;
+T6_JOURNAL_TOOLMAKER_FULL;Master Tinker's Journal (Full);Craft;;;;;;
+T7_JOURNAL_TOOLMAKER_EMPTY;Grandmaster Tinker's Journal (Empty);Craft;;;;;;
+T7_JOURNAL_TOOLMAKER_FULL;Grandmaster Tinker's Journal (Full);Craft;;;;;;
+T8_JOURNAL_TOOLMAKER_EMPTY;Elder Tinker's Journal (Empty);Craft;;;;;;
+T8_JOURNAL_TOOLMAKER_FULL;Elder Tinker's Journal (Full);Craft;;;;;;
+T4_PLANKS;Pine Planks;Craft;;;;;;
+T4_PLANKS_LEVEL1@1;Uncommon Pine Planks;Craft;;;;;;
+T4_PLANKS_LEVEL2@2;Rare Pine Planks;Craft;;;;;;
+T4_PLANKS_LEVEL3@3;Excepcional Pine Planks;Craft;;;;;;
+T4_PLANKS_LEVEL4@4;Pristine Pine Planks;Craft;;;;;;
+T5_PLANKS;Cedar Planks;Craft;;;;;;
+T5_PLANKS_LEVEL1@1;Uncommon Cedar Planks;Craft;;;;;;
+T5_PLANKS_LEVEL2@2;Rare Cedar Planks;Craft;;;;;;
+T5_PLANKS_LEVEL3@3;Excepcional Cedar Planks;Craft;;;;;;
+T5_PLANKS_LEVEL4@4;Pristine Cedar Planks;Craft;;;;;;
+T6_PLANKS;Bloodoak Planks;Craft;;;;;;
+T6_PLANKS_LEVEL1@1;Uncommon Bloodoak Planks;Craft;;;;;;
+T6_PLANKS_LEVEL2@2;Rare Bloodoak Planks;Craft;;;;;;
+T6_PLANKS_LEVEL3@3;Excepcional Bloodoak Planks;Craft;;;;;;
+T6_PLANKS_LEVEL4@4;Pristine Bloodoak Planks;Craft;;;;;;
+T7_PLANKS;Ashenbark Planks;Craft;;;;;;
+T7_PLANKS_LEVEL1@1;Uncommon Ashenbark Planks;Craft;;;;;;
+T7_PLANKS_LEVEL2@2;Rare Ashenbark Planks;Craft;;;;;;
+T7_PLANKS_LEVEL3@3;Excepcional Ashenbark Planks;Craft;;;;;;
+T7_PLANKS_LEVEL4@4;Pristine Ashenbark Planks;Craft;;;;;;
+T8_PLANKS;Whitewood Planks;Craft;;;;;;
+T8_PLANKS_LEVEL1@1;Uncommon Whitewood Planks;Craft;;;;;;
+T8_PLANKS_LEVEL2@2;Rare Whitewood Planks;Craft;;;;;;
+T8_PLANKS_LEVEL3@3;Excepcional Whitewood Planks;Craft;;;;;;
+T8_PLANKS_LEVEL4@4;Pristine Whitewood Planks;Craft;;;;;;
+T4_METALBAR;Steel Bar;Craft;;;;;;
+T4_METALBAR_LEVEL1@1;Uncommon Steel Bar;Craft;;;;;;
+T4_METALBAR_LEVEL2@2;Rare Steel Bar;Craft;;;;;;
+T4_METALBAR_LEVEL3@3;Excepcional Steel Bar;Craft;;;;;;
+T4_METALBAR_LEVEL4@4;Pristine Steel Bar;Craft;;;;;;
+T5_METALBAR;Titanium Steel Bar;Craft;;;;;;
+T5_METALBAR_LEVEL1@1;Uncommon Titanium Steel Bar;Craft;;;;;;
+T5_METALBAR_LEVEL2@2;Rare Titanium Steel Bar;Craft;;;;;;
+T5_METALBAR_LEVEL3@3;Excepcional Titanium Steel Bar;Craft;;;;;;
+T5_METALBAR_LEVEL4@4;Pristine Titanium Steel Bar;Craft;;;;;;
+T6_METALBAR;Runite Steel Bar;Craft;;;;;;
+T6_METALBAR_LEVEL1@1;Uncommon Runite Steel Bar;Craft;;;;;;
+T6_METALBAR_LEVEL2@2;Rare Runite Steel Bar;Craft;;;;;;
+T6_METALBAR_LEVEL3@3;Excepcional Runite Steel Bar;Craft;;;;;;
+T6_METALBAR_LEVEL4@4;Pristine Runite Steel Bar;Craft;;;;;;
+T7_METALBAR;Meteorite Steel Bar;Craft;;;;;;
+T7_METALBAR_LEVEL1@1;Uncommon Meteorite Steel Bar;Craft;;;;;;
+T7_METALBAR_LEVEL2@2;Rare Meteorite Steel Bar;Craft;;;;;;
+T7_METALBAR_LEVEL3@3;Excepcional Meteorite Steel Bar;Craft;;;;;;
+T7_METALBAR_LEVEL4@4;Pristine Meteorite Steel Bar;Craft;;;;;;
+T8_METALBAR;Adamantium Steel Bar;Craft;;;;;;
+T8_METALBAR_LEVEL1@1;Uncommon Adamantium Steel Bar;Craft;;;;;;
+T8_METALBAR_LEVEL2@2;Rare Adamantium Steel Bar;Craft;;;;;;
+T8_METALBAR_LEVEL3@3;Excepcional Adamantium Steel Bar;Craft;;;;;;
+T8_METALBAR_LEVEL4@4;Pristine Adamantium Steel Bar;Craft;;;;;;
+T4_CLOTH;Fine Cloth;Craft;;;;;;
+T4_CLOTH_LEVEL1@1;Uncommon Fine Cloth;Craft;;;;;;
+T4_CLOTH_LEVEL2@2;Rare Fine Cloth;Craft;;;;;;
+T4_CLOTH_LEVEL3@3;Excepcional Fine Cloth;Craft;;;;;;
+T4_CLOTH_LEVEL4@4;Pristine Fine Cloth;Craft;;;;;;
+T5_CLOTH;Ornate Cloth;Craft;;;;;;
+T5_CLOTH_LEVEL1@1;Uncommon Ornate Cloth;Craft;;;;;;
+T5_CLOTH_LEVEL2@2;Rare Ornate Cloth;Craft;;;;;;
+T5_CLOTH_LEVEL3@3;Excepcional Ornate Cloth;Craft;;;;;;
+T5_CLOTH_LEVEL4@4;Pristine Ornate Cloth;Craft;;;;;;
+T6_CLOTH;Lavish Cloth;Craft;;;;;;
+T6_CLOTH_LEVEL1@1;Uncommon Lavish Cloth;Craft;;;;;;
+T6_CLOTH_LEVEL2@2;Rare Lavish Cloth;Craft;;;;;;
+T6_CLOTH_LEVEL3@3;Excepcional Lavish Cloth;Craft;;;;;;
+T6_CLOTH_LEVEL4@4;Pristine Lavish Cloth;Craft;;;;;;
+T7_CLOTH;Opulent Cloth;Craft;;;;;;
+T7_CLOTH_LEVEL1@1;Uncommon Opulent Cloth;Craft;;;;;;
+T7_CLOTH_LEVEL2@2;Rare Opulent Cloth;Craft;;;;;;
+T7_CLOTH_LEVEL3@3;Excepcional Opulent Cloth;Craft;;;;;;
+T7_CLOTH_LEVEL4@4;Pristine Opulent Cloth;Craft;;;;;;
+T8_CLOTH;Baroque Cloth;Craft;;;;;;
+T8_CLOTH_LEVEL1@1;Uncommon Baroque Cloth;Craft;;;;;;
+T8_CLOTH_LEVEL2@2;Rare Baroque Cloth;Craft;;;;;;
+T8_CLOTH_LEVEL3@3;Excepcional Baroque Cloth;Craft;;;;;;
+T8_CLOTH_LEVEL4@4;Pristine Baroque Cloth;Craft;;;;;;
+T4_LEATHER;Worked Leather;Craft;;;;;;
+T4_LEATHER_LEVEL1@1;Uncommon Worked Leather;Craft;;;;;;
+T4_LEATHER_LEVEL2@2;Rare Worked Leather;Craft;;;;;;
+T4_LEATHER_LEVEL3@3;Excepcional Worked Leather;Craft;;;;;;
+T4_LEATHER_LEVEL4@4;Pristine Worked Leather;Craft;;;;;;
+T5_LEATHER;Cured Leather;Craft;;;;;;
+T5_LEATHER_LEVEL1@1;Uncommon Cured Leather;Craft;;;;;;
+T5_LEATHER_LEVEL2@2;Rare Cured Leather;Craft;;;;;;
+T5_LEATHER_LEVEL3@3;Excepcional Cured Leather;Craft;;;;;;
+T5_LEATHER_LEVEL4@4;Pristine Cured Leather;Craft;;;;;;
+T6_LEATHER;Hardened Leather;Craft;;;;;;
+T6_LEATHER_LEVEL1@1;Uncommon Hardened Leather;Craft;;;;;;
+T6_LEATHER_LEVEL2@2;Rare Hardened Leather;Craft;;;;;;
+T6_LEATHER_LEVEL3@3;Excepcional Hardened Leather;Craft;;;;;;
+T6_LEATHER_LEVEL4@4;Pristine Hardened Leather;Craft;;;;;;
+T7_LEATHER;Reinforced Leather;Craft;;;;;;
+T7_LEATHER_LEVEL1@1;Uncommon Reinforced Leather;Craft;;;;;;
+T7_LEATHER_LEVEL2@2;Rare Reinforced Leather;Craft;;;;;;
+T7_LEATHER_LEVEL3@3;Excepcional Reinforced Leather;Craft;;;;;;
+T7_LEATHER_LEVEL4@4;Pristine Reinforced Leather;Craft;;;;;;
+T8_LEATHER;Fortified Leather;Craft;;;;;;
+T8_LEATHER_LEVEL1@1;Uncommon Fortified Leather;Craft;;;;;;
+T8_LEATHER_LEVEL2@2;Rare Fortified Leather;Craft;;;;;;
+T8_LEATHER_LEVEL3@3;Excepcional Fortified Leather;Craft;;;;;;
+T8_LEATHER_LEVEL4@4;Pristine Fortified Leather;Craft;;;;;;
