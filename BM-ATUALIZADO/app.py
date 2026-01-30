@@ -3,6 +3,7 @@ import pandas as pd
 import requests
 import time
 import re
+import unicodedata
 from datetime import datetime, timezone
 
 # --- CONFIGURAÇÃO DA PÁGINA ---
@@ -22,19 +23,40 @@ MAP_LIVROS = {
     "Imbuer": "MAGE"
 }
 
+def normalizar_texto(texto):
+    """Remove acentos e deixa em minúsculo para busca segura de colunas"""
+    if not isinstance(texto, str): return str(texto)
+    nksel = unicodedata.normalize('NFKD', texto)
+    return "".join([c for c in nksel if not unicodedata.combining(c)]).lower().strip()
+
 @st.cache_data
 def load_mapa():
     try:
-        df = pd.read_csv('MAPA-CRAFT.csv', sep=',', dtype=str)
+        # Tenta detectar o separador
+        try:
+            df = pd.read_csv('MAPA-CRAFT.csv', sep=';', dtype=str)
+            if len(df.columns) < 3: raise Exception()
+        except:
+            df = pd.read_csv('MAPA-CRAFT.csv', sep=',', dtype=str)
+        
+        # Normaliza nomes de colunas para evitar KeyError
+        # "Categoria (preencha...)" vira "categoria (preencha...)"
         df.columns = [c.strip() for c in df.columns]
+        mapeamento_colunas = {c: normalizar_texto(c) for c in df.columns}
+        df = df.rename(columns=mapeamento_colunas)
+        
         df['ordem_original'] = range(len(df))
-        cols_num = ['LEATHER', 'CLOTH', 'METALBAR', 'PLANKS', 'Porcentagem Diario']
+        
+        # Conversão numérica segura
+        cols_num = ['leather', 'cloth', 'metalbar', 'planks', 'porcentagem diario']
         for col in cols_num:
             if col in df.columns:
                 df[col] = df[col].str.replace(',', '.').fillna('0')
                 df[col] = pd.to_numeric(df[col], errors='coerce').fillna(0)
         return df
-    except: return pd.DataFrame()
+    except Exception as e:
+        st.error(f"Erro ao carrergar CSV: {e}")
+        return pd.DataFrame()
 
 def get_tier_enchant(item_id):
     t = re.search(r'T(\d)', str(item_id))
@@ -63,9 +85,19 @@ def fetch_api(ids, loc, qual, log_ph):
         time.sleep(0.1)
     return res
 
+# --- PROCESSAMENTO ---
 df_mapa = load_mapa()
+
+# Nomes normalizados para lógica interna
+COL_CAT = normalizar_texto('Categoria (preencha: Arma/Armadura/etc)')
+COL_LIVRO = normalizar_texto('Livro')
+
+if df_mapa.empty:
+    st.error("Erro: O arquivo CSV está vazio ou não foi encontrado.")
+    st.stop()
+
 with st.sidebar:
-    st.header("⚙️ CONFIG")
+    st.header("⚙️ CONFIGURAÇÕES")
     premium = st.checkbox("Possui Premium", value=True)
     rrr = st.number_input("Taxa de Retorno (RRR %)", value=15.2) / 100
     btn_sync = st.button("🚀 ATUALIZAR PREÇOS", use_container_width=True)
@@ -74,9 +106,9 @@ tab_bm, tab_craft, tab_logs = st.tabs(["🏛️ BLACK MARKET", "⚒️ CRAFT SYS
 
 if btn_sync or 'dados' in st.session_state:
     if btn_sync:
-        with st.spinner('Sincronizando...'):
+        with st.spinner('Sincronizando com Albion Data Project...'):
             log_ph = tab_logs.empty()
-            is_c = df_mapa['Categoria (preencha: Arma/Armadura/etc)'].str.lower().str.contains('craft', na=False)
+            is_c = df_mapa[COL_CAT].str.contains('craft', na=False)
             ids_c = df_mapa[is_c]['item_id'].unique().tolist()
             ids_e = df_mapa[~is_c]['item_id'].unique().tolist()
             res = fetch_api(ids_c, "Lymhurst", 1, log_ph) + fetch_api(ids_e, "BlackMarket", 2, log_ph)
@@ -92,47 +124,45 @@ if btn_sync or 'dados' in st.session_state:
         m_taxa = 0.935 if premium else 0.895
         dict_p = pd.Series(df.sell_price_min.values, index=df.item_id).to_dict()
 
-        # --- BLACK MARKET ---
         with tab_bm:
-            df_bm = df[~df['Categoria (preencha: Arma/Armadura/etc)'].str.lower().str.contains('craft', na=False)].copy()
+            df_bm = df[~df[COL_CAT].str.contains('craft', na=False)].copy()
             df_bm['Líquido'] = (df_bm['sell_price_min'] * m_taxa).astype(int)
             c1, c2, c3 = st.columns([1,1,2])
-            f_t = c1.multiselect("Tier BM", sorted(df_bm['Tier'].unique()), default=df_bm['Tier'].unique())
-            f_e = c2.multiselect("Encanto BM", sorted(df_bm['Enc'].unique()), default=df_bm['Enc'].unique())
-            f_s = c3.text_input("🔍 Buscar no BM")
+            f_t = c1.multiselect("Filtrar Tier BM", sorted(df_bm['Tier'].unique()), default=df_bm['Tier'].unique())
+            f_e = c2.multiselect("Filtrar Encanto BM", sorted(df_bm['Enc'].unique()), default=df_bm['Enc'].unique())
+            f_s = c3.text_input("🔍 Buscar Item no BM")
             mask = df_bm['Tier'].isin(f_t) & df_bm['Enc'].isin(f_e)
             if f_s: mask &= df_bm['item_name'].str.contains(f_s, case=False)
             st.dataframe(df_bm[mask].sort_values('ordem_original')[['Foto', 'item_name', 'sell_price_min', 'Líquido', 'buy_price_max', 'Update', 'cor']].style.apply(lambda x: [f'color: {x.cor}; font-weight: bold' if i==5 else '' for i in range(len(x))], axis=1).hide(['cor'], axis=1), column_config={"Foto": st.column_config.ImageColumn(""), "sell_price_min": "Preço BM", "buy_price_max": "Pedido BM"}, use_container_width=True, hide_index=True, height=600)
 
-        # --- CRAFT SYSTEM ---
         with tab_craft:
             st.subheader("📦 Materiais e Diários (Lymhurst)")
-            df_mat = df[df['Categoria (preencha: Arma/Armadura/etc)'].str.lower().str.contains('craft', na=False)].copy()
+            df_mat = df[df[COL_CAT].str.contains('craft', na=False)].copy()
             
-            # Filtro Capas sem diário preenchido
-            df_mat = df_mat[~((df_mat['item_id'].str.contains('CAPEITEM')) & (df_mat['Livro'].isna() | (df_mat['Livro'] == '')))]
+            # Filtro rigoroso de capas sem diário
+            df_mat = df_mat[~((df_mat['item_id'].str.contains('CAPEITEM')) & (df_mat[COL_LIVRO].isna() | (df_mat[COL_LIVRO] == '')))]
             
             mc1, mc2, mc3 = st.columns([1,1,2])
-            mf_t = mc1.multiselect("Filtrar Tier", sorted(df_mat['Tier'].unique()), default=df_mat['Tier'].unique())
-            mf_e = mc2.multiselect("Filtrar Encanto", sorted(df_mat['Enc'].unique()), default=df_mat['Enc'].unique())
-            mf_s = mc3.text_input("🔍 Buscar Recurso/Livro")
+            mf_t = mc1.multiselect("Tier Material", sorted(df_mat['Tier'].unique()), default=df_mat['Tier'].unique())
+            mf_e = mc2.multiselect("Encanto Material", sorted(df_mat['Enc'].unique()), default=df_mat['Enc'].unique())
+            mf_s = mc3.text_input("🔍 Buscar Material/Livro")
             
             m_mask = df_mat['Tier'].isin(mf_t) & df_mat['Enc'].isin(mf_e)
             if mf_s: m_mask &= df_mat['item_name'].str.contains(mf_s, case=False)
 
-            ed_mat = st.data_editor(df_mat[m_mask].sort_values('ordem_original')[['Foto', 'item_name', 'sell_price_min', 'Update', 'cor', 'item_id']], column_config={"sell_price_min": st.column_config.NumberColumn("Preço Lym", format="%d"), "Foto": st.column_config.ImageColumn(""), "item_id": None, "cor": None}, hide_index=True, use_container_width=True, key="ed_mat_final_v4")
+            ed_mat = st.data_editor(df_mat[m_mask].sort_values('ordem_original')[['Foto', 'item_name', 'sell_price_min', 'Update', 'cor', 'item_id']], column_config={"sell_price_min": st.column_config.NumberColumn("Preço Lym", format="%d"), "Foto": st.column_config.ImageColumn(""), "item_id": None, "cor": None}, hide_index=True, use_container_width=True, key="ed_mat_v4")
             for i, row in ed_mat.iterrows(): dict_p[row['item_id']] = row['sell_price_min']
 
             st.divider()
-            st.subheader("⚒️ Análise de Lucro por Item")
+            st.subheader("⚒️ Análise de Produção")
 
-            def calc_final_v3(row):
+            def calc_final(row):
                 t, e = row['Tier'], row['Enc']
                 suffix = f"_LEVEL{e}@{e}" if e > 0 else ""
                 pendencias = []
                 
                 custo_mats = 0
-                for m_nome, m_id in [('LEATHER','LEATHER'), ('CLOTH','CLOTH'), ('METALBAR','METALBAR'), ('PLANKS','PLANKS')]:
+                for m_nome, m_id in [('leather','LEATHER'), ('cloth','CLOTH'), ('metalbar','METALBAR'), ('planks','PLANKS')]:
                     qtd = row[m_nome]
                     if qtd > 0:
                         id_completo = f"T{t}_{m_id}{suffix}"
@@ -142,50 +172,40 @@ if btn_sync or 'dados' in st.session_state:
                 
                 custo_rrr = custo_mats * (1 - rrr)
                 lucro_livro = 0
-                if row['Livro'] in MAP_LIVROS:
-                    l_tipo = MAP_LIVROS[row['Livro']]
+                if row[COL_LIVRO] in MAP_LIVROS:
+                    l_tipo = MAP_LIVROS[row[COL_LIVRO]]
                     p_vazio = dict_p.get(f"T{t}_JOURNAL_{l_tipo}_EMPTY", 0)
                     p_cheio = dict_p.get(f"T{t}_JOURNAL_{l_tipo}_FULL", 0)
                     if p_vazio <= 0: pendencias.append("L.Vazio")
                     if p_cheio <= 0: pendencias.append("L.Cheio")
-                    lucro_livro = (p_cheio - p_vazio) * row['Porcentagem Diario']
+                    lucro_livro = (p_cheio - p_vazio) * row['porcentagem diario']
                 
-                if row['sell_price_min'] <= 0: pendencias.append("S/ Preço BM")
+                if row['sell_price_min'] <= 0: pendencias.append("Preço BM")
                 
                 custo_real = int(custo_rrr - lucro_livro)
                 venda_liq = int(row['sell_price_min'] * m_taxa)
                 return pd.Series([custo_real, venda_liq, venda_liq - custo_real, len(pendencias) > 0, ", ".join(pendencias)])
 
-            df_prod = df[~df['Categoria (preencha: Arma/Armadura/etc)'].str.lower().str.contains('craft', na=False)].copy()
-            df_prod[['Custo Real', 'Venda Líq', 'Lucro Final', 'Erro', 'Pendência']] = df_prod.apply(calc_final_v3, axis=1)
+            df_prod = df[~df[COL_CAT].str.contains('craft', na=False)].copy()
+            df_prod[['Custo Real', 'Venda Líq', 'Lucro Final', 'Erro', 'Pendência']] = df_prod.apply(calc_final, axis=1)
             
             pc1, pc2, pc3, pc4 = st.columns([1,1,1,1])
-            pf_t = pc1.multiselect("Tiers", sorted(df_prod['Tier'].unique()), default=df_prod['Tier'].unique())
-            pf_e = pc2.multiselect("Encantos", sorted(df_prod['Enc'].unique()), default=df_prod['Enc'].unique())
+            pf_t = pc1.multiselect("Tiers Item", sorted(df_prod['Tier'].unique()), default=df_prod['Tier'].unique())
+            pf_e = pc2.multiselect("Encantos Item", sorted(df_prod['Enc'].unique()), default=df_prod['Enc'].unique())
             pf_err = pc3.selectbox("Status de Dados", ["Todos", "Apenas sem Erros", "Apenas com Erros"])
-            pf_s = pc4.text_input("🔍 Buscar Equipamento")
+            pf_s = pc4.text_input("🔍 Filtrar Equipamento")
             
             p_mask = df_prod['Tier'].isin(pf_t) & df_prod['Enc'].isin(pf_e)
             if pf_err == "Apenas sem Erros": p_mask &= ~df_prod['Erro']
             elif pf_err == "Apenas com Erros": p_mask &= df_prod['Erro']
             if pf_s: p_mask &= df_prod['item_name'].str.contains(pf_s, case=False)
 
-            def highlight_err(row):
-                return ['background-color: #5e0000; color: white' if row.Erro else '' for _ in row]
-
             st.dataframe(
                 df_prod[p_mask].sort_values('ordem_original')[['Foto', 'item_name', 'Custo Real', 'Venda Líq', 'Lucro Final', 'Pendência', 'Erro']]
-                .style.apply(highlight_err, axis=1).hide(['Erro'], axis=1),
-                column_config={
-                    "Foto": st.column_config.ImageColumn(""),
-                    "Custo Real": st.column_config.NumberColumn("Custo Real", format="%d"),
-                    "Venda Líq": st.column_config.NumberColumn("Venda Líq", format="%d"),
-                    "Lucro Final": st.column_config.NumberColumn("Lucro Final", format="%d"),
-                    "Pendência": st.column_config.TextColumn("⚠️ Atenção")
-                },
+                .style.apply(lambda r: ['background-color: #5e0000; color: white' if r.Erro else '' for _ in r], axis=1).hide(['Erro'], axis=1),
+                column_config={"Foto": st.column_config.ImageColumn(""), "Pendência": st.column_config.TextColumn("⚠️ Atenção")},
                 use_container_width=True, hide_index=True, height=600
             )
 
 with tab_logs:
-
-    st.write(f"⚙️ Capas sem diário filtradas. Ordem do CSV respeitada.")
+    st.write("Colunas Normalizadas:", list(df_mapa.columns))
