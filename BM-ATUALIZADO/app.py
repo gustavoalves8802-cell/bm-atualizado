@@ -25,7 +25,7 @@ MAP_LIVROS = {
 @st.cache_data
 def load_mapa():
     try:
-        df = pd.read_csv('MAPA-CRAFT.csv', sep=';', dtype=str)
+        df = pd.read_csv('MAPA-CRAFT.csv', sep=',', dtype=str)
         df.columns = [c.strip() for c in df.columns]
         df['ordem_original'] = range(len(df))
         cols_num = ['LEATHER', 'CLOTH', 'METALBAR', 'PLANKS', 'Porcentagem Diario']
@@ -187,4 +187,5 @@ if btn_sync or 'dados' in st.session_state:
             )
 
 with tab_logs:
+
     st.write(f"⚙️ Capas sem diário filtradas. Ordem do CSV respeitada.")
